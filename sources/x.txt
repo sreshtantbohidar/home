@@ -3,3 +3,4 @@ Key Free Indian IPTV M3U Resources (As of early 2026):
     India Channels Playlist: Use this curated list for roughly 200+ Indian channels: https://iptv-org.github.io/iptv/countries/in.m3u.
     General Entertainment: For broader Asian content including India: https://iptv-org.github.io/iptv/regions/asia.m3u.
     Regional/Local Channels: Access 200+ local stations via: https://iptv-org.github.io/iptv/categories/local.m3u.
+    https://iptvcat.com/india__7
