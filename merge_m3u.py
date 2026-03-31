@@ -5,7 +5,8 @@ URLS = {
     "Odia": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/o.m3u",
     "Music": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/m.m3u",
     "Sports": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
-    "Lifestyle": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/f.m3u",
+    "Hindi Entertainment": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/he.m3u",
+    "Lifestyle": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/f.m3u"
 }
 
 OUTPUT_FILE = "merged.m3u"
