@@ -10,6 +10,7 @@ URLS = {
     "Hindi Entertainment": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/he.m3u",
     "Movies": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/mo.m3u",
     "Kids": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/k.m3u",
+    "Sports": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/spo.m3u",
     "Lifestyle": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/f.m3u"
 }
 
