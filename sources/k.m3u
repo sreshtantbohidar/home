@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 tvg-id="Animax.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Animax-logo.jpg" group-title="Kids", ANIMAX
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Pop_TV_Logo.svg" group-title="Kids", POP
