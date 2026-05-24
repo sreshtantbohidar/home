@@ -5,6 +5,7 @@ import requests
 
 URLS = {
     "Odia": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/o.m3u",
+    "Doordarshan": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/dd.m3u",
     "News": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/n.m3u",
     "Music": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/m.m3u",
     "Hindi Entertainment": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/he.m3u",
