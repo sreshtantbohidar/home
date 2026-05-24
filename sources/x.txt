@@ -39,3 +39,36 @@ https://epghub.xyz/
 11. XUMO M3U Playlist URL:
 https://www.apsattv.com/xumo.m3u
 
+
+Best Free M3U Playlist URLs 2026
+
+Samsung TV Plus M3U Playlist URL:
+https://apsattv.com/ssungusa.m3u
+The Roku Channel M3U Playlist URL:
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u
+Pluto TV M3U Playlist URL:
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u
+LG Channels M3U Playlist URL:
+https://www.apsattv.com/uslg.m3u
+Tubi TV M3U Playlist URL:
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
+Plex TV M3U Playlist URL:
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u
+Vizio TV WatchFree M3U Playlist URL:
+https://www.apsattv.com/vizio.m3u
+DistroTV M3U Playlist URL:
+https://www.apsattv.com/distro.m3u
+Xiaomi M3U Playlist URL:
+https://www.apsattv.com/xiaomi.m3u
+XUMO M3U Playlist URL:
+https://www.apsattv.com/xumo.m3u
+Local Now M3U Playlist URL:
+https://www.apsattv.com/localnow.m3u
+Glotovpa / Free-TV-IPTV M3U Playlist URL:
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+IPTV Org M3U Playlist URL:
+https://iptv-org.github.io/iptv/index.m3u
+Rakuten TV UK M3U Playlist URL:
+https://www.apsattv.com/rakutentv-uk.m3u
+Rakuten TV France M3U Playlist URL:
+https://www.apsattv.com/rakutentv-fr.m3u
