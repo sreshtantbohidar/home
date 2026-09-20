@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AndxplorHD.in@HD",&xplor HD (720p)
-https://mini.allinonereborn.fun/tata.php?id=11619
-
-#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix HD (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
-
-#EXTINF:-1 tvg-id="SonyWah.in@SD",Sony Wah (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8
-
-#EXTINF:-1 tvg-id="SonyMax2.in@SD",Sony Max 2 (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8
-
-#EXTINF:-1 tvg-id="SonyMax.in@SD",Sony Max (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX.m3u8
-
-#EXTINF:-1 tvg-id="SonyMax.in@HD",Sony Max HD (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
-
 #EXTINF:-1 tvg-id="ZeeDilSe.in@HD",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 
@@ -36,18 +18,6 @@ https://jmp2.uk/stvp-IN3800008CX
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" group-title="Movies",BOLLYWOOD 4U
 https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8
 
-#EXTINF:-1 tvg-name="Goldmines" group-title="Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="Movies",GOLDMINES
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",GOLDMINES MOVIES
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Movies",GOLDMINES 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U MOVIES
 https://mix.drmlive.net/mix/xiaomi-66224.m3u8
 
@@ -60,12 +30,6 @@ https://jmp2.uk/stvp-IN3800010SH
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/starvision_512X512_balck.png" group-title="Movies",STAR VISION
 https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",BOLLYWOOD MOVIES
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",XUMO BOLLYWOOD CINEMA
-https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",THE MOVIE CLUB
 https://jmp2.uk/stvp-IN38000072R
@@ -90,10 +54,3 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
-
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD",Zee South Flix (1080p)
-
-#EXTINF:-1 tvg-id="TabbarHits.in@SD",Tabbar Hits (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
