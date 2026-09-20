@@ -51,35 +51,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
 https://jmp2.uk/stvp-GBBD8000016N
 
-#EXTINF:-1 group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",ASTRO BBC WORLD NEWS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
-#https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="News",ABC NEWS AU
 https://c.mjh.nz/abc-news.m3u8
-
-#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC AWAAZ
-https://jio.drmlive.net/jio/bpk-tv/CNBC_Awaaz_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/190.m3u8
-#https://drmlive.in/voot/web/190.m3u8
-#https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8
-
-#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",CNBC BAZAAR
-https://jio.drmlive.net/jio/bpk-tv/CNBC_Bazaar_MNO_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/490.m3u8
-#https://drmlive.in/voot/web/490.m3u8
-
-#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC TV18
-https://jio.drmlive.net/jio/bpk-tv/CNBC_Tv_18_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/489.m3u8
-#https://drmlive.in/voot/web/489.m3u8
-#https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_131636_eng=131600-video=801600.m3u8
-
-#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png?width=400",CNBC TV18 PRIME HD
-https://jio.drmlive.net/jio/bpk-tv/CNBC_Tv18_Prime_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV PROFIT
 #https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
@@ -90,16 +63,3 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-title="Business",ASTRO CNBC 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YCgnqHDUmGLRoj8pEpV7TA", "kid":"w6OPE0BTF1mhype8XYDIEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
-#https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" group-title="Business",ASTRO BLOOMBERG
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
