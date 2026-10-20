@@ -1,0 +1,391 @@
+{
+  "replacements": [
+    {
+      "name": "MBC TV",
+      "url": "https://cdn.pishow.tv/ott/live/1017/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://mumt03.tangotv.in/MBCTV/index.m3u8",
+      "original_name": "MBC TV (576p)"
+    },
+    {
+      "name": "Nandighosha TV",
+      "url": "https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8",
+      "original_name": "Nandighosha TV (720p)"
+    },
+    {
+      "name": "Republic TV",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://vg-republictvlive.akamaized.net/out/v1/vglive-sk-366023/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8",
+      "original_name": "REPUBLIC TV"
+    },
+    {
+      "name": "Music India",
+      "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+      "original_name": "Music India (720p) [Not 24/7]"
+    },
+    {
+      "name": "B4U Music",
+      "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8",
+      "original_name": "B4U Music"
+    },
+    {
+      "name": "9XM",
+      "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+      "original_name": "9XM"
+    },
+    {
+      "name": "9X Tashan",
+      "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+      "original_name": "9X Tashan"
+    },
+    {
+      "name": "History TV18 HD",
+      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+      "original_name": "History TV18 HD (1080p)"
+    },
+    {
+      "name": "Discovery Channel",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://202.70.146.135:8000/play/a05z/index.m3u8",
+      "original_name": "Discovery"
+    },
+    {
+      "name": "Discovery Channel",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8",
+      "original_name": "Discovery"
+    },
+    {
+      "name": "Travelxp HD",
+      "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://103.159.180.34:5001/live/562.m3u8",
+      "original_name": "Travel XP HD"
+    }
+  ],
+  "additions": [
+    {
+      "name": "RedBullTV.at",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "channel": "RedBullTV.at",
+      "category": "Sports",
+      "title": "RedBullTV.at"
+    },
+    {
+      "name": "FIFAPlus.uk",
+      "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "channel": "FIFAPlus.uk",
+      "category": "Sports",
+      "title": "FIFAPlus.uk"
+    },
+    {
+      "name": "Argus News",
+      "url": "https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Odia",
+      "channel": "ArgusNews.in",
+      "title": "Argus News"
+    },
+    {
+      "name": "Prameya News7",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Odia",
+      "channel": "PrameyaNews7.in",
+      "title": "Prameya News7"
+    },
+    {
+      "name": "ABP News",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "ABPNews.in",
+      "title": "ABP News"
+    },
+    {
+      "name": "Republic Bharat",
+      "url": "https://cdn.pishow.tv/ott/live/1053/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "RepublicBharat.in",
+      "title": "Republic Bharat"
+    },
+    {
+      "name": "News9Live",
+      "url": "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "News9Live.in",
+      "title": "News9Live"
+    },
+    {
+      "name": "9X Jalwa",
+      "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "9XJalwa.in",
+      "title": "9X Jalwa"
+    },
+    {
+      "name": "Mastiii",
+      "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "Mastiii.in",
+      "title": "Mastiii"
+    },
+    {
+      "name": "Sangeet Bhojpuri",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "SangeetBhojpuri.in",
+      "title": "Sangeet Bhojpuri"
+    },
+    {
+      "name": "Dangal TV",
+      "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "DangalTV.in",
+      "title": "Dangal TV"
+    },
+    {
+      "name": "Dangal 2",
+      "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "Dangal2.in",
+      "title": "Dangal 2"
+    },
+    {
+      "name": "Shemaroo TV",
+      "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "ShemarooTV.in",
+      "title": "Shemaroo TV"
+    },
+    {
+      "name": "Shemaroo Umang",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "ShemarooUmang.in",
+      "title": "Shemaroo Umang"
+    },
+    {
+      "name": "Manoranjan Movies",
+      "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Movies",
+      "channel": "ManoranjanMovies.in",
+      "title": "Manoranjan Movies"
+    },
+    {
+      "name": "Bhojpuri Cinema",
+      "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Movies",
+      "channel": "BhojpuriCinema.in",
+      "title": "Bhojpuri Cinema"
+    },
+    {
+      "name": "HappyKids",
+      "url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Kids",
+      "channel": "HappyKids.us",
+      "title": "HappyKids"
+    },
+    {
+      "name": "ToonGoggles",
+      "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Kids",
+      "channel": "ToonGoggles.us",
+      "title": "ToonGoggles"
+    },
+    {
+      "name": "FIFA+ Women",
+      "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Sports",
+      "channel": "FIFAPlusWomen.uk",
+      "title": "FIFA+ Women"
+    },
+    {
+      "name": "Motorvision",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Sports",
+      "channel": "Motorvision.de",
+      "title": "Motorvision TV"
+    },
+    {
+      "name": "CGTN Documentary",
+      "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Knowledge",
+      "channel": "CGTNDocumentary.cn",
+      "title": "CGTN Documentary"
+    },
+    {
+      "name": "Documentary+",
+      "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Knowledge",
+      "channel": "DocumentaryPlus.us",
+      "title": "Documentary+ International"
+    },
+    {
+      "name": "Tastemade",
+      "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "Tastemade.us",
+      "title": "Tastemade"
+    },
+    {
+      "name": "Tastemade Travel",
+      "url": "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "TastemadeTravel.us",
+      "title": "Tastemade Travel"
+    },
+    {
+      "name": "GoTraveler",
+      "url": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "GoTraveler.us",
+      "title": "GoTraveler"
+    }
+  ]
+}

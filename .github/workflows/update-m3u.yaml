@@ -1,45 +1,49 @@
 name: Update M3U Playlist
 
 on:
+  push:
+    paths:
+      - 'sources/*.m3u'
+      - 'channel-metadata.json'
+      - 'merge_m3u.py'
+      - 'tests/**'
+      - '.github/workflows/**'
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours (UTC)
+    - cron: "0 */2 * * *"
   workflow_dispatch:
+    inputs:
+      audit_streams:
+        description: 'Run non-destructive stream reachability checks'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
-
+concurrency:
+  group: playlist-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Show current time (debug)
-        run: date
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run merge script
+          python-version: '3.11'
+      - name: Test parser and safe publishing
+        run: python -m unittest discover -s tests -v
+      - name: Build playlist from checked-in sources
         run: python merge_m3u.py
-
-      - name: Commit and push if changed
+      - name: Optional stream audit
+        if: ${{ inputs.audit_streams == true }}
+        run: python tools/audit_playlist.py
+      - name: Commit only actual changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add merged.m3u
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto-update merged playlist"
+          if [ -f reports/stream-health.json ]; then git add reports/stream-health.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Update validated playlist"
             git push
           fi

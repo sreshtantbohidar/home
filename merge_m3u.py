@@ -1,130 +1,114 @@
+"""Build the public playlist deterministically from checked-in sources and metadata."""
+from __future__ import annotations
+import json
 import re
-from datetime import datetime
-import time
-import requests
+from dataclasses import dataclass, field
+from pathlib import Path
+from urllib.parse import urlsplit
 
-URLS = {
-    "Odia": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/o.m3u",
-    "Doordarshan": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/dd.m3u",
-    "News": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/n.m3u",
-    "Music": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/m.m3u",
-    "Hindi Entertainment": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/he.m3u",
-    "Movies": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/mo.m3u",
-    "Kids": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/k.m3u",
-    "Sports": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/spo.m3u",
-    "Knowledge": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/kno.m3u",
-    "Lifestyle": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/sources/f.m3u"
-}
+ROOT = Path(__file__).resolve().parent
+SOURCES = {"Odia": "o.m3u", "Doordarshan": "dd.m3u", "News": "n.m3u",
+           "Music": "m.m3u", "Hindi Entertainment": "he.m3u", "Movies": "mo.m3u",
+           "Kids": "k.m3u", "Sports": "spo.m3u", "Knowledge": "kno.m3u", "Lifestyle": "f.m3u"}
+ATTR = re.compile(r'([\w-]+)="([^"]*)"')
+EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
-OUTPUT_FILE = "merged.m3u"
-SUPPORTED_PROTOCOLS = ("http", "https", "rtmp", "rtsp", "udp")
-OVERWRITE_GROUP_TITLE = True
+@dataclass
+class Entry:
+    name: str
+    url: str
+    attrs: dict = field(default_factory=dict)
+    directives: list = field(default_factory=list)
+    duration: str = "-1"
 
 
-# 🔁 Retry-enabled fetch
-def fetch_m3u(url):
-    for attempt in range(3):
-        try:
-            print(f"Fetching ({attempt+1}/3): {url}")
-            res = requests.get(url, timeout=30)
-            res.raise_for_status()
-            return res.text
-        except Exception as e:
-            print(f"Retry {attempt+1} failed: {e}")
-            time.sleep(2)
-    print(f"❌ Failed to fetch after retries: {url}")
-    return ""
+def normalize(name):
+    name = re.sub(r"\([^)]*\)|\[[^]]*\]", "", name)
+    name = re.sub(r"(?:@(?:HD|SD|4K)|\b(?:HD|SD|FHD|UHD|4K|HDR)\b)", "", name, flags=re.I)
+    return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
-def is_stream_url(line):
-    return line.startswith(SUPPORTED_PROTOCOLS)
+def split_info(line):
+    quoted = False
+    for i, char in enumerate(line):
+        if char == '"': quoted = not quoted
+        elif char == ',' and not quoted: return line[:i], line[i+1:].strip()
+    raise ValueError("EXTINF requires a comma and channel name: " + line[:100])
 
 
-def add_group_title(extinf_line, category):
-    if 'group-title=' in extinf_line:
-        if OVERWRITE_GROUP_TITLE:
-            return re.sub(r'group-title=".*?"', f'group-title="{category}"', extinf_line)
-        return extinf_line
-    else:
-        return extinf_line.replace(
-            "#EXTINF:-1",
-            f'#EXTINF:-1 group-title="{category}"'
-        )
+def stream_url(line):
+    return urlsplit(line.split('|', 1)[0]).scheme.lower() in {"http", "https", "rtmp", "rtsp", "udp"}
 
 
-def merge_playlists():
-    merged = ["#EXTM3U"]
-
-    # 🕒 Force update (ensures commit always happens)
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-    merged.append(f"# Updated: {timestamp}")
-
-    seen_urls = set()
-
-    for category, url in URLS.items():
-        print(f"\n📂 Processing category: {category}")
-
-        content = fetch_m3u(url)
-        if not content:
-            continue
-
-        lines = content.splitlines()
-
-        # Remove header if exists
-        if lines and lines[0].startswith("#EXTM3U"):
-            lines = lines[1:]
-
-        i = 0
-        while i < len(lines):
-            line = lines[i].strip()
-
-            # =========================
-            # CASE 1: EXTINF block
-            # =========================
-            if line.startswith("#EXTINF"):
-                extinf = add_group_title(line, category)
-                block_lines = [extinf]
-
-                i += 1
-                while i < len(lines):
-                    next_line = lines[i].strip()
-
-                    if is_stream_url(next_line):
-                        if next_line not in seen_urls:
-                            merged.extend(block_lines)
-                            merged.append(next_line)
-                            seen_urls.add(next_line)
-                        i += 1
-                        break
-
-                    elif next_line.startswith("#"):
-                        block_lines.append(next_line)
-                        i += 1
-                    else:
-                        i += 1
-
-                continue
-
-            # =========================
-            # CASE 2: URL without EXTINF
-            # =========================
-            elif is_stream_url(line):
-                if line not in seen_urls:
-                    merged.append(f'#EXTINF:-1 group-title="{category}",Unknown Channel')
-                    merged.append(line)
-                    seen_urls.add(line)
-
-            i += 1
-
-        merged.append("")  # spacing between categories
-
-    # Write file
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(merged))
-
-    print(f"\n✅ Merged playlist written to {OUTPUT_FILE}")
-    print(f"📊 Total unique streams: {len(seen_urls)}")
+def parse(content, category=""):
+    result, pending, directives = [], None, []
+    for number, raw in enumerate(content.lstrip('\ufeff').splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith('#EXTM3U'): continue
+        if line.startswith('#EXTINF:'):
+            if pending is not None: raise ValueError(f"Line {number}: previous channel has no stream URL")
+            pending, directives = line, []
+        elif stream_url(line):
+            if pending is None: raise ValueError(f"Line {number}: URL without EXTINF")
+            info, name = split_info(pending)
+            attrs = dict(ATTR.findall(info))
+            if category: attrs['group-title'] = category
+            result.append(Entry(name, line, attrs, directives, info.split(':', 1)[1].split()[0]))
+            pending, directives = None, []
+        elif pending is not None:
+            if line.startswith('#'): directives.append(line)
+            else: pending += ' ' + line  # continued EXTINF attributes / name
+    if pending is not None: raise ValueError("Last channel has no stream URL")
+    return result
 
 
-if __name__ == "__main__":
+def all_sources(root=ROOT):
+    entries = []
+    for category, filename in SOURCES.items():
+        content = (root / 'sources' / filename).read_text(encoding='utf-8-sig')
+        if not content.strip().startswith('#EXTM3U'): raise ValueError(f"Invalid source: {filename}")
+        entries.extend(parse(content, category))
+    return entries
+
+
+def enrich(entry, metadata):
+    key = entry.attrs.get('tvg-id', '').split('@')[0]
+    info = metadata.get('by_id', {}).get(key, {})
+    named = metadata.get('by_name', {}).get(entry.name, {})
+    # A name-specific mapping preserves HD/SD guide variants of one channel.
+    entry.attrs.update(info)
+    entry.attrs.update(named)
+    entry.attrs.setdefault('tvg-name', re.sub(r"\s*\([^)]*\)|\s*\[[^]]*\]", "", entry.name).strip())
+    return entry
+
+
+def render(entries):
+    lines = [f'#EXTM3U x-tvg-url="{EPG_URL}" url-tvg="{EPG_URL}"']
+    seen = set()
+    for entry in entries:
+        if entry.url in seen: continue
+        seen.add(entry.url)
+        attrs = ' '.join(f'{key}="{str(value).replace(chr(34), chr(39))}"' for key, value in sorted(entry.attrs.items()))
+        lines.append(f'#EXTINF:{entry.duration} {attrs},{entry.name}')
+        lines.extend(entry.directives)
+        lines.append(entry.url)
+    return '\n'.join(lines) + '\n'
+
+
+def merge_playlists(root=ROOT):
+    metadata_path = root / 'channel-metadata.json'
+    metadata = json.loads(metadata_path.read_text(encoding='utf-8')) if metadata_path.exists() else {}
+    entries = [enrich(entry, metadata) for entry in all_sources(root)]
+    output = render(entries)
+    if not parse(output): raise ValueError("Refusing to publish an empty playlist")
+    target = root / 'merged.m3u'
+    if not target.exists() or target.read_text(encoding='utf-8') != output:
+        temporary = target.with_suffix('.m3u.tmp')
+        temporary.write_text(output, encoding='utf-8', newline='\n')
+        temporary.replace(target)
+    print(f"Merged {len(parse(output))} unique streams ({len(entries)-len(parse(output))} exact duplicates removed)")
+    return output
+
+
+if __name__ == '__main__':
     merge_playlists()

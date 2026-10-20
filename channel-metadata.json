@@ -1,0 +1,898 @@
+{
+  "by_id": {},
+  "by_name": {
+    "DD Odia (504p)": {
+      "tvg-name": "DD Odia",
+      "tvg-id": "DD.Oriya.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDOdia.in.webp"
+    },
+    "Odisha TV (720p)": {
+      "tvg-name": "Odisha TV",
+      "tvg-id": "OTV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/OdishaTV.in.webp"
+    },
+    "Alankar TV (720p)": {
+      "tvg-name": "Alankar TV",
+      "tvg-id": "Alankar.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AlankarTV.in.webp"
+    },
+    "Prarthana TV (720p)": {
+      "tvg-name": "Prarthana TV",
+      "tvg-id": "Prarthana.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PrarthanaTV.in.webp"
+    },
+    "Tarang Music (720p)": {
+      "tvg-name": "Tarang Music",
+      "tvg-id": "TarangMusic.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TarangMusic.in.webp"
+    },
+    "Tarang TV (720p)": {
+      "tvg-name": "Tarang TV",
+      "tvg-id": "TarangTV.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TarangTV.in.webp"
+    },
+    "News18 Odia (1080p)": {
+      "tvg-name": "News18 Odia",
+      "tvg-id": "News18.Oriya.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News18Odia.in.webp"
+    },
+    "Bada Khabar (432p)": {
+      "tvg-name": "Bada Khabar",
+      "tvg-id": "Badakhabar.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BadaKhabar.in.webp"
+    },
+    "Kalinga TV (720p)": {
+      "tvg-name": "Kalinga TV",
+      "tvg-id": "Kalinga.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KalingaTV.in.webp"
+    },
+    "MBC TV (576p)": {
+      "tvg-name": "MBC TV",
+      "tvg-id": "MBC.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MBCTV.in.webp"
+    },
+    "Nandighosha TV (720p)": {
+      "tvg-name": "Nandighosha TV",
+      "tvg-id": "Nandighosha.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NandighoshaTV.in.webp"
+    },
+    "Argus News": {
+      "tvg-name": "Argus News",
+      "tvg-id": "Argus.News.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ArgusNews.in.webp"
+    },
+    "Prameya News7": {
+      "tvg-name": "Prameya News7",
+      "tvg-id": "Prameya.News.7.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PrameyaNews7.in.webp"
+    },
+    "DD Arun Prabha (360p)": {
+      "tvg-name": "DD Arun Prabha",
+      "tvg-id": "DD.Arunprabha.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDArunPrabha.in.webp"
+    },
+    "DD Assam (504p)": {
+      "tvg-name": "DD Assam",
+      "tvg-id": "DDAssam.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDAssam.in.webp"
+    },
+    "DD Bangla (504p)": {
+      "tvg-name": "DD Bangla",
+      "tvg-id": "DD.Bangla.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBangla.in.webp"
+    },
+    "DD Bharati (504p)": {
+      "tvg-name": "DD Bharati",
+      "tvg-id": "DD.bharati.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBharati.in.webp"
+    },
+    "DD Bihar (504p)": {
+      "tvg-name": "DD Bihar",
+      "tvg-id": "DD.Bihar.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBihar.in.webp"
+    },
+    "DD Chandana (504p)": {
+      "tvg-name": "DD Chandana",
+      "tvg-id": "DD9.chandana.(kannada).in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDChandana.in.webp"
+    },
+    "DD Chhattisgarh (504p)": {
+      "tvg-name": "DD Chhattisgarh",
+      "tvg-id": "DDChhattisgarh.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDChhattisgarh.in.webp"
+    },
+    "DD Girnar (504p)": {
+      "tvg-name": "DD Girnar",
+      "tvg-id": "DD.Girnar.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDGirnar.in.webp"
+    },
+    "DD Goa (504p)": {
+      "tvg-name": "DD Goa",
+      "tvg-id": "DDGoa.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDGoa.in.webp"
+    },
+    "DD Haryana (504p)": {
+      "tvg-name": "DD Haryana",
+      "tvg-id": "DDHaryana.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDHaryana.in.webp"
+    },
+    "DD Himachal Pradesh (504p)": {
+      "tvg-name": "DD Himachal Pradesh",
+      "tvg-id": "DDHimachalPradesh.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDHimachalPradesh.in.webp"
+    },
+    "DD India (1080p)": {
+      "tvg-name": "DD India",
+      "tvg-id": "DD.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDIndia.in.webp"
+    },
+    "DD Jharkhand (504p)": {
+      "tvg-name": "DD Jharkhand",
+      "tvg-id": "DDJharkhand.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDJharkhand.in.webp"
+    },
+    "DD Kashir (504p)": {
+      "tvg-name": "DD Kashir",
+      "tvg-id": "DD.Kashir.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDKashir.in.webp"
+    },
+    "DD Kisan (504p)": {
+      "tvg-name": "DD Kisan",
+      "tvg-id": "DD.Kisan.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDKisan.in.webp"
+    },
+    "DD Madhya Pradesh (504p)": {
+      "tvg-name": "DD Madhya Pradesh",
+      "tvg-id": "DD.Madhya.Pradesh.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMadhyaPradesh.in.webp"
+    },
+    "DD Malayalam (504p)": {
+      "tvg-name": "DD Malayalam",
+      "tvg-id": "DD.Malayalam.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMalayalam.in.webp"
+    },
+    "DD Manipur (504p)": {
+      "tvg-name": "DD Manipur",
+      "tvg-id": "DDManipur.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDManipur.in.webp"
+    },
+    "DD Meghalaya (504p)": {
+      "tvg-name": "DD Meghalaya",
+      "tvg-id": "DDMeghalaya.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMeghalaya.in.webp"
+    },
+    "DD Mizoram (504p)": {
+      "tvg-name": "DD Mizoram",
+      "tvg-id": "DDMizoram.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMizoram.in.webp"
+    },
+    "DD Nagaland (504p)": {
+      "tvg-name": "DD Nagaland",
+      "tvg-id": "DDNagaland.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNagaland.in.webp"
+    },
+    "DD National HD (1080p)": {
+      "tvg-name": "DD National",
+      "tvg-id": "DD.National.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNational.in.webp"
+    },
+    "DD News HD (1080p)": {
+      "tvg-name": "DD News",
+      "tvg-id": "DD.News.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNews.in.webp"
+    },
+    "DD Punjabi (504p)": {
+      "tvg-name": "DD Punjabi",
+      "tvg-id": "DD.Punjabi.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDPunjabi.in.webp"
+    },
+    "DD Rajasthan (504p)": {
+      "tvg-name": "DD Rajasthan",
+      "tvg-id": "DD.Rajasthan.(Jaipur).in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDRajasthan.in.webp"
+    },
+    "DD Sahyadri (504p)": {
+      "tvg-name": "DD Sahyadri",
+      "tvg-id": "DD.Sahayadri.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSahyadri.in.webp"
+    },
+    "DD Saptagiri (504p)": {
+      "tvg-name": "DD Saptagiri",
+      "tvg-id": "DD.Saptagiri.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSaptagiri.in.webp"
+    },
+    "DD Sports SD (1080p)": {
+      "tvg-name": "DD Sports",
+      "tvg-id": "DD.Sports.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSports.in.webp"
+    },
+    "DD Tamil (1080p)": {
+      "tvg-name": "DD Tamil",
+      "tvg-id": "DD5.Podhigai.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDTamil.in.webp"
+    },
+    "DD Tripura (504p)": {
+      "tvg-name": "DD Tripura",
+      "tvg-id": "DDTripura.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDTripura.in.webp"
+    },
+    "DD Urdu (504p)": {
+      "tvg-name": "DD Urdu",
+      "tvg-id": "DD.urdu.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUrdu.in.webp"
+    },
+    "DD Uttar Pradesh (504p)": {
+      "tvg-name": "DD Uttar Pradesh",
+      "tvg-id": "DD.Uttar.Pradesh.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUttarPradesh.in.webp"
+    },
+    "DD Uttarakhand (504p)": {
+      "tvg-name": "DD Uttarakhand",
+      "tvg-id": "DDUttarakhand.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUttarakhand.in.webp"
+    },
+    "DD Yadagiri (504p)": {
+      "tvg-name": "DD Yadagiri",
+      "tvg-id": "DDYadagiri.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDYadagiri.in.webp"
+    },
+    "INDIA TV (1080p)": {
+      "tvg-name": "India TV",
+      "tvg-id": "India.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IndiaTV.in.webp"
+    },
+    "Zee News (1080p)": {
+      "tvg-name": "Zee News",
+      "tvg-id": "Zee.News.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeNews.in.webp"
+    },
+    "NDTV INDIA": {
+      "tvg-name": "NDTV India",
+      "tvg-id": "NDTV.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVIndia.in.webp"
+    },
+    "AAJ TAK HD": {
+      "tvg-name": "Aaj Tak",
+      "tvg-id": "Aaj.Tak.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AajTak.in.webp"
+    },
+    "Z NEWS": {
+      "tvg-name": "Zee News",
+      "tvg-id": "Zee.News.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeNews.in.webp"
+    },
+    "NEWS18 INDIA": {
+      "tvg-name": "News18 India",
+      "tvg-id": "News.18.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News18India.in.webp"
+    },
+    "NDTV 24x7": {
+      "tvg-name": "NDTV 24x7",
+      "tvg-id": "NDTV.24x7.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTV24x7.in.webp"
+    },
+    "Zee Bharat (720p)": {
+      "tvg-name": "Zee Bharat",
+      "tvg-id": "Zee.Bharat.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeBharat.in.webp"
+    },
+    "INDIA TODAY": {
+      "tvg-name": "India Today",
+      "tvg-id": "India.Today.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IndiaToday.in.webp"
+    },
+    "CNN NEWS18": {
+      "tvg-name": "CNN News 18",
+      "tvg-id": "CNN.NEWS.18.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CNNNews18.in.webp"
+    },
+    "REPUBLIC TV": {
+      "tvg-name": "Republic TV",
+      "tvg-id": "Republic.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RepublicTV.in.webp"
+    },
+    "WION (1080p)": {
+      "tvg-name": "WION",
+      "tvg-id": "Wion.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp"
+    },
+    "WION (720p)": {
+      "tvg-name": "WION",
+      "tvg-id": "Wion.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp"
+    },
+    "WION (Adaptive) (1080p)": {
+      "tvg-name": "WION",
+      "tvg-id": "Wion.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp"
+    },
+    "LiveNOW from FOX": {
+      "tvg-name": "LiveNOW from FOX",
+      "tvg-id": "LiveNOWfromFOX.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LiveNOWfromFOX.us.webp"
+    },
+    "DW NEWS": {
+      "tvg-name": "DW",
+      "tvg-id": "dw.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DW.de.webp"
+    },
+    "RUSSIA TODAY": {
+      "tvg-name": "RT",
+      "tvg-id": "RT.ru@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RT.ru.webp"
+    },
+    "CNN": {
+      "tvg-name": "CNN International",
+      "tvg-id": "CNN.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CNNInternational.us.webp"
+    },
+    "ABC NEWS AU": {
+      "tvg-name": "ABC News",
+      "tvg-id": "ABC.News.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ABCNews.au.webp"
+    },
+    "NDTV PROFIT": {
+      "tvg-name": "NDTV Profit",
+      "tvg-id": "NDTV.Profit.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVProfit.in.webp"
+    },
+    "ET NOW": {
+      "tvg-name": "ET Now",
+      "tvg-id": "ET.Now.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ETNow.in.webp"
+    },
+    "YAHOO FINANCE": {
+      "tvg-name": "Yahoo! Finance",
+      "tvg-id": "YahooFinance.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/YahooFinance.us.webp"
+    },
+    "ABP News": {
+      "tvg-name": "ABP News",
+      "tvg-id": "ABP.News.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ABPNews.in.webp"
+    },
+    "Republic Bharat": {
+      "tvg-name": "Republic Bharat",
+      "tvg-id": "Republic.Bharat.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RepublicBharat.in.webp"
+    },
+    "News9Live": {
+      "tvg-name": "News9Live",
+      "tvg-id": "News.9.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News9Live.in.webp"
+    },
+    "Shemaroo Filmi Gaane (1080p)": {
+      "tvg-name": "Shemaroo Filmi Gaane",
+      "tvg-id": "Shemaroo.Filmy.Gaane.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooFilmiGaane.in.webp"
+    },
+    "YRF Music": {
+      "tvg-name": "YRF Music",
+      "tvg-id": "YRF.Music.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/YRFMusic.in.webp"
+    },
+    "Hindi Hits HD": {
+      "tvg-name": "Hindi Hits",
+      "tvg-id": "HindiHits.in@HD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HindiHits.in.webp"
+    },
+    "SAGA MUSIC HD": {
+      "tvg-id": "Saga.Music.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/sagamusichd.webp"
+    },
+    "Balle Balle (720p)": {
+      "tvg-name": "Balle Balle",
+      "tvg-id": "BalleBalle.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BalleBalle.in.webp"
+    },
+    "MUSIC INDIA HD": {
+      "tvg-name": "Music India",
+      "tvg-id": "Music.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp"
+    },
+    "Music India (720p) [Not 24/7]": {
+      "tvg-name": "Music India",
+      "tvg-id": "Music.India.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp"
+    },
+    "B4U MUSIC": {
+      "tvg-name": "B4U Music",
+      "tvg-id": "B4U.Music.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp"
+    },
+    "B4U Music": {
+      "tvg-name": "B4U Music",
+      "tvg-id": "B4U.Music.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp"
+    },
+    "9XM": {
+      "tvg-name": "9XM",
+      "tvg-id": "9XM.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XM.in.webp"
+    },
+    "9X Tashan": {
+      "tvg-name": "9X Tashan",
+      "tvg-id": "9X.Tashan.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XTashan.in.webp"
+    },
+    "Desi Channel (720p)": {
+      "tvg-name": "Desi Channel",
+      "tvg-id": "Desi.Channel.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DesiChannel.in.webp"
+    },
+    "Pitaara (720p)": {
+      "tvg-name": "Pitaara",
+      "tvg-id": "Pitaara.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pitaara.in.webp"
+    },
+    "JOO MUSIC": {
+      "tvg-name": "JooMusic",
+      "tvg-id": "JooMusic.pk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/JooMusic.pk.webp"
+    },
+    "9X Jhakaas (1080p)": {
+      "tvg-name": "9X Jhakaas",
+      "tvg-id": "9x.Jhakaas.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJhakaas.in.webp"
+    },
+    "9X Tashan (1080p)": {
+      "tvg-name": "9X Tashan",
+      "tvg-id": "9X.Tashan.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XTashan.in.webp"
+    },
+    "9XM (1080p)": {
+      "tvg-name": "9XM",
+      "tvg-id": "9XM.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XM.in.webp"
+    },
+    "NOW 70s": {
+      "tvg-name": "Now 70s",
+      "tvg-id": "Now70s.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now70s.uk.webp"
+    },
+    "NOW 80s": {
+      "tvg-name": "Now 80s",
+      "tvg-id": "Now80s.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now80s.uk.webp"
+    },
+    "NOW 90s": {
+      "tvg-name": "NOW Rock",
+      "tvg-id": "NOWRock.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NOWRock.uk.webp"
+    },
+    "VEVO HIP HOP & R&B": {
+      "tvg-name": "Vevo Hip Hop",
+      "tvg-id": "VevoHipHop.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp"
+    },
+    "RETRO": {
+      "tvg-name": "Retro",
+      "tvg-id": "Retro.ru@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Retro.ru.webp"
+    },
+    "9X Jalwa": {
+      "tvg-name": "9X Jalwa",
+      "tvg-id": "9X.Jalwa.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJalwa.in.webp"
+    },
+    "Mastiii": {
+      "tvg-name": "Mastiii",
+      "tvg-id": "Mastiii.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Mastiii.in.webp"
+    },
+    "Sangeet Bhojpuri": {
+      "tvg-name": "Sangeet Bhojpuri",
+      "tvg-id": "Sangeet.Bhojpuri.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SangeetBhojpuri.in.webp"
+    },
+    "Sony SAB HD (1080p) [Geo-blocked]": {
+      "tvg-name": "Sony SAB",
+      "tvg-id": "Sony.SAB.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp"
+    },
+    "Nazara (1080p)": {
+      "tvg-name": "Epic Bharat",
+      "tvg-id": "NAZARA.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicBharat.in.webp"
+    },
+    "Sony Sab HD": {
+      "tvg-name": "Sony SAB",
+      "tvg-id": "Sony.SAB.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp"
+    },
+    "Colors HD": {
+      "tvg-name": "Colors",
+      "tvg-id": "Colors.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Colors.in.webp"
+    },
+    "Colors Cineplex": {
+      "tvg-name": "Colors Cineplex",
+      "tvg-id": "Colors.Cineplex.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ColorsCineplex.in.webp"
+    },
+    "Star Plus HD": {
+      "tvg-name": "StarPlus",
+      "tvg-id": "Star.Plus.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarPlus.in.webp"
+    },
+    "Star Gold HD": {
+      "tvg-name": "Star Gold",
+      "tvg-id": "Star.Gold.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGold.in.webp"
+    },
+    "Star Gold Select": {
+      "tvg-name": "Star Gold Select",
+      "tvg-id": "Star.Gold.Select.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGoldSelect.in.webp"
+    },
+    "& Tv": {
+      "tvg-name": "&TV",
+      "tvg-id": "&TV.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AndTV.in.webp"
+    },
+    "Zee Tv": {
+      "tvg-name": "Zee TV",
+      "tvg-id": "Zee.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeTV.in.webp"
+    },
+    "Zee Cinema HD": {
+      "tvg-name": "Zee Cinema",
+      "tvg-id": "Zee.Cinema.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCinema.in.webp"
+    },
+    "Zee Bollywood": {
+      "tvg-name": "Zee Bollywood",
+      "tvg-id": "Zee.Bollywood.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeBollywood.in.webp"
+    },
+    "HUM TV": {
+      "tvg-name": "Hum TV",
+      "tvg-id": "HumTV.pk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HumTV.pk.webp"
+    },
+    "Sony Television": {
+      "tvg-name": "Sony Entertainment Television",
+      "tvg-id": "Sony.Entertainment.Television.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyEntertainmentTelevision.in.webp"
+    },
+    "Sony Television HD": {
+      "tvg-name": "Sony Entertainment Television",
+      "tvg-id": "SET.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyEntertainmentTelevision.in.webp"
+    },
+    "Sony Max": {
+      "tvg-name": "Sony Max",
+      "tvg-id": "Sony.Max.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp"
+    },
+    "Sony Max HD": {
+      "tvg-name": "Sony Max",
+      "tvg-id": "Sony.Max.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp"
+    },
+    "Sony Max 2": {
+      "tvg-name": "Sony Max 2",
+      "tvg-id": "Sony.Max.2.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax2.in.webp"
+    },
+    "B4U Movie": {
+      "tvg-name": "B4U Movies",
+      "tvg-id": "B4U.Movies.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp"
+    },
+    "Gold Mines": {
+      "tvg-name": "Goldmines",
+      "tvg-id": "Goldmines.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp"
+    },
+    "Gold Mines Movie": {
+      "tvg-name": "Goldmines",
+      "tvg-id": "Goldmines.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp"
+    },
+    "Gold Mines Bollywood": {
+      "tvg-name": "Goldmines Bollywood",
+      "tvg-id": "Goldmines.Bollywood.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesBollywood.in.webp"
+    },
+    "Dangal TV": {
+      "tvg-name": "Dangal TV",
+      "tvg-id": "Dangal.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DangalTV.in.webp"
+    },
+    "Dangal 2": {
+      "tvg-name": "Dangal 2",
+      "tvg-id": "Dangal.2.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Dangal2.in.webp"
+    },
+    "Shemaroo TV": {
+      "tvg-name": "Shemaroo TV",
+      "tvg-id": "Shemaroo.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooTV.in.webp"
+    },
+    "Shemaroo Umang": {
+      "tvg-name": "Shemaroo Umang",
+      "tvg-id": "Shemaroo.Umang.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooUmang.in.webp"
+    },
+    "Zee Dil Se (1080p)": {
+      "tvg-name": "Zee Dil Se",
+      "tvg-id": "ZeeDilSe.in@HD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeDilSe.in.webp"
+    },
+    "Zee Cine Classic (1080p)": {
+      "tvg-name": "Zee Cine Classic",
+      "tvg-id": "ZeeCineClassic.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCineClassic.in.webp"
+    },
+    "SOUTH STATION": {
+      "tvg-name": "South Station",
+      "tvg-id": "SouthStation.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SouthStation.in.webp"
+    },
+    "B4U MOVIES": {
+      "tvg-name": "B4U Movies",
+      "tvg-id": "B4U.Movies.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp"
+    },
+    "B4U KADAK": {
+      "tvg-name": "B4U Kadak",
+      "tvg-id": "B4U.Kadak.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UKadak.in.webp"
+    },
+    "THE MOVIE CLUB": {
+      "tvg-name": "The Movie Club",
+      "tvg-id": "TheMovieClub.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheMovieClub.in.webp"
+    },
+    "NH BOLLYFLIX": {
+      "tvg-name": "NH BollyFlix",
+      "tvg-id": "NHBollyFlix.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyFlix.in.webp"
+    },
+    "ACTION HOLLYWOOD MOVIES": {
+      "tvg-name": "Action Hollywood Movies",
+      "tvg-id": "ActionHollywoodMovies.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp"
+    },
+    "Shemaro Bollywood": {
+      "tvg-name": "Shemaroo Bollywood",
+      "tvg-id": "Shemaroo.Bollywood.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooBollywood.us.webp"
+    },
+    "Joo Music": {
+      "tvg-name": "JooMusic",
+      "tvg-id": "JooMusic.pk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/JooMusic.pk.webp"
+    },
+    "Action Hollywood Movies": {
+      "tvg-name": "Action Hollywood Movies",
+      "tvg-id": "ActionHollywoodMovies.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp"
+    },
+    "My Cinema": {
+      "tvg-name": "My Cinema",
+      "tvg-id": "MyCinema.id@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyCinema.id.webp"
+    },
+    "Zee Horror Nights (1080p)": {
+      "tvg-name": "Zee Horror Nights",
+      "tvg-id": "ZeeHorrorNights.in@HD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeHorrorNights.in.webp"
+    },
+    "Manoranjan Movies": {
+      "tvg-name": "Manoranjan Movies",
+      "tvg-id": "ManoranjanMovies.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanMovies.in.webp"
+    },
+    "Bhojpuri Cinema": {
+      "tvg-name": "Bhojpuri Cinema",
+      "tvg-id": "Bhojpuri.Cinema.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BhojpuriCinema.in.webp"
+    },
+    "Sony Yay! (1080p) [Geo-blocked]": {
+      "tvg-name": "Sony Yay!",
+      "tvg-id": "SONY.YAY!.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp"
+    },
+    "ANIMAX": {
+      "tvg-name": "Animax",
+      "tvg-id": "Animax.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp"
+    },
+    "POP": {
+      "tvg-name": "Pop",
+      "tvg-id": "Pop.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pop.uk.webp"
+    },
+    "Sony YaY": {
+      "tvg-name": "Sony Yay!",
+      "tvg-id": "SONY.YAY!.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp"
+    },
+    "Cartoon Network HD": {
+      "tvg-name": "Cartoon Network",
+      "tvg-id": "Cartoon.Network.HD+.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp"
+    },
+    "Cartoon Network": {
+      "tvg-name": "Cartoon Network",
+      "tvg-id": "Cartoon.Network.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp"
+    },
+    "Discovery Kids": {
+      "tvg-name": "Discovery Kids",
+      "tvg-id": "Discovery.Kids.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DiscoveryKids.in.webp"
+    },
+    "Pogo": {
+      "tvg-name": "Pogo",
+      "tvg-id": "Pogo.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pogo.in.webp"
+    },
+    "HappyKids": {
+      "tvg-name": "HappyKids",
+      "tvg-id": "HappyKids.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HappyKids.us.webp"
+    },
+    "ToonGoggles": {
+      "tvg-name": "ToonGoggles",
+      "tvg-id": "ToonGoggles.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ToonGoggles.us.webp"
+    },
+    "Red Bull TV": {
+      "tvg-name": "Red Bull TV",
+      "tvg-id": "Red.Bull.TV.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RedBullTV.at.webp"
+    },
+    "FIFA+": {
+      "tvg-name": "FIFA+",
+      "tvg-id": "FIFAPlus.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FIFAPlus.uk.webp"
+    },
+    "FIFA+ Women": {
+      "tvg-name": "FIFA+ Women",
+      "tvg-id": "FIFAPlusWomen.uk@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FIFAPlusWomen.uk.webp"
+    },
+    "Motorvision": {
+      "tvg-name": "Motorvision",
+      "tvg-id": "Motorvision.de@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Motorvision.de.webp"
+    },
+    "Travelxp 4K HDR (2160p) [Geo-blocked]": {
+      "tvg-name": "Travelxp",
+      "tvg-id": "Travelxp.in@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp"
+    },
+    "Travelxp HD (1080p) [Geo-blocked]": {
+      "tvg-name": "Travelxp",
+      "tvg-id": "Travelxp.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp"
+    },
+    "History TV18 HD (1080p) [Geo-blocked]": {
+      "tvg-name": "History TV18",
+      "tvg-id": "History.TV18.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HistoryTV18.in.webp"
+    },
+    "History TV18 HD (1080p)": {
+      "tvg-name": "History TV18",
+      "tvg-id": "History.TV18.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HistoryTV18.in.webp"
+    },
+    "History TV18 HD Hindi (1080p) [Geo-blocked]": {
+      "tvg-name": "History TV18",
+      "tvg-id": "History.TV18.HD.Hindi.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HistoryTV18.in.webp"
+    },
+    "Animal Planet HD": {
+      "tvg-name": "Animal Planet",
+      "tvg-id": "Animal.Planet.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AnimalPlanet.in.webp"
+    },
+    "Discovery": {
+      "tvg-name": "Discovery Channel",
+      "tvg-id": "Discovery.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DiscoveryChannel.in.webp"
+    },
+    "National Wild HD": {
+      "tvg-name": "National Geographic Wild",
+      "tvg-id": "Nat.Geo.Wild.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NationalGeographicWild.in.webp"
+    },
+    "Love Natural": {
+      "tvg-name": "Love Nature",
+      "tvg-id": "LoveNature.ca@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LoveNature.ca.webp"
+    },
+    "Sony BBC Earth": {
+      "tvg-name": "Sony BBC Earth",
+      "tvg-id": "SONY.BBC.Earth.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyBBCEarth.in.webp"
+    },
+    "National Geographic HD": {
+      "tvg-name": "National Geographic",
+      "tvg-id": "National.Geographic.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NationalGeographic.in.webp"
+    },
+    "BBC Earth": {
+      "tvg-name": "Sony BBC Earth",
+      "tvg-id": "SONY.BBC.Earth.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyBBCEarth.in.webp"
+    },
+    "Travel XP HD": {
+      "tvg-name": "Travelxp",
+      "tvg-id": "Travel.XP.HD.in",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp"
+    },
+    "CGTN Documentary": {
+      "tvg-name": "CGTN Documentary",
+      "tvg-id": "CGTNDocumentary.cn@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CGTNDocumentary.cn.webp"
+    },
+    "Documentary+": {
+      "tvg-name": "Documentary+",
+      "tvg-id": "DocumentaryPlus.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DocumentaryPlus.us.webp"
+    },
+    "FashionTV Paris L'Original (1080p)": {
+      "tvg-name": "FashionTV Paris L'Original",
+      "tvg-id": "FashionTVParisLOriginal.fr@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVParisLOriginal.fr.webp"
+    },
+    "FashionTV Secrets (1080p)": {
+      "tvg-name": "FashionTV Secrets",
+      "tvg-id": "FashionTVSecrets.fr@HD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVSecrets.fr.webp"
+    },
+    "Global Fashion Channel (1080p)": {
+      "tvg-name": "Global Fashion Channel",
+      "tvg-id": "GlobalFashionChannel.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GlobalFashionChannel.us.webp"
+    },
+    "Kaloopy (720p)": {
+      "tvg-name": "Kaloopy TV",
+      "tvg-id": "KaloopyTV.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KaloopyTV.us.webp"
+    },
+    "IN FAST": {
+      "tvg-name": "INFAST",
+      "tvg-id": "INFAST.nl@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/INFAST.nl.webp"
+    },
+    "Tastemade": {
+      "tvg-name": "Tastemade",
+      "tvg-id": "Tastemade.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Tastemade.us.webp"
+    },
+    "Tastemade Travel": {
+      "tvg-name": "Tastemade Travel",
+      "tvg-id": "TastemadeTravel.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TastemadeTravel.us.webp"
+    },
+    "GoTraveler": {
+      "tvg-name": "GoTraveler",
+      "tvg-id": "GoTraveler.us@SD",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoTraveler.us.webp"
+    },
+    "MUSIC RELOAD": {},
+    "Hindi Movie Classic 24": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hindimovieclassic24.webp"
+    },
+    "HINDI CINEMA": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hindimovieclassic24.webp"
+    },
+    "BOLLYWOOD 4U": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/bollywood4u.webp"
+    },
+    "HOLLYWOOD DESI": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hollywooddesi.webp"
+    },
+    "STAR VISION": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/starvision.webp"
+    },
+    "PLAYBOY": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PlayboyTV.webp"
+    }
+  }
+}

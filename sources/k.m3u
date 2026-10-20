@@ -1,19 +1,21 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SonyYay.in@SD",Sony Yay! (1080p) [Geo-blocked]
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 group-title="Kids" tvg-id="SONY.YAY!.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp" tvg-name="Sony Yay!",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
-#EXTINF:-1 tvg-id="Animax.asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Animax-logo.jpg" group-title="Kids", ANIMAX
+#EXTINF:-1 group-title="Kids" tvg-id="Animax.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp" tvg-name="Animax",ANIMAX
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Pop_TV_Logo.svg" group-title="Kids", POP
+#EXTINF:-1 group-title="Kids" tvg-id="Pop.uk@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pop.uk.webp" tvg-name="Pop",POP
 https://jmp2.uk/stvp-GBBC430000128
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png",Sony YaY
+#EXTINF:-1 group-title="Kids" tvg-id="SONY.YAY!.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp" tvg-name="Sony Yay!",Sony YaY
 https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network HD
+#EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.HD+.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp" tvg-name="Cartoon Network",Cartoon Network HD
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network
+#EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp" tvg-name="Cartoon Network",Cartoon Network
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids
+#EXTINF:-1 group-title="Kids" tvg-id="Discovery.Kids.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DiscoveryKids.in.webp" tvg-name="Discovery Kids",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",Pogo
+#EXTINF:-1 group-title="Kids" tvg-id="Pogo.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pogo.in.webp" tvg-name="Pogo",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="HappyKids.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HappyKids.us.webp" tvg-name="HappyKids",HappyKids
+https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="ToonGoggles.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ToonGoggles.us.webp" tvg-name="ToonGoggles",ToonGoggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8

@@ -1,0 +1,1537 @@
+{
+  "checked_at": "2026-10-20T07:52:05.996490+00:00",
+  "note": "One network vantage point; transient or geo-blocked errors do not prove permanent channel failure. Media manifests checked, not a full playback test.",
+  "channels": [
+    {
+      "name": "DD Odia (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8",
+      "epg_id": "DD.Oriya.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDOdia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Odisha TV (720p)",
+      "url": "https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8",
+      "epg_id": "OTV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/OdishaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Alankar TV (720p)",
+      "url": "https://livetv.tarangplus.in/alankar-origin/live/alankar-origin/live_720p/chunks.m3u8",
+      "epg_id": "Alankar.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AlankarTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Prarthana TV (720p)",
+      "url": "https://livetv.tarangplus.in/prarthana-origin/live/prarthana-origin/live_720p/chunks.m3u8",
+      "epg_id": "Prarthana.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PrarthanaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Tarang Music (720p)",
+      "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/tarangmusic-origin/live_720p/chunks.m3u8",
+      "epg_id": "TarangMusic.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TarangMusic.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Tarang TV (720p)",
+      "url": "https://livetv.tarangplus.in/tarangtv-origin/live/tarangtv-origin/live_720p/chunks.m3u8",
+      "epg_id": "TarangTV.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TarangTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "News18 Odia (1080p)",
+      "url": "https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8",
+      "epg_id": "News18.Oriya.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News18Odia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Bada Khabar (432p)",
+      "url": "https://stream.ashokadigital.net/badakhabar/badakhabar/index.m3u8",
+      "epg_id": "Badakhabar.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BadaKhabar.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Kalinga TV (720p)",
+      "url": "https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8",
+      "epg_id": "Kalinga.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KalingaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "MBC TV (576p)",
+      "url": "https://cdn.pishow.tv/ott/live/1017/master.m3u8",
+      "epg_id": "MBC.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MBCTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://mumt03.tangotv.in/MBCTV/index.m3u8",
+      "original_name": "MBC TV (576p)"
+    },
+    {
+      "name": "Nandighosha TV (720p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8",
+      "epg_id": "Nandighosha.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NandighoshaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8",
+      "original_name": "Nandighosha TV (720p)"
+    },
+    {
+      "name": "Prarthana TV (720p)",
+      "url": "https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8",
+      "epg_id": "Prarthana.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PrarthanaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Argus News",
+      "url": "https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8",
+      "epg_id": "Argus.News.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ArgusNews.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Odia",
+      "channel": "ArgusNews.in",
+      "title": "Argus News"
+    },
+    {
+      "name": "Prameya News7",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
+      "epg_id": "Prameya.News.7.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PrameyaNews7.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Odia",
+      "channel": "PrameyaNews7.in",
+      "title": "Prameya News7"
+    },
+    {
+      "name": "DD Arun Prabha (360p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8",
+      "epg_id": "DD.Arunprabha.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDArunPrabha.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Assam (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8",
+      "epg_id": "DDAssam.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDAssam.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Bangla (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8",
+      "epg_id": "DD.Bangla.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBangla.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Bharati (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8",
+      "epg_id": "DD.bharati.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBharati.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Bihar (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8",
+      "epg_id": "DD.Bihar.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDBihar.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Chandana (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8",
+      "epg_id": "DD9.chandana.(kannada).in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDChandana.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Chhattisgarh (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8",
+      "epg_id": "DDChhattisgarh.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDChhattisgarh.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Girnar (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8",
+      "epg_id": "DD.Girnar.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDGirnar.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Goa (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8",
+      "epg_id": "DDGoa.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDGoa.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Haryana (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8",
+      "epg_id": "DDHaryana.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDHaryana.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Himachal Pradesh (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8",
+      "epg_id": "DDHimachalPradesh.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDHimachalPradesh.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD India (1080p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+      "epg_id": "DD.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDIndia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Jharkhand (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8",
+      "epg_id": "DDJharkhand.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDJharkhand.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Kashir (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8",
+      "epg_id": "DD.Kashir.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDKashir.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Kisan (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8",
+      "epg_id": "DD.Kisan.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDKisan.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Madhya Pradesh (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8",
+      "epg_id": "DD.Madhya.Pradesh.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMadhyaPradesh.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Malayalam (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8",
+      "epg_id": "DD.Malayalam.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMalayalam.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Manipur (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8",
+      "epg_id": "DDManipur.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDManipur.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Meghalaya (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8",
+      "epg_id": "DDMeghalaya.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMeghalaya.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Mizoram (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8",
+      "epg_id": "DDMizoram.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDMizoram.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Nagaland (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8",
+      "epg_id": "DDNagaland.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNagaland.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD National HD (1080p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+      "epg_id": "DD.National.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNational.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD News HD (1080p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8",
+      "epg_id": "DD.News.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDNews.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Punjabi (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8",
+      "epg_id": "DD.Punjabi.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDPunjabi.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Rajasthan (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/5b6bbbf682b741ecbe279f75a4a9a3e6/index.m3u8",
+      "epg_id": "DD.Rajasthan.(Jaipur).in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDRajasthan.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Sahyadri (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8",
+      "epg_id": "DD.Sahayadri.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSahyadri.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Saptagiri (504p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8",
+      "epg_id": "DD.Saptagiri.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSaptagiri.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Sports SD (1080p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+      "epg_id": "DD.Sports.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDSports.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Tamil (1080p)",
+      "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
+      "epg_id": "DD5.Podhigai.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDTamil.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Tripura (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8",
+      "epg_id": "DDTripura.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDTripura.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Urdu (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8",
+      "epg_id": "DD.urdu.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUrdu.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Uttar Pradesh (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8",
+      "epg_id": "DD.Uttar.Pradesh.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUttarPradesh.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Uttarakhand (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8",
+      "epg_id": "DDUttarakhand.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDUttarakhand.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DD Yadagiri (504p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8",
+      "epg_id": "DDYadagiri.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDYadagiri.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "INDIA TV (1080p)",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-lg-lgin/playlist.m3u8",
+      "epg_id": "India.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IndiaTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee News (1080p)",
+      "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+      "epg_id": "Zee.News.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeNews.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NDTV INDIA",
+      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+      "epg_id": "NDTV.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVIndia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NDTV INDIA",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtvindia-lgin/playlist.m3u8",
+      "epg_id": "NDTV.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVIndia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "AAJ TAK HD",
+      "url": "https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8",
+      "epg_id": "Aaj.Tak.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AajTak.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Z NEWS",
+      "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
+      "epg_id": "Zee.News.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeNews.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NEWS18 INDIA",
+      "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8",
+      "epg_id": "News.18.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News18India.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NDTV 24x7",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+      "epg_id": "NDTV.24x7.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTV24x7.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NDTV 24x7",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtv24x7-lgin/playlist.m3u8",
+      "epg_id": "NDTV.24x7.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTV24x7.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee Bharat (720p)",
+      "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
+      "epg_id": "Zee.Bharat.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeBharat.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "INDIA TODAY",
+      "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8",
+      "epg_id": "India.Today.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IndiaToday.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "CNN NEWS18",
+      "url": "https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/playlist.m3u8",
+      "epg_id": "CNN.NEWS.18.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CNNNews18.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "REPUBLIC TV",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8",
+      "epg_id": "Republic.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RepublicTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://vg-republictvlive.akamaized.net/out/v1/vglive-sk-366023/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8",
+      "original_name": "REPUBLIC TV"
+    },
+    {
+      "name": "WION (1080p)",
+      "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+      "epg_id": "Wion.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "WION (720p)",
+      "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+      "epg_id": "Wion.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "WION (Adaptive) (1080p)",
+      "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8",
+      "epg_id": "Wion.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WION.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "LiveNOW from FOX",
+      "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+      "epg_id": "LiveNOWfromFOX.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LiveNOWfromFOX.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "DW NEWS",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "epg_id": "dw.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DW.de.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "RUSSIA TODAY",
+      "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8",
+      "epg_id": "RT.ru@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RT.ru.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "CNN",
+      "url": "https://jmp2.uk/stvp-GBBD8000016N",
+      "epg_id": "CNN.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CNNInternational.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "ABC NEWS AU",
+      "url": "https://c.mjh.nz/abc-news.m3u8",
+      "epg_id": "ABC.News.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ABCNews.au.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NDTV PROFIT",
+      "url": "https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8",
+      "epg_id": "NDTV.Profit.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVProfit.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "ET NOW",
+      "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
+      "epg_id": "ET.Now.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ETNow.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "YAHOO FINANCE",
+      "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+      "epg_id": "YahooFinance.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/YahooFinance.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "ABP News",
+      "url": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8",
+      "epg_id": "ABP.News.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ABPNews.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "ABPNews.in",
+      "title": "ABP News"
+    },
+    {
+      "name": "Republic Bharat",
+      "url": "https://cdn.pishow.tv/ott/live/1053/master.m3u8",
+      "epg_id": "Republic.Bharat.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RepublicBharat.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "RepublicBharat.in",
+      "title": "Republic Bharat"
+    },
+    {
+      "name": "News9Live",
+      "url": "https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8",
+      "epg_id": "News.9.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/News9Live.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "News",
+      "channel": "News9Live.in",
+      "title": "News9Live"
+    },
+    {
+      "name": "Shemaroo Filmi Gaane (1080p)",
+      "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
+      "epg_id": "Shemaroo.Filmy.Gaane.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooFilmiGaane.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "YRF Music",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+      "epg_id": "YRF.Music.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/YRFMusic.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Hindi Hits HD",
+      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+      "epg_id": "HindiHits.in@HD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HindiHits.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "SAGA MUSIC HD",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8",
+      "epg_id": "Saga.Music.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/sagamusichd.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Balle Balle (720p)",
+      "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
+      "epg_id": "BalleBalle.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BalleBalle.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "MUSIC INDIA HD",
+      "url": "https://jmp2.uk/stvp-INBD4700015M0",
+      "epg_id": "Music.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Music India (720p) [Not 24/7]",
+      "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
+      "epg_id": "Music.India.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+      "original_name": "Music India (720p) [Not 24/7]"
+    },
+    {
+      "name": "B4U MUSIC",
+      "url": "https://mix.drmlive.net/mix/xiaomi-66225.m3u8",
+      "epg_id": "B4U.Music.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "B4U Music",
+      "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
+      "epg_id": "B4U.Music.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://mumt04.tangotv.in/B4UMUSIC/index.m3u8",
+      "original_name": "B4U Music"
+    },
+    {
+      "name": "9XM",
+      "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8",
+      "epg_id": "9XM.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XM.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+      "original_name": "9XM"
+    },
+    {
+      "name": "9X Tashan",
+      "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
+      "epg_id": "9X.Tashan.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XTashan.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+      "original_name": "9X Tashan"
+    },
+    {
+      "name": "Desi Channel (720p)",
+      "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+      "epg_id": "Desi.Channel.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DesiChannel.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Pitaara (720p)",
+      "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+      "epg_id": "Pitaara.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pitaara.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "JOO MUSIC",
+      "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+      "epg_id": "JooMusic.pk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/JooMusic.pk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "9X Jhakaas (1080p)",
+      "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+      "epg_id": "9x.Jhakaas.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJhakaas.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NOW 70s",
+      "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+      "epg_id": "Now70s.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now70s.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NOW 80s",
+      "url": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+      "epg_id": "Now80s.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now80s.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NOW 90s",
+      "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+      "epg_id": "NOWRock.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NOWRock.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "MUSIC RELOAD",
+      "url": "http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8",
+      "epg_id": "",
+      "logo": "",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "VEVO HIP HOP & R&B",
+      "url": "https://jmp2.uk/stvp-FRBC2100002JA",
+      "epg_id": "VevoHipHop.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "RETRO",
+      "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w636544618.m3u8",
+      "epg_id": "Retro.ru@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Retro.ru.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "9X Jalwa",
+      "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
+      "epg_id": "9X.Jalwa.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJalwa.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "9XJalwa.in",
+      "title": "9X Jalwa"
+    },
+    {
+      "name": "Mastiii",
+      "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+      "epg_id": "Mastiii.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Mastiii.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "Mastiii.in",
+      "title": "Mastiii"
+    },
+    {
+      "name": "Sangeet Bhojpuri",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+      "epg_id": "Sangeet.Bhojpuri.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SangeetBhojpuri.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Music",
+      "channel": "SangeetBhojpuri.in",
+      "title": "Sangeet Bhojpuri"
+    },
+    {
+      "name": "Sony SAB HD (1080p) [Geo-blocked]",
+      "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8",
+      "epg_id": "Sony.SAB.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp",
+      "http_status": 200,
+      "status": "media_response"
+    },
+    {
+      "name": "Nazara (1080p)",
+      "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+      "epg_id": "NAZARA.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicBharat.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Sab HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8",
+      "epg_id": "Sony.SAB.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Colors HD",
+      "url": "http://202.70.146.135:8000/play/a00b/index.m3u8",
+      "epg_id": "Colors.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Colors.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Star Plus HD",
+      "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
+      "epg_id": "Star.Plus.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarPlus.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "& Tv",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
+      "epg_id": "&TV.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AndTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee Tv",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8",
+      "epg_id": "Zee.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "HUM TV",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/hum_tv_abr/index.m3u8",
+      "epg_id": "HumTV.pk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HumTV.pk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Television",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8",
+      "epg_id": "Sony.Entertainment.Television.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyEntertainmentTelevision.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Television HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8",
+      "epg_id": "SET.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyEntertainmentTelevision.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Dangal TV",
+      "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "Dangal.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DangalTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "DangalTV.in",
+      "title": "Dangal TV"
+    },
+    {
+      "name": "Dangal 2",
+      "url": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "Dangal.2.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Dangal2.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "Dangal2.in",
+      "title": "Dangal 2"
+    },
+    {
+      "name": "Shemaroo TV",
+      "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
+      "epg_id": "Shemaroo.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooTV.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "ShemarooTV.in",
+      "title": "Shemaroo TV"
+    },
+    {
+      "name": "Shemaroo Umang",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
+      "epg_id": "Shemaroo.Umang.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooUmang.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Hindi Entertainment",
+      "channel": "ShemarooUmang.in",
+      "title": "Shemaroo Umang"
+    },
+    {
+      "name": "Zee Dil Se (1080p)",
+      "url": "https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8",
+      "epg_id": "ZeeDilSe.in@HD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeDilSe.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee Cine Classic (1080p)",
+      "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+      "epg_id": "ZeeCineClassic.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCineClassic.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Hindi Movie Classic 24",
+      "url": "https://vods2.aynaott.com/hindimovies/index.m3u8",
+      "epg_id": "4d5c3f29-c835-4920-8fa0-c0bafeaa31ed",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hindimovieclassic24.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "SOUTH STATION",
+      "url": "https://jmp2.uk/stvp-IN3800008CX",
+      "epg_id": "SouthStation.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SouthStation.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "BOLLYWOOD 4U",
+      "url": "https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8",
+      "epg_id": "",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/bollywood4u.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "B4U MOVIES",
+      "url": "https://mix.drmlive.net/mix/xiaomi-66224.m3u8",
+      "epg_id": "B4U.Movies.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "B4U KADAK",
+      "url": "https://mix.drmlive.net/mix/xiaomi-66226.m3u8",
+      "epg_id": "B4U.Kadak.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UKadak.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "HOLLYWOOD DESI",
+      "url": "https://jmp2.uk/stvp-IN3800010SH",
+      "epg_id": "",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hollywooddesi.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "STAR VISION",
+      "url": "https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8",
+      "epg_id": "",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/starvision.webp",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "name": "THE MOVIE CLUB",
+      "url": "https://jmp2.uk/stvp-IN38000072R",
+      "epg_id": "TheMovieClub.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheMovieClub.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "NH BOLLYFLIX",
+      "url": "https://jmp2.uk/stvp-IN46000140Q",
+      "epg_id": "NHBollyFlix.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyFlix.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "ACTION HOLLYWOOD MOVIES",
+      "url": "https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8",
+      "epg_id": "ActionHollywoodMovies.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Shemaro Bollywood",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+      "epg_id": "Shemaroo.Bollywood.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooBollywood.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Action Hollywood Movies",
+      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+      "epg_id": "ActionHollywoodMovies.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "My Cinema",
+      "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
+      "epg_id": "MyCinema.id@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyCinema.id.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee Horror Nights (1080p)",
+      "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
+      "epg_id": "ZeeHorrorNights.in@HD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeHorrorNights.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Manoranjan Movies",
+      "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+      "epg_id": "ManoranjanMovies.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanMovies.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Movies",
+      "channel": "ManoranjanMovies.in",
+      "title": "Manoranjan Movies"
+    },
+    {
+      "name": "Bhojpuri Cinema",
+      "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+      "epg_id": "Bhojpuri.Cinema.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BhojpuriCinema.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Movies",
+      "channel": "BhojpuriCinema.in",
+      "title": "Bhojpuri Cinema"
+    },
+    {
+      "name": "Colors Cineplex",
+      "url": "http://202.70.146.135:8000/play/a04n/index.m3u8",
+      "epg_id": "Colors.Cineplex.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ColorsCineplex.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Star Gold HD",
+      "url": "http://202.70.146.135:8000/play/a02a/index.m3u8",
+      "epg_id": "Star.Gold.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGold.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Star Gold Select",
+      "url": "http://202.70.146.135:8000/play/a068/index.m3u8",
+      "epg_id": "Star.Gold.Select.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGoldSelect.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Zee Cinema HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8",
+      "epg_id": "Zee.Cinema.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCinema.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Zee Bollywood",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8",
+      "epg_id": "Zee.Bollywood.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeBollywood.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Max",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8",
+      "epg_id": "Sony.Max.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Max HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8",
+      "epg_id": "Sony.Max.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Max 2",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8",
+      "epg_id": "Sony.Max.2.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax2.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "B4U Movie",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8",
+      "epg_id": "B4U.Movies.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Gold Mines",
+      "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+      "epg_id": "Goldmines.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Gold Mines Movie",
+      "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
+      "epg_id": "Goldmines.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Gold Mines Bollywood",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+      "epg_id": "Goldmines.Bollywood.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesBollywood.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony Yay! (1080p) [Geo-blocked]",
+      "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8",
+      "epg_id": "SONY.YAY!.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp",
+      "http_status": 200,
+      "status": "media_response"
+    },
+    {
+      "name": "ANIMAX",
+      "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+      "epg_id": "Animax.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "POP",
+      "url": "https://jmp2.uk/stvp-GBBC430000128",
+      "epg_id": "Pop.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pop.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony YaY",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8",
+      "epg_id": "SONY.YAY!.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Cartoon Network HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+      "epg_id": "Cartoon.Network.HD+.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Cartoon Network",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
+      "epg_id": "Cartoon.Network.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CartoonNetwork.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Discovery Kids",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
+      "epg_id": "Discovery.Kids.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DiscoveryKids.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Pogo",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
+      "epg_id": "Pogo.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pogo.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "HappyKids",
+      "url": "https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8",
+      "epg_id": "HappyKids.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HappyKids.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Kids",
+      "channel": "HappyKids.us",
+      "title": "HappyKids"
+    },
+    {
+      "name": "ToonGoggles",
+      "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+      "epg_id": "ToonGoggles.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ToonGoggles.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Kids",
+      "channel": "ToonGoggles.us",
+      "title": "ToonGoggles"
+    },
+    {
+      "name": "Red Bull TV",
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+      "epg_id": "Red.Bull.TV.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RedBullTV.at.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "channel": "RedBullTV.at",
+      "category": "Sports",
+      "title": "RedBullTV.at"
+    },
+    {
+      "name": "FIFA+",
+      "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+      "epg_id": "FIFAPlus.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FIFAPlus.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "channel": "FIFAPlus.uk",
+      "category": "Sports",
+      "title": "FIFAPlus.uk"
+    },
+    {
+      "name": "FIFA+ Women",
+      "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+      "epg_id": "FIFAPlusWomen.uk@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FIFAPlusWomen.uk.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Sports",
+      "channel": "FIFAPlusWomen.uk",
+      "title": "FIFA+ Women"
+    },
+    {
+      "name": "Motorvision",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
+      "epg_id": "Motorvision.de@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Motorvision.de.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Sports",
+      "channel": "Motorvision.de",
+      "title": "Motorvision TV"
+    },
+    {
+      "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
+      "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "epg_id": "Travelxp.in@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://103.159.180.34:5001/live/562.m3u8",
+      "original_name": "Travel XP HD"
+    },
+    {
+      "name": "Travelxp HD (1080p) [Geo-blocked]",
+      "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+      "epg_id": "Travelxp.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://103.159.180.34:5001/live/562.m3u8",
+      "original_name": "Travel XP HD"
+    },
+    {
+      "name": "History TV18 HD (1080p) [Geo-blocked]",
+      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "epg_id": "History.TV18.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HistoryTV18.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+      "original_name": "History TV18 HD (1080p)"
+    },
+    {
+      "name": "History TV18 HD Hindi (1080p) [Geo-blocked]",
+      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+      "epg_id": "History.TV18.HD.Hindi.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HistoryTV18.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+      "original_name": "History TV18 HD (1080p)"
+    },
+    {
+      "name": "Animal Planet HD",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8",
+      "epg_id": "Animal.Planet.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AnimalPlanet.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Discovery",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
+      "epg_id": "Discovery.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DiscoveryChannel.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "replaces": "http://sm-monirul.xyz/@monirul_Islam_SM/exp.php?id=discovery_bangla&sm=.m3u8",
+      "original_name": "Discovery"
+    },
+    {
+      "name": "National Wild HD",
+      "url": "http://202.70.146.135:8000/play/a05j/index.m3u8",
+      "epg_id": "Nat.Geo.Wild.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NationalGeographicWild.in.webp",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Love Natural",
+      "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+      "epg_id": "LoveNature.ca@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LoveNature.ca.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Sony BBC Earth",
+      "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8",
+      "epg_id": "SONY.BBC.Earth.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyBBCEarth.in.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "National Geographic HD",
+      "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts",
+      "epg_id": "National.Geographic.HD.in",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NationalGeographic.in.webp",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "CGTN Documentary",
+      "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+      "epg_id": "CGTNDocumentary.cn@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CGTNDocumentary.cn.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Knowledge",
+      "channel": "CGTNDocumentary.cn",
+      "title": "CGTN Documentary"
+    },
+    {
+      "name": "Documentary+",
+      "url": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8",
+      "epg_id": "DocumentaryPlus.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DocumentaryPlus.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Knowledge",
+      "channel": "DocumentaryPlus.us",
+      "title": "Documentary+ International"
+    },
+    {
+      "name": "FashionTV Paris L'Original (1080p)",
+      "url": "https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8",
+      "epg_id": "FashionTVParisLOriginal.fr@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVParisLOriginal.fr.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "FashionTV Paris L'Original (1080p)",
+      "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8",
+      "epg_id": "FashionTVParisLOriginal.fr@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVParisLOriginal.fr.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "FashionTV Secrets (1080p)",
+      "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1",
+      "epg_id": "FashionTVSecrets.fr@HD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVSecrets.fr.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Global Fashion Channel (1080p)",
+      "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+      "epg_id": "GlobalFashionChannel.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GlobalFashionChannel.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "Kaloopy (720p)",
+      "url": "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPYTV/tracks-v1a1/mono.ts.m3u8",
+      "epg_id": "KaloopyTV.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KaloopyTV.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "IN FAST",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8",
+      "epg_id": "INFAST.nl@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/INFAST.nl.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok"
+    },
+    {
+      "name": "PLAYBOY",
+      "url": "http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8",
+      "epg_id": "",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PlayboyTV.webp",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Tastemade",
+      "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8",
+      "epg_id": "Tastemade.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Tastemade.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "Tastemade.us",
+      "title": "Tastemade"
+    },
+    {
+      "name": "Tastemade Travel",
+      "url": "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8",
+      "epg_id": "TastemadeTravel.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TastemadeTravel.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "TastemadeTravel.us",
+      "title": "Tastemade Travel"
+    },
+    {
+      "name": "GoTraveler",
+      "url": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+      "epg_id": "GoTraveler.us@SD",
+      "logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoTraveler.us.webp",
+      "http_status": 200,
+      "status": "hls_manifest_ok",
+      "category": "Lifestyle",
+      "channel": "GoTraveler.us",
+      "title": "GoTraveler"
+    }
+  ]
+}

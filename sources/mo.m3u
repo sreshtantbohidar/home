@@ -1,56 +1,61 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ZeeDilSe.in@HD",Zee Dil Se (1080p)
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 group-title="Movies" tvg-id="ZeeDilSe.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeDilSe.in.webp" tvg-name="Zee Dil Se",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD",Zee Cine Classic (1080p)
+#EXTINF:-1 group-title="Movies" tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCineClassic.in.webp" tvg-name="Zee Cine Classic",Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4d5c3f29-c835-4920-8fa0-c0bafeaa31ed" tvg-name="Hindi Movie Classic 24" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies",Hindi Movie Classic 24
+#EXTINF:-1 group-title="Movies" tvg-id="4d5c3f29-c835-4920-8fa0-c0bafeaa31ed" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hindimovieclassic24.webp" tvg-name="Hindi Movie Classic 24",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",HINDI CINEMA
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png" group-title="Movies",SOUTH STATION
+#EXTINF:-1 group-title="Movies" tvg-id="SouthStation.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SouthStation.in.webp" tvg-name="South Station",SOUTH STATION
 https://jmp2.uk/stvp-IN3800008CX
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" group-title="Movies",BOLLYWOOD 4U
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/bollywood4u.webp" tvg-name="BOLLYWOOD 4U",BOLLYWOOD 4U
 https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U MOVIES
+#EXTINF:-1 group-title="Movies" tvg-id="B4U.Movies.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp" tvg-name="B4U Movies",B4U MOVIES
 https://mix.drmlive.net/mix/xiaomi-66224.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U KADAK
+#EXTINF:-1 group-title="Movies" tvg-id="B4U.Kadak.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UKadak.in.webp" tvg-name="B4U Kadak",B4U KADAK
 https://mix.drmlive.net/mix/xiaomi-66226.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="Movies",HOLLYWOOD DESI
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hollywooddesi.webp" tvg-name="HOLLYWOOD DESI",HOLLYWOOD DESI
 https://jmp2.uk/stvp-IN3800010SH
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/starvision_512X512_balck.png" group-title="Movies",STAR VISION
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/starvision.webp" tvg-name="STAR VISION",STAR VISION
 https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",THE MOVIE CLUB
+#EXTINF:-1 group-title="Movies" tvg-id="TheMovieClub.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheMovieClub.in.webp" tvg-name="The Movie Club",THE MOVIE CLUB
 https://jmp2.uk/stvp-IN38000072R
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",NH BOLLYFLIX
+#EXTINF:-1 group-title="Movies" tvg-id="NHBollyFlix.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyFlix.in.webp" tvg-name="NH BollyFlix",NH BOLLYFLIX
 https://jmp2.uk/stvp-IN46000140Q
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",ACTION HOLLYWOOD MOVIES
+#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies",ACTION HOLLYWOOD MOVIES
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Shemaro Bollywood
+#EXTINF:-1 group-title="Movies" tvg-id="Shemaroo.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooBollywood.us.webp" tvg-name="Shemaroo Bollywood",Shemaro Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Joo Music
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Action Hollywood Movies
+#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-name="My Cinema" group-title="Movies",My Cinema
+#EXTINF:-1 group-title="Movies" tvg-id="MyCinema.id@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyCinema.id.webp" tvg-name="My Cinema",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD",Zee Horror Nights (1080p)
+#EXTINF:-1 group-title="Movies" tvg-id="ZeeHorrorNights.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeHorrorNights.in.webp" tvg-name="Zee Horror Nights",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanMovies.in.webp" tvg-name="Manoranjan Movies",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Bhojpuri.Cinema.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BhojpuriCinema.in.webp" tvg-name="Bhojpuri Cinema",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Colors.Cineplex.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ColorsCineplex.in.webp" tvg-name="Colors Cineplex",Colors Cineplex
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Star.Gold.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGold.in.webp" tvg-name="Star Gold",Star Gold HD
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Star.Gold.Select.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarGoldSelect.in.webp" tvg-name="Star Gold Select",Star Gold Select
+http://202.70.146.135:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Zee.Cinema.HD.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCinema.in.webp" tvg-name="Zee Cinema",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Zee.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeBollywood.in.webp" tvg-name="Zee Bollywood",Zee Bollywood
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Sony.Max.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp" tvg-name="Sony Max",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Sony.Max.HD.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax.in.webp" tvg-name="Sony Max",Sony Max HD
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Sony.Max.2.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax2.in.webp" tvg-name="Sony Max 2",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="B4U.Movies.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp" tvg-name="B4U Movies",B4U Movie
+https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp" tvg-name="Goldmines",Gold Mines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp" tvg-name="Goldmines",Gold Mines Movie
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesBollywood.in.webp" tvg-name="Goldmines Bollywood",Gold Mines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
