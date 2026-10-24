@@ -877,7 +877,8 @@
     "source": "https://papaji.freetvindia.com/media/action_hollywood_movie.png",
     "names": [
       "ACTION HOLLYWOOD MOVIES",
-      "Action Hollywood Movies"
+      "Action Hollywood Movies",
+      "Action Hollywood Movies (NZ)"
     ]
   },
   "ShemarooBollywood.us": {
@@ -1139,6 +1140,125 @@
     "source": "https://i.imgur.com/IaRcN1G.png",
     "names": [
       "GoTraveler"
+    ]
+  },
+  "24HourFreeMovies.us": {
+    "file": "logos/24HourFreeMovies.us.webp",
+    "source": "https://i.imgur.com/iSVnzR1.png",
+    "names": [
+      "24 Hour Free Movies"
+    ]
+  },
+  "30ATVClassicMovies.us": {
+    "file": "logos/30ATVClassicMovies.us.webp",
+    "source": "https://30a-tv.com/30a/wp-content/uploads/2019/05/cropped-30atlogo-april2016-512-270x270.png",
+    "names": [
+      "30A TV Classic Movies"
+    ]
+  },
+  "ARTFLIXMovieClassics.us": {
+    "file": "logos/ARTFLIXMovieClassics.us.webp",
+    "source": "https://i.imgur.com/5pOZQB4.png",
+    "names": [
+      "ARTFLIX Movie Classics"
+    ]
+  },
+  "DarkMatterTV.us": {
+    "file": "logos/DarkMatterTV.us.webp",
+    "source": "https://i.imgur.com/9K8T3ND.png",
+    "names": [
+      "Dark Matter TV"
+    ]
+  },
+  "EbonyTVbyLionsgate.us": {
+    "file": "logos/EbonyTVbyLionsgate.us.webp",
+    "source": "https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png",
+    "names": [
+      "Ebony TV by Lionsgate"
+    ]
+  },
+  "FilmRiseWestern.us": {
+    "file": "logos/FilmRiseWestern.us.webp",
+    "source": "https://provider-static.plex.tv/epg/cms/production/924cac96-f0da-4eea-aab9-87c708a87f99/FilmRise_Western_1500x1000_Light_Logo.png",
+    "names": [
+      "FilmRise Western"
+    ]
+  },
+  "FrightFlix.us": {
+    "file": "logos/FrightFlix.us.webp",
+    "source": "https://i.imgur.com/rgNQYAl.png",
+    "names": [
+      "FrightFlix"
+    ]
+  },
+  "GravitasMovies.us": {
+    "file": "logos/GravitasMovies.us.webp",
+    "source": "https://i.imgur.com/H2hD4vT.png",
+    "names": [
+      "Gravitas Movies"
+    ]
+  },
+  "HallmarkMoviesMore.us": {
+    "file": "logos/HallmarkMoviesMore.us.webp",
+    "source": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png",
+    "names": [
+      "Hallmark Movies & More"
+    ]
+  },
+  "MaverickBlackCinema.us": {
+    "file": "logos/MaverickBlackCinema.us.webp",
+    "source": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+    "names": [
+      "Maverick Black Cinema"
+    ]
+  },
+  "MovieSphere.us": {
+    "file": "logos/MovieSphere.us.webp",
+    "source": "https://i.imgur.com/0sfk3yp.png",
+    "names": [
+      "MovieSphere"
+    ]
+  },
+  "MyTimeMovieNetworkEast.us": {
+    "file": "logos/MyTimeMovieNetworkEast.us.webp",
+    "source": "https://i.imgur.com/HYgxPVQ.png",
+    "names": [
+      "MyTime Movie Network"
+    ]
+  },
+  "NOST.us": {
+    "file": "logos/NOST.us.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg",
+    "names": [
+      "NOST"
+    ]
+  },
+  "OuterSphere.us": {
+    "file": "logos/OuterSphere.us.webp",
+    "source": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png",
+    "names": [
+      "OuterSphere"
+    ]
+  },
+  "TVSDriveInMovie.us": {
+    "file": "logos/TVSDriveInMovie.us.webp",
+    "source": "https://i.imgur.com/OR9APjb.png",
+    "names": [
+      "TVS Drive In Movie"
+    ]
+  },
+  "WatchitScream.us": {
+    "file": "logos/WatchitScream.us.webp",
+    "source": "https://i.imgur.com/bz3Caum.png",
+    "names": [
+      "Watch it Scream!"
+    ]
+  },
+  "WhiplashCinema.us": {
+    "file": "logos/WhiplashCinema.us.webp",
+    "source": "https://whiplash.cc/assets/img/channels/whiplashcinema.png",
+    "names": [
+      "Whiplash Cinema"
     ]
   }
 }

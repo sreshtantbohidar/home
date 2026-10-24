@@ -1,0 +1,39 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTINF:-1 group-title="English Movies" tvg-id="24HourFreeMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/24HourFreeMovies.us.webp" tvg-name="24 Hour Free Movies",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="30ATVClassicMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/30ATVClassicMovies.us.webp" tvg-name="30A TV Classic Movies",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="ActionHollywoodMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies",Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="ActionHollywoodMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies (NZ)",Action Hollywood Movies (NZ)
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="ARTFLIXMovieClassics.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ARTFLIXMovieClassics.us.webp" tvg-name="ARTFLIX Movie Classics",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="DarkMatterTV.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DarkMatterTV.us.webp" tvg-name="Dark Matter TV",Dark Matter TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="EbonyTVbyLionsgate.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EbonyTVbyLionsgate.us.webp" tvg-name="Ebony TV by Lionsgate",Ebony TV by Lionsgate
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="FilmRiseWestern.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FilmRiseWestern.us.webp" tvg-name="FilmRise Western",FilmRise Western
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="FrightFlix.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FrightFlix.us.webp" tvg-name="FrightFlix",FrightFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 group-title="English Movies" tvg-id="GravitasMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GravitasMovies.us.webp" tvg-name="Gravitas Movies",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="HallmarkMoviesMore.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HallmarkMoviesMore.us.webp" tvg-name="Hallmark Movies & More",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 group-title="English Movies" tvg-id="MaverickBlackCinema.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MaverickBlackCinema.us.webp" tvg-name="Maverick Black Cinema",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="MovieSphere.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MovieSphere.us.webp" tvg-name="MovieSphere",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyTimeMovieNetworkEast.us.webp" tvg-name="MyTime Movie Network",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="NOST.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NOST.us.webp" tvg-name="NOST",NOST
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="OuterSphere.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/OuterSphere.us.webp" tvg-name="OuterSphere",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="TVSDriveInMovie.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TVSDriveInMovie.us.webp" tvg-name="TVS Drive In Movie",TVS Drive In Movie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="WatchitScream.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WatchitScream.us.webp" tvg-name="Watch it Scream!",Watch it Scream!
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
+#EXTINF:-1 group-title="English Movies" tvg-id="WhiplashCinema.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WhiplashCinema.us.webp" tvg-name="Whiplash Cinema",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8

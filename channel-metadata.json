@@ -666,14 +666,10 @@
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/JooMusic.pk.webp"
     },
     "Action Hollywood Movies": {
+      "tvg-id": "ActionHollywoodMovies.us",
       "tvg-name": "Action Hollywood Movies",
-      "tvg-id": "ActionHollywoodMovies.us@SD",
+      "tvg-language": "English",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp"
-    },
-    "My Cinema": {
-      "tvg-name": "My Cinema",
-      "tvg-id": "MyCinema.id@SD",
-      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyCinema.id.webp"
     },
     "Zee Horror Nights (1080p)": {
       "tvg-name": "Zee Horror Nights",
@@ -893,6 +889,114 @@
     },
     "PLAYBOY": {
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/PlayboyTV.webp"
+    },
+    "24 Hour Free Movies": {
+      "tvg-id": "24HourFreeMovies.us",
+      "tvg-name": "24 Hour Free Movies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/24HourFreeMovies.us.webp"
+    },
+    "30A TV Classic Movies": {
+      "tvg-id": "30ATVClassicMovies.us",
+      "tvg-name": "30A TV Classic Movies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/30ATVClassicMovies.us.webp"
+    },
+    "Action Hollywood Movies (NZ)": {
+      "tvg-id": "ActionHollywoodMovies.us",
+      "tvg-name": "Action Hollywood Movies (NZ)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp"
+    },
+    "ARTFLIX Movie Classics": {
+      "tvg-id": "ARTFLIXMovieClassics.us",
+      "tvg-name": "ARTFLIX Movie Classics",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ARTFLIXMovieClassics.us.webp"
+    },
+    "Dark Matter TV": {
+      "tvg-id": "DarkMatterTV.us",
+      "tvg-name": "Dark Matter TV",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DarkMatterTV.us.webp"
+    },
+    "Ebony TV by Lionsgate": {
+      "tvg-id": "EbonyTVbyLionsgate.us",
+      "tvg-name": "Ebony TV by Lionsgate",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EbonyTVbyLionsgate.us.webp"
+    },
+    "FilmRise Western": {
+      "tvg-id": "FilmRiseWestern.us",
+      "tvg-name": "FilmRise Western",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FilmRiseWestern.us.webp"
+    },
+    "FrightFlix": {
+      "tvg-id": "FrightFlix.us",
+      "tvg-name": "FrightFlix",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FrightFlix.us.webp"
+    },
+    "Gravitas Movies": {
+      "tvg-id": "GravitasMovies.us",
+      "tvg-name": "Gravitas Movies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GravitasMovies.us.webp"
+    },
+    "Hallmark Movies & More": {
+      "tvg-id": "HallmarkMoviesMore.us",
+      "tvg-name": "Hallmark Movies & More",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HallmarkMoviesMore.us.webp"
+    },
+    "Maverick Black Cinema": {
+      "tvg-id": "MaverickBlackCinema.us",
+      "tvg-name": "Maverick Black Cinema",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MaverickBlackCinema.us.webp"
+    },
+    "MovieSphere": {
+      "tvg-id": "MovieSphere.us",
+      "tvg-name": "MovieSphere",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MovieSphere.us.webp"
+    },
+    "MyTime Movie Network": {
+      "tvg-id": "MyTimeMovieNetworkEast.us",
+      "tvg-name": "MyTime Movie Network",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyTimeMovieNetworkEast.us.webp"
+    },
+    "NOST": {
+      "tvg-id": "NOST.us",
+      "tvg-name": "NOST",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NOST.us.webp"
+    },
+    "OuterSphere": {
+      "tvg-id": "OuterSphere.us",
+      "tvg-name": "OuterSphere",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/OuterSphere.us.webp"
+    },
+    "TVS Drive In Movie": {
+      "tvg-id": "TVSDriveInMovie.us",
+      "tvg-name": "TVS Drive In Movie",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TVSDriveInMovie.us.webp"
+    },
+    "Watch it Scream!": {
+      "tvg-id": "WatchitScream.us",
+      "tvg-name": "Watch it Scream!",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WatchitScream.us.webp"
+    },
+    "Whiplash Cinema": {
+      "tvg-id": "WhiplashCinema.us",
+      "tvg-name": "Whiplash Cinema",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WhiplashCinema.us.webp"
     }
   }
 }

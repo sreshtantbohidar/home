@@ -41,4 +41,19 @@ class MergeTests(unittest.TestCase):
         self.assertEqual(first,m.merge_playlists());self.assertEqual(before,target.stat().st_mtime_ns)
         entries=m.parse(first);self.assertGreater(len(entries),100);self.assertEqual(len(entries),len({r.url for r in entries}))
 
+    def test_english_movies_survives_global_dedupe_with_language_and_logos(self):
+        source=m.parse((m.ROOT/'sources/english_movies.m3u').read_text(encoding='utf-8'))
+        merged={e.url:e for e in m.parse(m.merge_playlists())}
+        self.assertGreaterEqual(len(source),10)
+        for entry in source:
+            with self.subTest(channel=entry.name):
+                actual=merged[entry.url]
+                self.assertEqual('English Movies',actual.attrs['group-title'])
+                self.assertEqual('English',actual.attrs['tvg-language'])
+                self.assertTrue(actual.attrs.get('tvg-id'))
+                self.assertTrue(actual.attrs.get('tvg-logo'))
+                self.assertTrue((m.ROOT/'logos'/actual.attrs['tvg-logo'].rsplit('/',1)[-1]).is_file())
+        mytime=[e for e in merged.values() if e.url=='https://mytime-tcl.amagi.tv/playlist.m3u8']
+        self.assertEqual(['MyTime Movie Network'],[e.name for e in mytime])
+
 if __name__=='__main__':unittest.main()

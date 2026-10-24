@@ -4,7 +4,19 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 
 - [Combined playlist](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/merged.m3u)
 - Guide: https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
-- Sources: Odia, Doordarshan, News, Music, Hindi Entertainment, Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+- Sources: Odia, Doordarshan, News, Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+
+## October 24, 2026: English Movies
+
+Added **English Movies**, containing **18 channel identities across 19 stream entries** (Action Hollywood Movies includes a second regional feed). The combined playlist now contains **195 unique stream URLs**. Sixteen URLs are new; three existing English streams were moved from Movies so global deduplication cannot hide them in the old category.
+
+The category includes 24 Hour Free Movies, 30A TV Classic Movies, Action Hollywood Movies, ARTFLIX Movie Classics, Dark Matter TV, Ebony TV by Lionsgate, FilmRise Western, FrightFlix, Gravitas Movies, Hallmark Movies & More, Maverick Black Cinema, MovieSphere, MyTime Movie Network, NOST, OuterSphere, TVS Drive In Movie, Watch it Scream! and Whiplash Cinema. Movie-focused channels can also schedule related series or other programming.
+
+Research used the current [IPTV-org channel, feed, stream and logo indexes](https://github.com/iptv-org/api) and provider pages, including [30A TV](https://30a-tv.com/m3u8-channels/), [MyTime](https://mytimemovienetwork.com/) and [Lionsgate](https://lionsgatechannels.com/where-to-watch). Selected feed language is English. Each included URL passed an HLS master/media-playlist check and a small media-segment request from the development network. Failed or geo-blocked candidates were not added. These are point-in-time reachability checks, not guarantees of future or worldwide playback.
+
+All entries have validated local WebP logos with original sources recorded in `logo-sources.json`. 30A Classic Movies uses the broadcaster's network mark. Canonical channel IDs are retained, but the existing India XMLTV feed is not claimed to provide their English schedules. The old stream labeled **My Cinema** was corrected to **MyTime Movie Network**, matching its actual endpoint and current stream index. Research, selected streams, identity corrections and unsuccessful candidates are recorded in `reports/english-movies.json`.
+
+Source: `sources/english_movies.m3u`. Refresh channels in Next Gen to load the category; an APK update is not required.
 
 ## October 20, 2026 audit
 

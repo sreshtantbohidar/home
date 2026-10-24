@@ -21,14 +21,8 @@ https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8
 https://jmp2.uk/stvp-IN38000072R
 #EXTINF:-1 group-title="Movies" tvg-id="NHBollyFlix.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyFlix.in.webp" tvg-name="NH BollyFlix",NH BOLLYFLIX
 https://jmp2.uk/stvp-IN46000140Q
-#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies",ACTION HOLLYWOOD MOVIES
-https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Shemaroo.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooBollywood.us.webp" tvg-name="Shemaroo Bollywood",Shemaro Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="ActionHollywoodMovies.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ActionHollywoodMovies.us.webp" tvg-name="Action Hollywood Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="MyCinema.id@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MyCinema.id.webp" tvg-name="My Cinema",My Cinema
-https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeHorrorNights.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeHorrorNights.in.webp" tvg-name="Zee Horror Nights",Zee Horror Nights (1080p)
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanMovies.in.webp" tvg-name="Manoranjan Movies",Manoranjan Movies

@@ -9,6 +9,7 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parent
 SOURCES = {"Odia": "o.m3u", "Doordarshan": "dd.m3u", "News": "n.m3u",
            "Music": "m.m3u", "Hindi Entertainment": "he.m3u", "Movies": "mo.m3u",
+           "English Movies": "english_movies.m3u",
            "Kids": "k.m3u", "Sports": "spo.m3u", "Knowledge": "kno.m3u", "Lifestyle": "f.m3u"}
 ATTR = re.compile(r'([\w-]+)="([^"]*)"')
 EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
