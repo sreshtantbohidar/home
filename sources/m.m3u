@@ -37,8 +37,8 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-name="MUSIC RELOAD",MUSIC RELOAD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="VevoHipHop.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp" tvg-name="Vevo Hip Hop",VEVO HIP HOP & R&B
-https://jmp2.uk/stvp-FRBC2100002JA
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp" tvg-name="Vevo Hip-Hop & R&B",VEVO HIP HOP & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Retro.ru@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Retro.ru.webp" tvg-name="Retro",RETRO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w636544618.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="9X.Jalwa.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJalwa.in.webp" tvg-name="9X Jalwa",9X Jalwa

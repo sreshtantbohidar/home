@@ -461,9 +461,10 @@
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NOWRock.uk.webp"
     },
     "VEVO HIP HOP & R&B": {
-      "tvg-name": "Vevo Hip Hop",
-      "tvg-id": "VevoHipHop.us@SD",
-      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp"
+      "tvg-name": "Vevo Hip-Hop & R&B",
+      "tvg-id": "",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp",
+      "tvg-language": "English"
     },
     "RETRO": {
       "tvg-name": "Retro",

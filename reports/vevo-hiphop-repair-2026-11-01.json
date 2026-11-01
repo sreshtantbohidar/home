@@ -1,0 +1,186 @@
+{
+  "checked_date": "2026-11-01",
+  "channel": "VEVO HIP HOP & R&B",
+  "previous_url": "https://jmp2.uk/stvp-FRBC2100002JA",
+  "replacement_url": "https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8",
+  "source": "https://gist.github.com/master85ca/6f0887ac385d66736ba0038233d7eef4",
+  "notes": "Direct combined UK Hip-Hop & R&B feed, H264/AAC, 360p to 1080p. ffmpeg decoded 12 seconds of audio and video successfully. Previous redirect also responded from this network at check time; replacing it removes a redirect dependency, not proof of continuous/device-specific failure. Removed US Hip Hop-only EPG ID rather than assigning its schedule to a combined regional feed. Existing display title, Music category and logo retained. Availability varies.",
+  "checks": [
+    {
+      "url": "https://jmp2.uk/stvp-FRBC2100002JA",
+      "http_status": 200,
+      "hls": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "ok": true
+    },
+    {
+      "url": "https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8",
+      "http_status": 200,
+      "hls": true,
+      "streams": [
+        {
+          "codec_name": "webvtt",
+          "codec_type": "subtitle"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "ok": true
+    },
+    {
+      "url": "https://d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8",
+      "ok": false,
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "url": "https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8",
+      "http_status": 200,
+      "hls": true,
+      "ok": false,
+      "error": "Command '['ffprobe', '-v', 'error', '-allowed_extensions', 'ALL', '-allowed_segment_extensions', 'ALL', '-extension_picky', '0', '-rw_timeout', '8000000', '-analyzeduration', '4000"
+    }
+  ]
+}
