@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeDilSe.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeDilSe.in.webp" tvg-name="Zee Dil Se",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCineClassic.in.webp" tvg-name="Zee Cine Classic",Zee Cine Classic (1080p)
@@ -46,34 +46,26 @@ https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Sony.Max.2.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyMax2.in.webp" tvg-name="Sony Max 2",Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="B4U.Movies.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMovies.in.webp" tvg-name="B4U Movies",B4U Movie
-https://drk6xq0vhn.gpcdn.net/live/b4u_movies_abr/index.m3u8
+https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Goldmines.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp" tvg-name="Goldmines",Gold Mines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Goldmines.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines.in.webp" tvg-name="Goldmines",Gold Mines Movie
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Goldmines.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesBollywood.in.webp" tvg-name="Goldmines Bollywood",Gold Mines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="AllTimeMovies.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AllTimeMovies.in.webp" tvg-name="All Time Movies",All Time Movies
 https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="Goldmines2.in@SD" tvg-language="Hindi" tvg-name="Goldmines 2",Goldmines 2
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines2.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines2.in.webp" tvg-name="Goldmines 2",Goldmines 2
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="GoldminesAction.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesAction.in.webp" tvg-name="Goldmines Action",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="MahaMovie.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MahaMovie.in.webp" tvg-name="Maha Movie",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="ManoranjanGrand.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanGrand.in.webp" tvg-name="Manoranjan Grand",Manoranjan Grand
 https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="MHOneMovies.in@SD" tvg-language="Hindi" tvg-name="MH One Movies",MH One Movies
+#EXTINF:-1 group-title="Movies" tvg-id="MHOneMovies.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MHOneMovies.in.webp" tvg-name="MH One Movies",MH One Movies
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="ShemarooJosh.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooJosh.in.webp" tvg-name="Shemaroo Josh",Shemaroo Josh
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeSouthFlix.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeSouthFlix.in.webp" tvg-name="Zee South Flix",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8

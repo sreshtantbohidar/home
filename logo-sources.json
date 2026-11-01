@@ -1519,5 +1519,41 @@
     "names": [
       "Insync"
     ]
+  },
+  "MusicReload.custom": {
+    "file": "logos/MusicReload.custom.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "MUSIC RELOAD"
+    ],
+    "note": "Repository-created channel-name badge, not an official broadcaster logo."
+  },
+  "Goldmines2.in": {
+    "file": "logos/Goldmines2.in.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Goldmines 2"
+    ],
+    "note": "Repository-created channel-name badge, not an official broadcaster logo."
+  },
+  "MHOneMovies.in": {
+    "file": "logos/MHOneMovies.in.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "MH One Movies"
+    ],
+    "note": "Repository-created channel-name badge, not an official broadcaster logo."
+  },
+  "TraceUK.uk": {
+    "file": "logos/TraceUK.uk.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=original",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Trace UK"
+    ],
+    "note": "Trace Group logo via Wikimedia Commons."
   }
 }

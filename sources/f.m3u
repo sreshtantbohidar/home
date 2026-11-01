@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
-#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVParisLOriginal.fr.webp" tvg-name="FashionTV Paris L'Original",FashionTV Paris L'Original (1080p)
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVParisLOriginal.fr.webp" tvg-name="FashionTV Paris L'Original",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTVSecrets.fr.webp" tvg-name="FashionTV Secrets",FashionTV Secrets (1080p)

@@ -3,8 +3,22 @@
 A categorized M3U playlist for Next Gen and other compatible IPTV players.
 
 - [Combined playlist](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/merged.m3u)
-- Guide: https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
-- Sources: Odia, Doordarshan, News, Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+- [Combined programme guide](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz)
+- Sources: Odia, Doordarshan, News, Hindi Music, English Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+
+## November 1, 2026: music groups
+
+Music is now split into **Hindi Music** and **English Music**. Regional Indian music is included with Hindi Music as requested. All Stingray-branded channels, including Qello Concerts by Stingray, appear at the bottom of English Music. Relative order within the other music channels is preserved.
+
+## November 1, 2026: complete stream, icon and guide audit
+
+Audited all **235 previous stream entries**. **8 failing entries were replaced** after the alternatives passed audio/video probes and short decode tests: RT, Nazara, HUM TV, Sony Entertainment Television (two entries), B4U Movies, FashionTV Paris and Documentary+. Repairing duplicate Sony/FashionTV entries leaves **233 unique stream URLs**. **209** yielded audio and video in the initial/retry checks; **24 remain unresolved** and are retained, with reasons and tested alternatives in [the full audit](reports/full-audit-2026-11-01.json). A working manifest alone was not counted as playback, and a supposed Zee Cinema alternative carrying National Geographic was rejected. Checks are point-in-time from one network, not a guarantee of continuous playback or permission to redistribute.
+
+**Every entry now has a valid, locally stored icon.** Trace UK uses its broadcaster logo via Wikimedia Commons. Music Reload, Goldmines 2 and MH One Movies use newly created channel-name badges because an exact downloadable logo could not be verified; these are not claimed as official logos. Provenance is recorded in `logo-sources.json`.
+
+The compact [combined XMLTV guide](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz) currently covers **151 of 233 streams** across **140 guide IDs**, using explicit mappings from Indian, UK, US, Plex and Rakuten public guides. The remaining **82 entries** have no verified current programme data in the checked sources. No placeholder schedules, nearby-channel schedules or invented programme titles were added. Some published channel records are empty or stale and are excluded. [Coverage](reports/epg-coverage.json) and [source mappings](epg-mappings.json) are recorded separately.
+
+The existing two-hour GitHub workflow rebuilds this mapped guide. Source fetch/parse failures or a large coverage loss fail the build and preserve the previously published guide. Time zones and original programme titles are preserved. To use the expanded guide, set your player EPG URL to `https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz`; playlist headers now advertise it too. Players with a separately saved EPG setting need that setting updated.
 
 ## November 1, 2026: Hindi music follow-up
 

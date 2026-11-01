@@ -6,6 +6,8 @@ on:
       - 'sources/*.m3u'
       - 'channel-metadata.json'
       - 'merge_m3u.py'
+      - 'epg-mappings.json'
+      - 'tools/build_epg.py'
       - 'tests/**'
       - '.github/workflows/**'
   schedule:
@@ -34,6 +36,8 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Build playlist from checked-in sources
         run: python merge_m3u.py
+      - name: Refresh mapped programme guide
+        run: python tools/build_epg.py
       - name: Optional stream audit
         if: ${{ inputs.audit_streams == true }}
         run: python tools/audit_playlist.py
@@ -41,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add merged.m3u
+          git add merged.m3u guide.xml.gz reports/epg-coverage.json
           if [ -f reports/stream-health.json ]; then git add reports/stream-health.json; fi
           if ! git diff --cached --quiet; then
             git commit -m "Update validated playlist"

@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
 #EXTINF:-1 group-title="Knowledge" tvg-id="Travelxp.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp" tvg-name="Travelxp",Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="Travelxp.HD.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Travelxp.in.webp" tvg-name="Travelxp",Travelxp HD (1080p) [Geo-blocked]
@@ -22,4 +22,4 @@ http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts
 #EXTINF:-1 group-title="Knowledge" tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CGTNDocumentary.cn.webp" tvg-name="CGTN Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="DocumentaryPlus.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DocumentaryPlus.us.webp" tvg-name="Documentary+",Documentary+
-https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8

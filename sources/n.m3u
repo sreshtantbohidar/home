@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
 #EXTINF:-1 group-title="News" tvg-id="India.TV.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IndiaTV.in.webp" tvg-name="India TV",INDIA TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-lg-lgin/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="Zee.News.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeNews.in.webp" tvg-name="Zee News",Zee News (1080p)
@@ -36,7 +36,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="dw.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DW.de.webp" tvg-name="DW",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="RT.ru@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RT.ru.webp" tvg-name="RT",RUSSIA TODAY
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="CNN.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CNNInternational.us.webp" tvg-name="CNN International",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="News" tvg-id="ABC.News.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ABCNews.au.webp" tvg-name="ABC News",ABC NEWS AU

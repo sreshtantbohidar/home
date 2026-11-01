@@ -1,0 +1,705 @@
+{
+  "note": "Explicit channel/feed mappings only. No placeholder programmes or regional substitutions. Recheck provider identity when changing a stream.",
+  "channels": {
+    "DD.Oriya.in": {
+      "name": "DD Odia (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Oriya.in"
+    },
+    "OTV.in": {
+      "name": "Odisha TV (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "OTV.in"
+    },
+    "Alankar.TV.in": {
+      "name": "Alankar TV (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "ALANKAR.in"
+    },
+    "TarangMusic.in@SD": {
+      "name": "Tarang Music (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "TARANG.MUSIC.in"
+    },
+    "TarangTV.in@SD": {
+      "name": "Tarang TV (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "TARANG.in"
+    },
+    "News18.Oriya.in": {
+      "name": "News18 Odia (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "News18.Oriya.in"
+    },
+    "Badakhabar.in": {
+      "name": "Bada Khabar (432p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Badakhabar.in"
+    },
+    "Kalinga.TV.in": {
+      "name": "Kalinga TV (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Kalinga.TV.in"
+    },
+    "MBC.in": {
+      "name": "MBC TV (576p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "MBC.in"
+    },
+    "Nandighosha.in": {
+      "name": "Nandighosha TV (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Nandighosha.in"
+    },
+    "Argus.News.in": {
+      "name": "Argus News",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Argus.News.in"
+    },
+    "Prameya.News.7.in": {
+      "name": "Prameya News7",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Prameya.News.7.in"
+    },
+    "DD.Arunprabha.in": {
+      "name": "DD Arun Prabha (360p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Arunprabha.in"
+    },
+    "DD.Bangla.in": {
+      "name": "DD Bangla (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Bangla.in"
+    },
+    "DD.bharati.in": {
+      "name": "DD Bharati (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.bharati.in"
+    },
+    "DD.Bihar.in": {
+      "name": "DD Bihar (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Bihar.in"
+    },
+    "DD9.chandana.(kannada).in": {
+      "name": "DD Chandana (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD9.chandana.(kannada).in"
+    },
+    "DD.Girnar.in": {
+      "name": "DD Girnar (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Girnar.in"
+    },
+    "DD.India.in": {
+      "name": "DD India (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.India.in"
+    },
+    "DD.Kashir.in": {
+      "name": "DD Kashir (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Kashir.in"
+    },
+    "DD.Kisan.in": {
+      "name": "DD Kisan (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Kisan.in"
+    },
+    "DD.Madhya.Pradesh.in": {
+      "name": "DD Madhya Pradesh (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Madhya.Pradesh.in"
+    },
+    "DD.Malayalam.in": {
+      "name": "DD Malayalam (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Malayalam.in"
+    },
+    "DD.National.in": {
+      "name": "DD National HD (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DD.National.in"
+    },
+    "DD.News.in": {
+      "name": "DD News HD (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.News.in"
+    },
+    "DD.Punjabi.in": {
+      "name": "DD Punjabi (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Punjabi.in"
+    },
+    "DD.Rajasthan.(Jaipur).in": {
+      "name": "DD Rajasthan (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Rajasthan.(Jaipur).in"
+    },
+    "DD.Sahayadri.in": {
+      "name": "DD Sahyadri (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Sahayadri.in"
+    },
+    "DD.Saptagiri.in": {
+      "name": "DD Saptagiri (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Saptagiri.in"
+    },
+    "DD.Sports.in": {
+      "name": "DD Sports SD (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DD.Sports.in"
+    },
+    "DD5.Podhigai.in": {
+      "name": "DD Tamil (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD5.Podhigai.in"
+    },
+    "DD.urdu.in": {
+      "name": "DD Urdu (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.urdu.in"
+    },
+    "DD.Uttar.Pradesh.in": {
+      "name": "DD Uttar Pradesh (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "DD.Uttar.Pradesh.in"
+    },
+    "DDYadagiri.in@SD": {
+      "name": "DD Yadagiri (504p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DD.YADAGIRI.in"
+    },
+    "India.TV.in": {
+      "name": "INDIA TV (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "India.TV.in"
+    },
+    "Zee.News.in": {
+      "name": "Zee News (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "Zee.News.in"
+    },
+    "NDTV.India.in": {
+      "name": "NDTV INDIA",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "NDTV.INDIA.in"
+    },
+    "Aaj.Tak.in": {
+      "name": "AAJ TAK HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Aaj.Tak.in"
+    },
+    "News.18.India.in": {
+      "name": "NEWS18 INDIA",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "News.18.India.in"
+    },
+    "NDTV.24x7.in": {
+      "name": "NDTV 24x7",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "NDTV.24x7.in"
+    },
+    "Zee.Bharat.in": {
+      "name": "Zee Bharat (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Zee.Bharat.in"
+    },
+    "India.Today.in": {
+      "name": "INDIA TODAY",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "India.Today.in"
+    },
+    "CNN.NEWS.18.in": {
+      "name": "CNN NEWS18",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "CNN.NEWS.18.in"
+    },
+    "Republic.TV.in": {
+      "name": "REPUBLIC TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "REPUBLIC.TV.in"
+    },
+    "Wion.in": {
+      "name": "WION (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Wion.in"
+    },
+    "LiveNOWfromFOX.us@SD": {
+      "name": "LiveNOW from FOX",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.LiveNOW.from.FOX.plex"
+    },
+    "dw.in": {
+      "name": "DW NEWS",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "dw.in"
+    },
+    "CNN.in": {
+      "name": "CNN",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "CNN.in"
+    },
+    "NDTV.Profit.in": {
+      "name": "NDTV PROFIT",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "NDTV.Profit.in"
+    },
+    "ET.Now.in": {
+      "name": "ET NOW",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "ET.Now.in"
+    },
+    "YahooFinance.us@SD": {
+      "name": "YAHOO FINANCE",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Yahoo.Finance.plex"
+    },
+    "ABP.News.India.in": {
+      "name": "ABP News",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "ABP.News.India.in"
+    },
+    "Republic.Bharat.in": {
+      "name": "Republic Bharat",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "REPUBLIC.BHARAT.in"
+    },
+    "News.9.in": {
+      "name": "News9Live",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "News.9.in"
+    },
+    "Shemaroo.Filmy.Gaane.in": {
+      "name": "Shemaroo Filmi Gaane (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Shemaroo.Filmy.Gaane.in"
+    },
+    "YRF.Music.in": {
+      "name": "YRF Music",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "YRF.Music.in"
+    },
+    "Saga.Music.in": {
+      "name": "SAGA MUSIC HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Saga.Music.in"
+    },
+    "BalleBalle.in@SD": {
+      "name": "Balle Balle (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "BALLE.BALLE.in"
+    },
+    "Music.India.in": {
+      "name": "MUSIC INDIA HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Music.India.in"
+    },
+    "B4U.Music.in": {
+      "name": "B4U MUSIC",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "B4U.Music.in"
+    },
+    "9XM.in": {
+      "name": "9XM",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "9XM.in"
+    },
+    "9X.Tashan.in": {
+      "name": "9X Tashan",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "9X.Tashan.in"
+    },
+    "Desi.Channel.in": {
+      "name": "Desi Channel (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Desi.Channel.in"
+    },
+    "Pitaara.in": {
+      "name": "Pitaara (720p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Pitaara.in"
+    },
+    "9x.Jhakaas.in": {
+      "name": "9X Jhakaas (1080p)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "9x.Jhakaas.in"
+    },
+    "Now70s.uk@SD": {
+      "name": "NOW 70s",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "NOW.70s.uk"
+    },
+    "Now80s.uk@SD": {
+      "name": "NOW 80s",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "NOW.80s.uk"
+    },
+    "NOWRock.uk@SD": {
+      "name": "NOW 90s",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "Now.Rock.uk"
+    },
+    "VevoHipHopRB.uk": {
+      "name": "VEVO HIP HOP & R&B",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+      "source_channel": "UK:.Vevo.Hip-Hop.&.R&B.be"
+    },
+    "9X.Jalwa.in": {
+      "name": "9X Jalwa",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "9X.Jalwa.in"
+    },
+    "Sangeet.Bhojpuri.in": {
+      "name": "Sangeet Bhojpuri",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Sangeet.Bhojpuri.in"
+    },
+    "Now90s00s.uk@Poland": {
+      "name": "Now 90s00s",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "NOW.90s00s.uk"
+    },
+    "QelloConcertsbyStingray.ca@SD": {
+      "name": "Qello Concerts by Stingray",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Qello.Concerts.plex"
+    },
+    "StingrayHotCountry.ca@SD": {
+      "name": "Stingray Hot Country",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Stingray.Hot.Country.plex"
+    },
+    "StingraySoulStorm.ca@SD": {
+      "name": "Stingray Soul Storm",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Stingray.Soul.Storm.plex"
+    },
+    "VevoPop.us@SD": {
+      "name": "Vevo Pop",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+      "source_channel": "FR:.Vevo.Pop.be"
+    },
+    "XITE90sThrowback.us@SD": {
+      "name": "XITE 90's Throwback",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.XITE.90s.Throwback.plex"
+    },
+    "Zoom.in@Nepal": {
+      "name": "Zoom",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "ZOOM.in"
+    },
+    "Insync.in@SD": {
+      "name": "Insync",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Insync.in"
+    },
+    "Sony.SAB.HD.in": {
+      "name": "Sony SAB HD (1080p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "SONY.SAB.in"
+    },
+    "Colors.HD.in": {
+      "name": "Colors HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Colors.HD.in"
+    },
+    "Star.Plus.HD.in": {
+      "name": "Star Plus HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "STAR.PLUS.HD.in"
+    },
+    "&TV.HD.in": {
+      "name": "& Tv",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "and.TV.HD.in"
+    },
+    "Zee.TV.in": {
+      "name": "Zee Tv",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "ZEE.TV.in"
+    },
+    "Dangal.in": {
+      "name": "Dangal TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DANGAL.in"
+    },
+    "Dangal.2.in": {
+      "name": "Dangal 2",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "Dangal.2.in"
+    },
+    "Shemaroo.TV.in": {
+      "name": "Shemaroo TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "Shemaroo.TV.in"
+    },
+    "B4U.Movies.in": {
+      "name": "B4U MOVIES",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "B4U.Movies.in"
+    },
+    "B4U.Kadak.in": {
+      "name": "B4U KADAK",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "B4U.KADAK.in"
+    },
+    "Shemaroo.Bollywood.in": {
+      "name": "Shemaro Bollywood",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Shemaroo.Bollywood.in"
+    },
+    "Bhojpuri.Cinema.in": {
+      "name": "Bhojpuri Cinema",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "BHOJPURI.CINEMA.in"
+    },
+    "Colors.Cineplex.in": {
+      "name": "Colors Cineplex",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "COLORS.CINEPLEX.in"
+    },
+    "Star.Gold.in": {
+      "name": "Star Gold HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "STAR.GOLD.in"
+    },
+    "Star.Gold.Select.in": {
+      "name": "Star Gold Select",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "STAR.GOLD.SELECT.in"
+    },
+    "Zee.Cinema.HD.in": {
+      "name": "Zee Cinema HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "ZEE.CINEMA.HD.in"
+    },
+    "Zee.Bollywood.in": {
+      "name": "Zee Bollywood",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "ZEE.Bollywood.in"
+    },
+    "Sony.Max.in": {
+      "name": "Sony Max",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "SONY.MAX.in"
+    },
+    "Sony.Max.HD.in": {
+      "name": "Sony Max HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN2.xml.gz",
+      "source_channel": "Sony.Max.Hd.Tv.Channel.Today.in2"
+    },
+    "Sony.Max.2.in": {
+      "name": "Sony Max 2",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Sony.MAX2.in"
+    },
+    "24HourFreeMovies.us": {
+      "name": "24 Hour Free Movies",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.24.Hour.Free.Movies.plex"
+    },
+    "ActionHollywoodMovies.us": {
+      "name": "Action Hollywood Movies",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Action.Hollywood.Movies.plex"
+    },
+    "DarkMatterTV.us": {
+      "name": "Dark Matter TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Dark.Matter.TV.plex"
+    },
+    "EbonyTVbyLionsgate.us": {
+      "name": "Ebony TV by Lionsgate",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Ebony.TV.by.Lionsgate.plex"
+    },
+    "FilmRiseWestern.us": {
+      "name": "FilmRise Western",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.FilmRise.Western.plex"
+    },
+    "FrightFlix.us": {
+      "name": "FrightFlix",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.FrightFlix.plex"
+    },
+    "GravitasMovies.us": {
+      "name": "Gravitas Movies",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Gravitas.Movies.plex"
+    },
+    "HallmarkMoviesMore.us": {
+      "name": "Hallmark Movies & More",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Hallmark.Movies.&.More.plex"
+    },
+    "MaverickBlackCinema.us": {
+      "name": "Maverick Black Cinema",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Maverick.Black.Cinema.plex"
+    },
+    "MovieSphere.us": {
+      "name": "MovieSphere",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.MOVIESPHERE.plex"
+    },
+    "MyTimeMovieNetworkEast.us": {
+      "name": "MyTime Movie Network",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.MyTime.Movie.Network.plex"
+    },
+    "OuterSphere.us": {
+      "name": "OuterSphere",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.OuterSphere.by.Lionsgate.plex"
+    },
+    "WatchitScream.us": {
+      "name": "Watch it Scream!",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Watch.it.SCREAM.plex"
+    },
+    "GREATmovies.uk@UK": {
+      "name": "GREAT! movies",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "GREAT!.movies.uk"
+    },
+    "GREATromance.uk@UK": {
+      "name": "GREAT! romance",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+      "source_channel": "GREAT!.romance.uk"
+    },
+    "KidsFlix.us@SD": {
+      "name": "KidsFlix",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.KidsFlix.plex"
+    },
+    "NollyAfrica.uk@SD": {
+      "name": "Nolly Africa",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Nolly.Africa.HD.plex"
+    },
+    "WuTangCollection.us@SD": {
+      "name": "Wu Tang Collection",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Wu.Tang.Collection.plex"
+    },
+    "SONY.YAY!.in": {
+      "name": "Sony Yay! (1080p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Sony.Yay.Hindi.in"
+    },
+    "Animax.in": {
+      "name": "ANIMAX",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Animax.in"
+    },
+    "Cartoon.Network.HD+.in": {
+      "name": "Cartoon Network HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "CARTOON.NETWORK.in"
+    },
+    "Cartoon.Network.in": {
+      "name": "Cartoon Network",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "CARTOON.NETWORK.in"
+    },
+    "Discovery.Kids.in": {
+      "name": "Discovery Kids",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DISCOVERY.KIDS.in"
+    },
+    "Pogo.in": {
+      "name": "Pogo",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "POGO.in"
+    },
+    "ToonGoggles.us@SD": {
+      "name": "ToonGoggles",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Toon.Goggles.plex"
+    },
+    "Red.Bull.TV.in": {
+      "name": "Red Bull TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Red.Bull.TV.in"
+    },
+    "FIFAPlus.uk@SD": {
+      "name": "FIFA+",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+      "source_channel": "UK:.FIFA+.be"
+    },
+    "Travelxp.in@SD": {
+      "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Travelxp.HD.in"
+    },
+    "Travelxp.HD.in": {
+      "name": "Travelxp HD (1080p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Travelxp.HD.in"
+    },
+    "History.TV18.HD.in": {
+      "name": "History TV18 HD (1080p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "HISTORY.TV18.HD.in"
+    },
+    "History.TV18.HD.Hindi.in": {
+      "name": "History TV18 HD Hindi (1080p) [Geo-blocked]",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "History.TV18.HD.Hindi.in"
+    },
+    "Animal.Planet.HD.in": {
+      "name": "Animal Planet HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "ANIMAL.PLANET.in"
+    },
+    "Discovery.in": {
+      "name": "Discovery",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "DISCOVERY.CHANNEL.in"
+    },
+    "Nat.Geo.Wild.HD.in": {
+      "name": "National Wild HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "NAT.GEO.WILD.HD.in"
+    },
+    "SONY.BBC.Earth.in": {
+      "name": "Sony BBC Earth",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "SONY.BBC.EARTH.in"
+    },
+    "National.Geographic.HD.in": {
+      "name": "National Geographic HD",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+      "source_channel": "NATIONAL.GEOGRAPHIC.HD.in"
+    },
+    "DocumentaryPlus.us@SD": {
+      "name": "Documentary+",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Documentary+.plex"
+    },
+    "Tastemade.us@SD": {
+      "name": "Tastemade",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "source_channel": "Tastemade.us2"
+    },
+    "TastemadeTravel.us@SD": {
+      "name": "Tastemade Travel",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "source_channel": "Tastemade.Travel.us2"
+    },
+    "GoTraveler.us@SD": {
+      "name": "GoTraveler",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.GoTraveler.plex"
+    },
+    "Sony.Entertainment.Television.in": {
+      "name": "Sony Television",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "Set.SD.in"
+    }
+  }
+}

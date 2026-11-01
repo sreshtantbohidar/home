@@ -462,7 +462,7 @@
     },
     "VEVO HIP HOP & R&B": {
       "tvg-name": "Vevo Hip-Hop & R&B",
-      "tvg-id": "",
+      "tvg-id": "VevoHipHopRB.uk",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoHipHop.us.webp",
       "tvg-language": "English"
     },
@@ -872,7 +872,9 @@
       "tvg-id": "GoTraveler.us@SD",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoTraveler.us.webp"
     },
-    "MUSIC RELOAD": {},
+    "MUSIC RELOAD": {
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicReload.custom.webp"
+    },
     "Hindi Movie Classic 24": {
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/hindimovieclassic24.webp"
     },
@@ -1032,7 +1034,8 @@
     "Goldmines 2": {
       "tvg-id": "Goldmines2.in@SD",
       "tvg-name": "Goldmines 2",
-      "tvg-language": "Hindi"
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Goldmines2.in.webp"
     },
     "Goldmines Action": {
       "tvg-id": "GoldminesAction.in@SD",
@@ -1079,7 +1082,8 @@
     "MH One Movies": {
       "tvg-id": "MHOneMovies.in@SD",
       "tvg-name": "MH One Movies",
-      "tvg-language": "Hindi"
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MHOneMovies.in.webp"
     },
     "Nolly Africa": {
       "tvg-id": "NollyAfrica.uk@SD",
@@ -1174,7 +1178,8 @@
     "Trace UK": {
       "tvg-id": "TraceUK.uk@HD",
       "tvg-name": "Trace UK",
-      "tvg-language": "English"
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TraceUK.uk.webp"
     },
     "V2BEAT TV": {
       "tvg-id": "V2BEATTV.uk@SD",

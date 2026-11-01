@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
 #EXTINF:-1 group-title="Odia" tvg-id="DD.Oriya.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DDOdia.in.webp" tvg-name="DD Odia",DD Odia (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 #EXTINF:-1 group-title="Odia" tvg-id="OTV.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/OdishaTV.in.webp" tvg-name="Odisha TV",Odisha TV (720p)

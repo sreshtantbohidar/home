@@ -1,0 +1,43 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Shemaroo.Filmy.Gaane.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooFilmiGaane.in.webp" tvg-name="Shemaroo Filmi Gaane",Shemaroo Filmi Gaane (1080p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="YRF.Music.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/YRFMusic.in.webp" tvg-name="YRF Music",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="HindiHits.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HindiHits.in.webp" tvg-name="Hindi Hits",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Saga.Music.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/sagamusichd.webp" tvg-name="SAGA MUSIC HD",SAGA MUSIC HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="BalleBalle.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BalleBalle.in.webp" tvg-name="Balle Balle",Balle Balle (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Music.India.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp" tvg-name="Music India",MUSIC INDIA HD
+https://jmp2.uk/stvp-INBD4700015M0
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Music.India.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MusicIndia.in.webp" tvg-name="Music India",Music India (720p) [Not 24/7]
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="B4U.Music.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp" tvg-name="B4U Music",B4U MUSIC
+https://mix.drmlive.net/mix/xiaomi-66225.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="B4U.Music.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/B4UMusic.in.webp" tvg-name="B4U Music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="9XM.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XM.in.webp" tvg-name="9XM",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="9X.Tashan.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XTashan.in.webp" tvg-name="9X Tashan",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Desi.Channel.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/DesiChannel.in.webp" tvg-name="Desi Channel",Desi Channel (720p)
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Pitaara.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Pitaara.in.webp" tvg-name="Pitaara",Pitaara (720p)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="JooMusic.pk@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/JooMusic.pk.webp" tvg-name="JooMusic",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="9x.Jhakaas.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJhakaas.in.webp" tvg-name="9X Jhakaas",9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="9X.Jalwa.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/9XJalwa.in.webp" tvg-name="9X Jalwa",9X Jalwa
+https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Mastiii.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Mastiii.in.webp" tvg-name="Mastiii",Mastiii
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Sangeet.Bhojpuri.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SangeetBhojpuri.in.webp" tvg-name="Sangeet Bhojpuri",Sangeet Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="EpicMusic.in@Digital" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicMusic.in.webp" tvg-name="Epic Music",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Zoom.in@Nepal" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Zoom.in.webp" tvg-name="Zoom",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="Insync.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp" tvg-name="Insync",Insync
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
