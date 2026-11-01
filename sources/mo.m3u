@@ -69,3 +69,6 @@ https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeSouthFlix.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeSouthFlix.in.webp" tvg-name="Zee South Flix",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="NHBollyGold.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyGold.in.webp" tvg-name="NH BollyGold",NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8

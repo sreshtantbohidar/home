@@ -1,0 +1,351 @@
+{
+  "checked_date": "2026-11-01",
+  "requested": [
+    "AXN",
+    "HBO",
+    "Star Movies (interpreting Start Movies)",
+    "MGM"
+  ],
+  "added": [
+    {
+      "name": "AXN Asia",
+      "url": "http://202.150.165.66:8088/play/301-AXN/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "aac_latm",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "channel_name": "AXN Asia",
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 1,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        },
+        {
+          "index": 2,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        },
+        {
+          "index": 3,
+          "codec_name": "aac_latm",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        }
+      ],
+      "decoded_seconds": 8
+    },
+    {
+      "name": "HBO Asia",
+      "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac_latm",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOAsia.sg",
+      "feed": "HD",
+      "channel_name": "HBO Asia",
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 1,
+          "codec_name": "aac_latm",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        },
+        {
+          "index": 2,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        }
+      ],
+      "decoded_seconds": 8
+    }
+  ],
+  "not_added": {
+    "Star Movies": "All four tested Indian candidates failed (HTTP denial/timeouts); no verified replacement.",
+    "MGM": "No verified playable feed found; tested MGM+/former Epix candidate failed. MGM+ is not assumed to be a surviving MGM HD feed."
+  },
+  "notes": [
+    "Added regional Asian feeds, not claimed to be Indian feeds. English audio language tags and 8-second local decode samples verified.",
+    "AXN Asia is general entertainment, placed in English Entertainment rather than mislabeled as a movie-only channel. HBO Asia is in English Movies.",
+    "Links are third-party publicly indexed operator endpoints, not an official broadcaster promise of free public distribution or stable access. No credentials or DRM bypass used.",
+    "Matching Indonesian AXN and Singapore HBO regional guide mappings included; no US HBO or Indian schedules substituted."
+  ],
+  "sources": [
+    "https://www.axn-asia.com/about",
+    "https://www.hbo.com/about",
+    "https://github.com/iptv-org/api",
+    "https://github.com/iptv-org/iptv",
+    "https://github.com/ttmttm/iptv_2026/blob/master/streams/in.m3u"
+  ],
+  "candidate_checks": [
+    {
+      "name": "AXN Adria",
+      "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 576
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "epg",
+          "codec_type": "data"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AXNAdria.us",
+      "feed": "SD",
+      "channel_name": "AXN Adria"
+    },
+    {
+      "name": "AXN Asia",
+      "url": "http://202.150.165.66:8088/play/301-AXN/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "aac_latm",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AXNAsia.sg",
+      "feed": "Indonesia",
+      "channel_name": "AXN Asia"
+    },
+    {
+      "name": "AXN Asia",
+      "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": false,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AXNAsia.sg",
+      "feed": "Taiwan",
+      "channel_name": "AXN Asia"
+    },
+    {
+      "name": "HBO",
+      "url": "http://tvsen7.aynascope.net/hbo/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>",
+      "channel_id": "HBO.us",
+      "feed": "East",
+      "channel_name": "HBO"
+    },
+    {
+      "name": "HBO Asia",
+      "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac_latm",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOAsia.sg",
+      "feed": "HD",
+      "channel_name": "HBO Asia"
+    },
+    {
+      "name": "HBO Asia",
+      "url": "http://125.227.210.55:1003/VideoInput/play.ts",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": false,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOAsia.sg",
+      "feed": "Taiwan",
+      "channel_name": "HBO Asia"
+    },
+    {
+      "name": "Star Movies",
+      "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden",
+      "channel_id": "StarMovies.in",
+      "feed": "HD",
+      "channel_name": "Star Movies"
+    },
+    {
+      "name": "Star Movies HD",
+      "url": "http://103.157.248.140:8000/play/a01t/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Star Movies HD",
+      "url": "http://ptuf.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Star Movies HD",
+      "url": "http://103.55.144.46/hls/starmovies.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "MGM+ (US)",
+      "url": "http://40.160.24.52/EPIX/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

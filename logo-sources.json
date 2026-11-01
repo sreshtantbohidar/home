@@ -1555,5 +1555,37 @@
       "Trace UK"
     ],
     "note": "Trace Group logo via Wikimedia Commons."
+  },
+  "NHBollyGold.in": {
+    "file": "logos/NHBollyGold.in.webp",
+    "source": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "NH BollyGold"
+    ]
+  },
+  "NHBollyRaga.in": {
+    "file": "logos/NHBollyRaga.in.webp",
+    "source": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "NH BollyRaga"
+    ]
+  },
+  "AXNAsia.sg": {
+    "file": "logos/AXNAsia.sg.webp",
+    "source": "https://i.ibb.co/jPwn53yr/IMG-2448.jpg",
+    "kind": "broadcaster_logo",
+    "names": [
+      "AXN Asia (English)"
+    ]
+  },
+  "HBOAsia.sg": {
+    "file": "logos/HBOAsia.sg.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "HBO Asia (English)"
+    ]
   }
 }

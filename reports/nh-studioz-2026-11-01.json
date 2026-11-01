@@ -1,0 +1,251 @@
+{
+  "checked_date": "2026-11-01",
+  "sources": [
+    "https://www.nhstudioz.tv/",
+    "https://www.nhstudioz.tv/our-channels",
+    "https://www.indianbroadcastingworld.com/nh-studioz-partners-with/",
+    "https://gist.github.com/rajmalviyan/f6c2f9ceacf61a55042496db4bdc9b3d"
+  ],
+  "added": [
+    {
+      "name": "NH BollyGold",
+      "url": "https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8",
+      "http_status": 200,
+      "hls": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "ok": true,
+      "decoded_seconds": 8
+    },
+    {
+      "name": "NH BollyRaga",
+      "url": "https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8",
+      "http_status": 200,
+      "hls": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "ok": true,
+      "decoded_seconds": 8
+    }
+  ],
+  "already_present": [
+    "NH BollyFlix"
+  ],
+  "other_requested_destinations": [
+    {
+      "name": "NH Studioz",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhstudioz",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Movies",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhmovies",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Prime",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhprime",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Golden Plaza",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@NHGoldenPlaza",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Filmy Action",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@filmyactionstudioz",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Blockbuster Dubbed Movies",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@hollywoodubbedmovies",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Bollywoodflix",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/channel/UCtKTEl84MkBuWD2gJX22UiQ",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Shaandaar Movies",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@Shaandaarmovies",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Superhit Cinema",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@NHSuperhitCinema",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Movies Ka Tadka",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@BollywoodMoviesKaTadka",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Holly Flix",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@NHHollyFlix",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Bollywood Songs",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhbollywoodsongs",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Hindi Songs",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhhindisongs",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "NH Music Shorts",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@nhhindimusic",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Surili Bahar",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@SuriliBahar",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Sholay Records",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@SholayRecords",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Betaab Records",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@BetaabRecords",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Baghban Records",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@BaghbanRecords-n2c",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    },
+    {
+      "name": "Bollywood Sadabahar Song",
+      "official_platform": "YouTube",
+      "official_url": "https://www.youtube.com/@bollywoodsadabaharsonghd",
+      "m3u_status": "No verified standalone live HLS feed found; not inserted as an IPTV stream"
+    }
+  ],
+  "note": "NH Golden Plaza on YouTube and NH BollyGold FAST are separate destinations, not verified aliases. Bollywoodflix/NH Bolly Flix YouTube destinations are not substituted for the existing NH BollyFlix FAST feed. NH Holly Flix is confirmed as a YouTube destination, not a standalone English FAST channel. Added feeds provide H264/AAC up to 1080p and passed 8-second decode samples. Public current programme data was not found for these new feeds; no schedules invented."
+}

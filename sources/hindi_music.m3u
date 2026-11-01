@@ -41,3 +41,6 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-id="Insync.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp" tvg-name="Insync",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+
+#EXTINF:-1 group-title="Hindi Music" tvg-id="NHBollyRaga.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyRaga.in.webp" tvg-name="NH BollyRaga",NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8

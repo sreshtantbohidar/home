@@ -1240,6 +1240,30 @@
       "tvg-name": "Insync",
       "tvg-language": "Hindi",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp"
+    },
+    "NH BollyGold": {
+      "tvg-id": "NHBollyGold.in@HD",
+      "tvg-name": "NH BollyGold",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyGold.in.webp"
+    },
+    "NH BollyRaga": {
+      "tvg-id": "NHBollyRaga.in@HD",
+      "tvg-name": "NH BollyRaga",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyRaga.in.webp"
+    },
+    "AXN Asia (English)": {
+      "tvg-id": "AXNAsia.sg@Indonesia",
+      "tvg-name": "AXN Asia (English)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AXNAsia.sg.webp"
+    },
+    "HBO Asia (English)": {
+      "tvg-id": "HBOAsia.sg@HD",
+      "tvg-name": "HBO Asia (English)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOAsia.sg.webp"
     }
   }
 }

@@ -4,7 +4,19 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 
 - [Combined playlist](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/merged.m3u)
 - [Combined programme guide](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz)
-- Sources: Odia, Doordarshan, News, Hindi Music, English Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+- Sources: Odia, Doordarshan, News, Hindi Music, English Music, Hindi Entertainment, English Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
+
+## November 1, 2026: AXN / HBO / Star Movies / MGM research
+
+Added **AXN Asia (English)** under a new English Entertainment group and **HBO Asia (English)** under English Movies. These are explicitly regional Asian feeds, not Indian channel feeds. Their audio tracks are tagged English and both passed audio/video probing plus eight-second decode samples. Matching Indonesian AXN and Singapore HBO guide mappings are included. Third-party public operator links can change and are not an official broadcaster promise of free distribution or stable access.
+
+No Star Movies or MGM entry was added: the tested Star Movies candidates and MGM+/former Epix candidate failed. [Research and checks](reports/axn-hbo-star-mgm-2026-11-01.json). The combined playlist now has **237 streams**, including the two new NH channels below.
+
+## November 1, 2026: NH Studioz follow-up
+
+Added **NH BollyGold** under Movies and **NH BollyRaga** under Hindi Music, using direct RunnTV masters. Both yielded H264 video and AAC audio up to 1080p and passed short decode tests. NH BollyFlix was already present. The combined playlist now contains **235 streams**, all with local icons. Stingray channels remain at the bottom of English Music. No current public programme schedule was found for the two additions.
+
+The [official NH Studioz directory](https://www.nhstudioz.tv/our-channels) identifies the other requested brands, including NH Holly Flix, NH Prime and the records/music brands, as YouTube destinations. No verified standalone live HLS links were found for those; YouTube watch/channel pages were not inserted as IPTV stream URLs. NH Golden Plaza and NH BollyGold are distinct destinations. The [research report](reports/nh-studioz-2026-11-01.json) records every requested name and its official destination.
 
 ## November 1, 2026: music groups
 

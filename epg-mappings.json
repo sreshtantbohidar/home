@@ -700,6 +700,16 @@
       "name": "Sony Television",
       "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
       "source_channel": "Set.SD.in"
+    },
+    "AXNAsia.sg@Indonesia": {
+      "name": "AXN Asia (English)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz",
+      "source_channel": "AXN.HD.id"
+    },
+    "HBOAsia.sg@HD": {
+      "name": "HBO Asia (English)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
+      "source_channel": "HBO.HD.sg"
     }
   }
 }

@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz" url-tvg="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz"
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="AXNAsia.sg@Indonesia" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AXNAsia.sg.webp" tvg-name="AXN Asia (English)",AXN Asia (English)
+http://202.150.165.66:8088/play/301-AXN/index.m3u8

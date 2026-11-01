@@ -192,6 +192,8 @@ https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-id="Insync.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp" tvg-name="Insync",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-id="NHBollyRaga.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyRaga.in.webp" tvg-name="NH BollyRaga",NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTINF:-1 group-title="English Music" tvg-id="Now70s.uk@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now70s.uk.webp" tvg-name="Now 70s",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="English Music" tvg-id="Now80s.uk@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now80s.uk.webp" tvg-name="Now 80s",NOW 80s
@@ -274,6 +276,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Shemaroo.Umang.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooUmang.in.webp" tvg-name="Shemaroo Umang",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="English Entertainment" tvg-id="AXNAsia.sg@Indonesia" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AXNAsia.sg.webp" tvg-name="AXN Asia (English)",AXN Asia (English)
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeDilSe.in@HD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeDilSe.in.webp" tvg-name="Zee Dil Se",Zee Dil Se (1080p)
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeCineClassic.in@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeCineClassic.in.webp" tvg-name="Zee Cine Classic",Zee Cine Classic (1080p)
@@ -344,6 +348,8 @@ https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="ZeeSouthFlix.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeSouthFlix.in.webp" tvg-name="Zee South Flix",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="NHBollyGold.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NHBollyGold.in.webp" tvg-name="NH BollyGold",NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-id="24HourFreeMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/24HourFreeMovies.us.webp" tvg-name="24 Hour Free Movies",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-id="30ATVClassicMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/30ATVClassicMovies.us.webp" tvg-name="30A TV Classic Movies",30A TV Classic Movies
@@ -396,6 +402,8 @@ https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg0
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 group-title="English Movies" tvg-id="GrjngoWesternMovies.de@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GrjngoWesternMovies.de.webp" tvg-name="Grjngo Western Movies",Grjngo Western Movies
 https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="HBOAsia.sg@HD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOAsia.sg.webp" tvg-name="HBO Asia (English)",HBO Asia (English)
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="SONY.YAY!.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp" tvg-name="Sony Yay!",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp" tvg-name="Animax",ANIMAX
