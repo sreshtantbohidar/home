@@ -47,3 +47,69 @@ https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Sangeet.Bhojpuri.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SangeetBhojpuri.in.webp" tvg-name="Sangeet Bhojpuri",Sangeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="CaliforniaMusicChannel.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CaliforniaMusicChannel.us.webp" tvg-name="California Music Channel",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="ClubbingTV.us@UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ClubbingTV.us.webp" tvg-name="Clubbing TV",Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CMCUSACountryMusicChannel.us.webp" tvg-name="CMC-USA Country Music Channel",CMC-USA Country Music Channel
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="LIVExLIVE.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LIVExLIVE.us.webp" tvg-name="LIVExLIVE",LIVExLIVE
+https://livestream.liveone.com/lc1/p1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="Now90s00s.uk@Poland" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now90s00s.uk.webp" tvg-name="Now 90s00s",Now 90s00s
+https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="QelloConcertsbyStingray.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/QelloConcertsbyStingray.ca.webp" tvg-name="Qello Concerts by Stingray",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayClassicRock.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayClassicRock.ca.webp" tvg-name="Stingray Classic Rock",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayEverything80s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayEverything80s.ca.webp" tvg-name="Stingray Everything '80s",Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayFlashback70s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayFlashback70s.ca.webp" tvg-name="Stingray Flashback 70's",Stingray Flashback 70's
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHitList.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHitList.ca.webp" tvg-name="Stingray Hit List",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHotCountry.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHotCountry.ca.webp" tvg-name="Stingray Hot Country",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayJukeboxOldies.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayJukeboxOldies.ca.webp" tvg-name="Stingray Jukebox Oldies",Stingray Jukebox Oldies
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayNothinBut90s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayNothinBut90s.ca.webp" tvg-name="Stingray Nothin' But 90s",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayPopAdult.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayPopAdult.ca.webp" tvg-name="Stingray Pop Adult",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingrayRockAlternative.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayRockAlternative.ca.webp" tvg-name="Stingray Rock Alternative",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="StingraySoulStorm.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingraySoulStorm.ca.webp" tvg-name="Stingray Soul Storm",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="TheCountryNetwork.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheCountryNetwork.us.webp" tvg-name="The Country Network",The Country Network
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="TraceUK.uk@HD" tvg-language="English" tvg-name="Trace UK",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="V2BEATTV.uk@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/V2BEATTV.uk.webp" tvg-name="V2BEAT TV",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="VevoPop.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoPop.us.webp" tvg-name="Vevo Pop",Vevo Pop
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="VideoMixTV.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VideoMixTV.us.webp" tvg-name="Video Mix TV",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="XITE90sThrowback.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/XITE90sThrowback.us.webp" tvg-name="XITE 90's Throwback",XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8

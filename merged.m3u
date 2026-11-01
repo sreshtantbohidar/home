@@ -198,6 +198,50 @@ https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="Sangeet.Bhojpuri.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SangeetBhojpuri.in.webp" tvg-name="Sangeet Bhojpuri",Sangeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CaliforniaMusicChannel.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CaliforniaMusicChannel.us.webp" tvg-name="California Music Channel",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="ClubbingTV.us@UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ClubbingTV.us.webp" tvg-name="Clubbing TV",Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CMCUSACountryMusicChannel.us.webp" tvg-name="CMC-USA Country Music Channel",CMC-USA Country Music Channel
+https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="LIVExLIVE.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LIVExLIVE.us.webp" tvg-name="LIVExLIVE",LIVExLIVE
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Now90s00s.uk@Poland" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now90s00s.uk.webp" tvg-name="Now 90s00s",Now 90s00s
+https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="QelloConcertsbyStingray.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/QelloConcertsbyStingray.ca.webp" tvg-name="Qello Concerts by Stingray",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayClassicRock.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayClassicRock.ca.webp" tvg-name="Stingray Classic Rock",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayEverything80s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayEverything80s.ca.webp" tvg-name="Stingray Everything '80s",Stingray Everything '80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayFlashback70s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayFlashback70s.ca.webp" tvg-name="Stingray Flashback 70's",Stingray Flashback 70's
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHitList.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHitList.ca.webp" tvg-name="Stingray Hit List",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayHotCountry.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHotCountry.ca.webp" tvg-name="Stingray Hot Country",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayJukeboxOldies.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayJukeboxOldies.ca.webp" tvg-name="Stingray Jukebox Oldies",Stingray Jukebox Oldies
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayNothinBut90s.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayNothinBut90s.ca.webp" tvg-name="Stingray Nothin' But 90s",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayPopAdult.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayPopAdult.ca.webp" tvg-name="Stingray Pop Adult",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingrayRockAlternative.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayRockAlternative.ca.webp" tvg-name="Stingray Rock Alternative",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="StingraySoulStorm.ca@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingraySoulStorm.ca.webp" tvg-name="Stingray Soul Storm",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TheCountryNetwork.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheCountryNetwork.us.webp" tvg-name="The Country Network",The Country Network
+https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="TraceUK.uk@HD" tvg-language="English" tvg-name="Trace UK",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="V2BEATTV.uk@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/V2BEATTV.uk.webp" tvg-name="V2BEAT TV",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="VevoPop.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoPop.us.webp" tvg-name="Vevo Pop",Vevo Pop
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="VideoMixTV.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VideoMixTV.us.webp" tvg-name="Video Mix TV",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="XITE90sThrowback.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/XITE90sThrowback.us.webp" tvg-name="XITE 90's Throwback",XITE 90's Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony.SAB.HD.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp" tvg-name="Sony SAB",Sony SAB HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id="NAZARA.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicBharat.in.webp" tvg-name="Epic Bharat",Nazara (1080p)
@@ -280,6 +324,22 @@ https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Goldmines.Bollywood.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesBollywood.in.webp" tvg-name="Goldmines Bollywood",Gold Mines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="AllTimeMovies.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AllTimeMovies.in.webp" tvg-name="All Time Movies",All Time Movies
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="Goldmines2.in@SD" tvg-language="Hindi" tvg-name="Goldmines 2",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="GoldminesAction.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesAction.in.webp" tvg-name="Goldmines Action",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MahaMovie.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MahaMovie.in.webp" tvg-name="Maha Movie",Maha Movie
+https://cdn.pishow.tv/ott/live/10007/master.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ManoranjanGrand.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanGrand.in.webp" tvg-name="Manoranjan Grand",Manoranjan Grand
+https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="MHOneMovies.in@SD" tvg-language="Hindi" tvg-name="MH One Movies",MH One Movies
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ShemarooJosh.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooJosh.in.webp" tvg-name="Shemaroo Josh",Shemaroo Josh
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="ZeeSouthFlix.in@HD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeSouthFlix.in.webp" tvg-name="Zee South Flix",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-id="24HourFreeMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/24HourFreeMovies.us.webp" tvg-name="24 Hour Free Movies",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-id="30ATVClassicMovies.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/30ATVClassicMovies.us.webp" tvg-name="30A TV Classic Movies",30A TV Classic Movies
@@ -318,6 +378,20 @@ https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
 #EXTINF:-1 group-title="English Movies" tvg-id="WhiplashCinema.us" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WhiplashCinema.us.webp" tvg-name="Whiplash Cinema",Whiplash Cinema
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="Cinevault80s.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Cinevault80s.us.webp" tvg-name="Cinevault 80s",Cinevault 80s
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="GREATmovies.uk@UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GREATmovies.uk.webp" tvg-name="GREAT! movies",GREAT! movies
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="GREATromance.uk@UK" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GREATromance.uk.webp" tvg-name="GREAT! romance",GREAT! romance
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="KidsFlix.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KidsFlix.us.webp" tvg-name="KidsFlix",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="English Movies" tvg-id="NollyAfrica.uk@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NollyAfrica.uk.webp" tvg-name="Nolly Africa",Nolly Africa
+https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="WuTangCollection.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WuTangCollection.us.webp" tvg-name="Wu Tang Collection",Wu Tang Collection
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1 group-title="English Movies" tvg-id="GrjngoWesternMovies.de@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GrjngoWesternMovies.de.webp" tvg-name="Grjngo Western Movies",Grjngo Western Movies
+https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="SONY.YAY!.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp" tvg-name="Sony Yay!",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp" tvg-name="Animax",ANIMAX

@@ -1,0 +1,4236 @@
+{
+  "checked_date": "2026-11-01",
+  "sources": [
+    "https://github.com/iptv-org/api",
+    "https://github.com/iptv-org/iptv",
+    "https://www.hq.vevo.com/press/vevo-partners-with-sling-launches-music-video-channels-on-sling-freestream",
+    "https://support.stingray.com/hc/en-us/articles/47976651564955-TV-Channels-Free-Streaming-FAST",
+    "https://www.grjngo.com/"
+  ],
+  "method": "Language/feed and identity metadata checked against public index. HLS manifests and small segment samples requested. Each selected stream yielded audio and video in ffprobe; this is not a sustained playback or redistribution-rights certification. No DRM, account credentials, or geographic restrictions were bypassed. Stable master URLs retained, not generated session renditions. Availability can vary by location and time.",
+  "already_present_skipped": [
+    "Goldmines Movies"
+  ],
+  "added": [
+    {
+      "id": "AllTimeMovies.in",
+      "name": "All Time Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "AllTimeMovies.in",
+        "feed": "SD",
+        "title": "All Time Movies",
+        "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/AllTimeMovies.in.webp",
+      "logo_source": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/",
+      "stream": {
+        "channel": "CaliforniaMusicChannel.us",
+        "feed": "SD",
+        "title": "California Music Channel",
+        "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 896,
+          "height": 504
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/CaliforniaMusicChannel.us.webp",
+      "logo_source": "https://i.imgur.com/FyNot5W.png"
+    },
+    {
+      "id": "Cinevault80s.us",
+      "name": "Cinevault 80s",
+      "group": "English Movies",
+      "website": "https://www.cinevaulttv.com/",
+      "stream": {
+        "channel": "Cinevault80s.us",
+        "feed": "SD",
+        "title": "Cinevault 80s",
+        "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+        "quality": "540p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "webvtt",
+          "codec_type": "subtitle"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 384,
+          "height": 216
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/Cinevault80s.us.webp",
+      "logo_source": "https://i.imgur.com/xaCyyDd.png"
+    },
+    {
+      "id": "ClubbingTV.us",
+      "name": "Clubbing TV",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/clubbing-tv-de",
+      "stream": {
+        "channel": "ClubbingTV.us",
+        "feed": "UK",
+        "title": "Clubbing TV UK",
+        "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/ClubbingTV.us.webp",
+      "logo_source": "https://i.imgur.com/MyiA92q.png"
+    },
+    {
+      "id": "CMCUSACountryMusicChannel.us",
+      "name": "CMC-USA Country Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/cmc-usa/index.html",
+      "stream": {
+        "channel": "CMCUSACountryMusicChannel.us",
+        "feed": "SD",
+        "title": "CMC-USA Country Music Channel",
+        "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/CMCUSACountryMusicChannel.us.webp",
+      "logo_source": "https://i.imgur.com/QsANRSu.png"
+    },
+    {
+      "id": "Goldmines2.in",
+      "name": "Goldmines 2",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "Goldmines2.in",
+        "feed": "SD",
+        "title": "Goldmines 2",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "probe_ok": true,
+      "logo_error": "No indexed logo"
+    },
+    {
+      "id": "GoldminesAction.in",
+      "name": "Goldmines Action",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "GoldminesAction.in",
+        "feed": "SD",
+        "title": "Goldmines Action",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/GoldminesAction.in.webp",
+      "logo_source": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "GREATmovies.uk",
+      "name": "GREAT! movies",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/movies/",
+      "stream": {
+        "channel": "GREATmovies.uk",
+        "feed": "UK",
+        "title": "GREAT! movies",
+        "url": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "webvtt",
+          "codec_type": "subtitle"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 426,
+          "height": 240
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "probe_note": "FFmpeg extension filtering relaxed for HTTP ad-tracking segment redirects",
+      "logo_file": "logos/GREATmovies.uk.webp",
+      "logo_source": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png"
+    },
+    {
+      "id": "GREATromance.uk",
+      "name": "GREAT! romance",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/moviesclassic/",
+      "stream": {
+        "channel": "GREATromance.uk",
+        "feed": "UK",
+        "title": "GREAT! romance",
+        "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "webvtt",
+          "codec_type": "subtitle"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 426,
+          "height": 240
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "probe_note": "FFmpeg extension filtering relaxed for HTTP ad-tracking segment redirects",
+      "logo_file": "logos/GREATromance.uk.webp",
+      "logo_source": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png"
+    },
+    {
+      "id": "KidsFlix.us",
+      "name": "KidsFlix",
+      "group": "English Movies",
+      "website": "https://www.kidsflix.com/",
+      "stream": {
+        "channel": "KidsFlix.us",
+        "feed": "SD",
+        "title": "KidsFlix",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+        "quality": "1080p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/KidsFlix.us.webp",
+      "logo_source": "https://i.imgur.com/4Pn0ADQ.png"
+    },
+    {
+      "id": "LIVExLIVE.us",
+      "name": "LIVExLIVE",
+      "group": "Music",
+      "website": "https://www.liveone.com/",
+      "stream": {
+        "channel": "LIVExLIVE.us",
+        "feed": "SD",
+        "title": "LiveXLive",
+        "url": "https://livestream.liveone.com/lc1/p1.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "logo_file": "logos/LIVExLIVE.us.webp",
+      "logo_source": "https://i.imgur.com/KFzEoed.png"
+    },
+    {
+      "id": "MahaMovie.in",
+      "name": "Maha Movie",
+      "group": "Movies",
+      "website": "http://www.mahamovie.in/",
+      "stream": {
+        "channel": "MahaMovie.in",
+        "feed": "SD",
+        "title": "Maha Movie",
+        "url": "https://cdn.pishow.tv/ott/live/10007/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 424,
+          "height": 240
+        }
+      ],
+      "probe_ok": true,
+      "probe_note": "FFmpeg extension filtering relaxed for HTTP ad-tracking segment redirects",
+      "logo_file": "logos/MahaMovie.in.webp",
+      "logo_source": "https://i.imgur.com/hpShFDL.png"
+    },
+    {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "group": "Movies",
+      "website": "http://www.manoranjantv.com/ManoranjanGrand.aspx",
+      "stream": {
+        "channel": "ManoranjanGrand.in",
+        "feed": "SD",
+        "title": "Manoranjan Grand",
+        "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/ManoranjanGrand.in.webp",
+      "logo_source": "https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "id": "MHOneMovies.in",
+      "name": "MH One Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "MHOneMovies.in",
+        "feed": "SD",
+        "title": "MH One Movies",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "probe_ok": true,
+      "logo_error": "No indexed logo"
+    },
+    {
+      "id": "NollyAfrica.uk",
+      "name": "Nolly Africa",
+      "group": "English Movies",
+      "website": "https://www.africanmoviechannel.tv/products-and-services",
+      "stream": {
+        "channel": "NollyAfrica.uk",
+        "feed": "SD",
+        "title": "Nolly Africa HD",
+        "url": "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "probe_note": "FFmpeg extension filtering relaxed for HTTP ad-tracking segment redirects",
+      "logo_file": "logos/NollyAfrica.uk.webp",
+      "logo_source": "https://i.imgur.com/IxtGpti.png"
+    },
+    {
+      "id": "Now90s00s.uk",
+      "name": "Now 90s00s",
+      "group": "Music",
+      "website": "https://www.nowmusic.com/",
+      "stream": {
+        "channel": "Now90s00s.uk",
+        "feed": "Poland",
+        "title": "Now 90s & 00s",
+        "url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/Now90s00s.uk.webp",
+      "logo_source": "https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png"
+    },
+    {
+      "id": "QelloConcertsbyStingray.ca",
+      "name": "Qello Concerts by Stingray",
+      "group": "Music",
+      "website": "https://qello.com/en/",
+      "stream": {
+        "channel": "QelloConcertsbyStingray.ca",
+        "feed": "SD",
+        "title": "Qello Concerts by Stingray",
+        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 842,
+          "height": 474
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 256,
+          "height": 144
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/QelloConcertsbyStingray.ca.webp",
+      "logo_source": "https://i.imgur.com/IRyFTWq.png"
+    },
+    {
+      "id": "ShemarooJosh.in",
+      "name": "Shemaroo Josh",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ShemarooJosh.in",
+        "feed": "SD",
+        "title": "Shemaroo Josh",
+        "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/ShemarooJosh.in.webp",
+      "logo_source": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540"
+    },
+    {
+      "id": "StingrayClassicRock.ca",
+      "name": "Stingray Classic Rock",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayClassicRock.ca",
+        "feed": "SD",
+        "title": "Stingray Classic Rock",
+        "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayClassicRock.ca.webp",
+      "logo_source": "https://i.imgur.com/FBgu8yB.png"
+    },
+    {
+      "id": "StingrayEverything80s.ca",
+      "name": "Stingray Everything '80s",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/BS/channels/128/everything-80s",
+      "stream": {
+        "channel": "StingrayEverything80s.ca",
+        "feed": "SD",
+        "title": "Stingray Remember the 80s",
+        "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayEverything80s.ca.webp",
+      "logo_source": "https://i.imgur.com/6E3wYrb.png"
+    },
+    {
+      "id": "StingrayFlashback70s.ca",
+      "name": "Stingray Flashback 70's",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayFlashback70s.ca",
+        "feed": "SD",
+        "title": "Stingray Flashback 70s",
+        "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayFlashback70s.ca.webp",
+      "logo_source": "https://i.imgur.com/jf5C9QF.png"
+    },
+    {
+      "id": "StingrayHitList.ca",
+      "name": "Stingray Hit List",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/CA/channels/007/hit-list",
+      "stream": {
+        "channel": "StingrayHitList.ca",
+        "feed": "SD",
+        "title": "Stingray Hit List",
+        "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayHitList.ca.webp",
+      "logo_source": "https://i.imgur.com/lgpIwId.png"
+    },
+    {
+      "id": "StingrayHotCountry.ca",
+      "name": "Stingray Hot Country",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/008/hot-country",
+      "stream": {
+        "channel": "StingrayHotCountry.ca",
+        "feed": "SD",
+        "title": "Stingray Hot Country",
+        "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayHotCountry.ca.webp",
+      "logo_source": "https://i.imgur.com/PZhxyIT.png"
+    },
+    {
+      "id": "StingrayJukeboxOldies.ca",
+      "name": "Stingray Jukebox Oldies",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayJukeboxOldies.ca",
+        "feed": "SD",
+        "title": "Stingray Jukebox Oldies",
+        "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayJukeboxOldies.ca.webp",
+      "logo_source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png"
+    },
+    {
+      "id": "StingrayNothinBut90s.ca",
+      "name": "Stingray Nothin' But 90s",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/042/nothin-but-90s",
+      "stream": {
+        "channel": "StingrayNothinBut90s.ca",
+        "feed": "SD",
+        "title": "Stingray Nothin' But 90s",
+        "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayNothinBut90s.ca.webp",
+      "logo_source": "https://i.imgur.com/Tq3I0po.png"
+    },
+    {
+      "id": "StingrayPopAdult.ca",
+      "name": "Stingray Pop Adult",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/CA/channels/004/pop-adult",
+      "stream": {
+        "channel": "StingrayPopAdult.ca",
+        "feed": "SD",
+        "title": "Stingray Pop Adult",
+        "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayPopAdult.ca.webp",
+      "logo_source": "https://i.imgur.com/H2ugC9L.png"
+    },
+    {
+      "id": "StingrayRockAlternative.ca",
+      "name": "Stingray Rock Alternative",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayRockAlternative.ca",
+        "feed": "SD",
+        "title": "Stingray Rock Alternative",
+        "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingrayRockAlternative.ca.webp",
+      "logo_source": "https://i.imgur.com/mt8ulVX.png"
+    },
+    {
+      "id": "StingraySoulStorm.ca",
+      "name": "Stingray Soul Storm",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/134/soul-storm",
+      "stream": {
+        "channel": "StingraySoulStorm.ca",
+        "feed": "SD",
+        "title": "Stingray Soul Storm",
+        "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/StingraySoulStorm.ca.webp",
+      "logo_source": "https://i.imgur.com/dU1KC3f.png"
+    },
+    {
+      "id": "TheCountryNetwork.us",
+      "name": "The Country Network",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "TheCountryNetwork.us",
+        "feed": "SD",
+        "title": "The Country Network",
+        "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 426,
+          "height": 240
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/TheCountryNetwork.us.webp",
+      "logo_source": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png"
+    },
+    {
+      "id": "TraceUK.uk",
+      "name": "Trace UK",
+      "group": "Music",
+      "website": "https://trace.plus/app",
+      "stream": {
+        "channel": "TraceUK.uk",
+        "feed": "HD",
+        "title": "Trace UK",
+        "url": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "binary/octet-stream",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "logo_error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "V2BEATTV.uk",
+      "name": "V2BEAT TV",
+      "group": "Music",
+      "website": "https://www.vibee.tv/",
+      "stream": {
+        "channel": "V2BEATTV.uk",
+        "feed": "SD",
+        "title": "V2BEAT",
+        "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+        "quality": "720p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/m2ts",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/V2BEATTV.uk.webp",
+      "logo_source": "https://i.imgur.com/PXGqyLn.png"
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/VevoPop.us.webp",
+      "logo_source": "https://i.imgur.com/dZHktKR.png"
+    },
+    {
+      "id": "VideoMixTV.us",
+      "name": "Video Mix TV",
+      "group": "Music",
+      "website": "https://videomixtv.com/",
+      "stream": {
+        "channel": "VideoMixTV.us",
+        "feed": "SD",
+        "title": "Video Mix TV",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "timed_id3",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/VideoMixTV.us.webp",
+      "logo_source": "https://i.imgur.com/nyLrIPP.png"
+    },
+    {
+      "id": "WuTangCollection.us",
+      "name": "Wu Tang Collection",
+      "group": "English Movies",
+      "website": "https://watch.plex.tv/live-tv/channel/wu-tang-collection",
+      "stream": {
+        "channel": "WuTangCollection.us",
+        "feed": "SD",
+        "title": "Wu Tang Collection",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 768,
+          "height": 432
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 256,
+          "height": 144
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/WuTangCollection.us.webp",
+      "logo_source": "https://i.imgur.com/sz55sBl.png"
+    },
+    {
+      "id": "XITE90sThrowback.us",
+      "name": "XITE 90's Throwback",
+      "group": "Music",
+      "website": "https://xite.com/",
+      "stream": {
+        "channel": "XITE90sThrowback.us",
+        "feed": "SD",
+        "title": "XITE 90's Throwback",
+        "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false,
+      "languages": [
+        "eng"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "logo_file": "logos/XITE90sThrowback.us.webp",
+      "logo_source": "https://i.imgur.com/vwpOzuz.png"
+    },
+    {
+      "id": "ZeeSouthFlix.in",
+      "name": "Zee South Flix",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ZeeSouthFlix.in",
+        "feed": "HD",
+        "title": "Zee South Flix",
+        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "languages": [
+        "hin"
+      ],
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 426,
+          "height": 240
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 848,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "probe_ok": true,
+      "probe_note": "FFmpeg extension filtering relaxed for HTTP ad-tracking segment redirects",
+      "logo_file": "logos/ZeeSouthFlix.in.webp",
+      "logo_source": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png"
+    },
+    {
+      "id": "GrjngoWesternMovies.de",
+      "name": "Grjngo Western Movies",
+      "group": "English Movies",
+      "website": "https://www.grjngo.com/",
+      "stream": {
+        "channel": "GrjngoWesternMovies.de",
+        "feed": "SD",
+        "title": "Grjngo Western Movies",
+        "url": "https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "languages": [
+        "eng"
+      ],
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "logo_file": "logos/GrjngoWesternMovies.de.webp",
+      "logo_source": "https://i.imgur.com/wFqhK3p.png"
+    }
+  ],
+  "candidate_checks": [
+    {
+      "id": "30AMusic.us",
+      "name": "30A Music",
+      "group": "Music",
+      "website": "https://30a.com/music/",
+      "stream": {
+        "channel": "30AMusic.us",
+        "feed": "SD",
+        "title": "30A Music",
+        "url": "https://30a-tv.com/music.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "id": "30AMusic.us",
+      "name": "30A Music",
+      "group": "Music",
+      "website": "https://30a.com/music/",
+      "stream": {
+        "channel": "30AMusic.us",
+        "feed": "SD",
+        "title": "30A Music Channel",
+        "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "id": "AllTimeMovies.in",
+      "name": "All Time Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "AllTimeMovies.in",
+        "feed": "SD",
+        "title": "All Time Movies",
+        "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "AllTimeMovies.in",
+      "name": "All Time Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "AllTimeMovies.in",
+        "feed": "SD",
+        "title": "All Time Movies",
+        "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "AllTimeMovies.in",
+      "name": "All Time Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "AllTimeMovies.in",
+        "feed": "SD",
+        "title": "All Time Movies",
+        "url": "https://fta.ektv.in/live/54/54_0.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "AneflixLive.us",
+      "name": "Aneflix Live",
+      "group": "English Movies",
+      "website": "https://vaughn.live/a_neflix01",
+      "stream": {
+        "channel": "AneflixLive.us",
+        "feed": "HD",
+        "title": "Aneflix Live",
+        "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",
+        "referrer": "https://vaughn.live/"
+      },
+      "status": "failed",
+      "error": "Not HLS"
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/",
+      "stream": {
+        "channel": "CaliforniaMusicChannel.us",
+        "feed": "SD",
+        "title": "CMC California Music Channel",
+        "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/",
+      "stream": {
+        "channel": "CaliforniaMusicChannel.us",
+        "feed": "SD",
+        "title": "CMC California Music Channel",
+        "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/",
+      "stream": {
+        "channel": "CaliforniaMusicChannel.us",
+        "feed": "SD",
+        "title": "California Music Channel",
+        "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "CaliforniaMusicChannel.us",
+      "name": "California Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/",
+      "stream": {
+        "channel": "CaliforniaMusicChannel.us",
+        "feed": "SD",
+        "title": "California Music Channel",
+        "url": "https://cmc-kowdtv.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Charge.us",
+      "name": "Charge!",
+      "group": "English Movies",
+      "website": "https://watchcharge.com/",
+      "stream": {
+        "channel": "Charge.us",
+        "feed": "SD",
+        "title": "Charge!",
+        "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Cinevault80s.us",
+      "name": "Cinevault 80s",
+      "group": "English Movies",
+      "website": "https://www.cinevaulttv.com/",
+      "stream": {
+        "channel": "Cinevault80s.us",
+        "feed": "SD",
+        "title": "Cinevault 80s",
+        "url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8",
+        "quality": "540p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Cinevault80s.us",
+      "name": "Cinevault 80s",
+      "group": "English Movies",
+      "website": "https://www.cinevaulttv.com/",
+      "stream": {
+        "channel": "Cinevault80s.us",
+        "feed": "SD",
+        "title": "Cinevault 80s",
+        "url": "https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "ClassicCinema.us",
+      "name": "Classic Cinema",
+      "group": "English Movies",
+      "website": null,
+      "stream": {
+        "channel": "ClassicCinema.us",
+        "feed": "SD",
+        "title": "Classic Cinema",
+        "url": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8",
+        "quality": "240p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)>"
+    },
+    {
+      "id": "ClubbingTV.us",
+      "name": "Clubbing TV",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/clubbing-tv-de",
+      "stream": {
+        "channel": "ClubbingTV.us",
+        "feed": "France",
+        "title": "Clubbing TV France",
+        "url": "https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 504: Gateway Time-out"
+    },
+    {
+      "id": "ClubbingTV.us",
+      "name": "Clubbing TV",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/clubbing-tv-de",
+      "stream": {
+        "channel": "ClubbingTV.us",
+        "feed": "UK",
+        "title": "Clubbing TV UK",
+        "url": "https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "CMCUSACountryMusicChannel.us",
+      "name": "CMC-USA Country Music Channel",
+      "group": "Music",
+      "website": "https://cmctv.com/cmc-usa/index.html",
+      "stream": {
+        "channel": "CMCUSACountryMusicChannel.us",
+        "feed": "SD",
+        "title": "CMC-USA Country Music Channel",
+        "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "DUST.us",
+      "name": "DUST",
+      "group": "English Movies",
+      "website": "https://watchdust.com/",
+      "stream": {
+        "channel": "DUST.us",
+        "feed": "SD",
+        "title": "Alien Nation by DUST",
+        "url": "https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "Goldmines2.in",
+      "name": "Goldmines 2",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "Goldmines2.in",
+        "feed": "SD",
+        "title": "Goldmines 2",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Goldmines2.in",
+      "name": "Goldmines 2",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "Goldmines2.in",
+        "feed": "SD",
+        "title": "Goldmines 2",
+        "url": "https://fta.ektv.in/live/46/46_0.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesAction.in",
+      "name": "Goldmines Action",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "GoldminesAction.in",
+        "feed": "SD",
+        "title": "Goldmines Action",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesAction.in",
+      "name": "Goldmines Action",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "GoldminesAction.in",
+        "feed": "SD",
+        "title": "Goldmines Action",
+        "url": "https://fta.ektv.in/live/584/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesMovies.in",
+      "name": "Goldmines Movies",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "GoldminesMovies.in",
+        "feed": "SD",
+        "title": "Goldmines Movies",
+        "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesMovies.in",
+      "name": "Goldmines Movies",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "GoldminesMovies.in",
+        "feed": "SD",
+        "title": "Goldmines Movies",
+        "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "GoldminesMovies.in",
+      "name": "Goldmines Movies",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "GoldminesMovies.in",
+        "feed": "SD",
+        "title": "Goldmines Movies",
+        "url": "https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesMovies.in",
+      "name": "Goldmines Movies",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "GoldminesMovies.in",
+        "feed": "SD",
+        "title": "Goldmines Movies",
+        "url": "https://fta.ektv.in/live/51/51_0.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GoldminesMovies.in",
+      "name": "Goldmines Movies",
+      "group": "Movies",
+      "website": "https://goldmines.co.in",
+      "stream": {
+        "channel": "GoldminesMovies.in",
+        "feed": "SD",
+        "title": "Goldmines Movies",
+        "url": "https://cdn.pishow.tv/ott/live/1461/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GREATmovies.uk",
+      "name": "GREAT! movies",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/movies/",
+      "stream": {
+        "channel": "GREATmovies.uk",
+        "feed": "UK",
+        "title": "GREAT! movies",
+        "url": "https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GREATmovies.uk",
+      "name": "GREAT! movies",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/movies/",
+      "stream": {
+        "channel": "GREATmovies.uk",
+        "feed": "UK",
+        "title": "Great! Movies",
+        "url": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GREATromance.uk",
+      "name": "GREAT! romance",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/moviesclassic/",
+      "stream": {
+        "channel": "GREATromance.uk",
+        "feed": "UK",
+        "title": "GREAT! romance",
+        "url": "https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "GREATromance.uk",
+      "name": "GREAT! romance",
+      "group": "English Movies",
+      "website": "https://www.greatnetwork.com/moviesclassic/",
+      "stream": {
+        "channel": "GREATromance.uk",
+        "feed": "UK",
+        "title": "Great! Romance",
+        "url": "https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "IndiaTalkies.in",
+      "name": "India Talkies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "IndiaTalkies.in",
+        "feed": "SD",
+        "title": "India Talkies",
+        "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+        "quality": "360p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "KidsFlix.us",
+      "name": "KidsFlix",
+      "group": "English Movies",
+      "website": "https://www.kidsflix.com/",
+      "stream": {
+        "channel": "KidsFlix.us",
+        "feed": "SD",
+        "title": "KidsFlix",
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+        "quality": "1080p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "LIVExLIVE.us",
+      "name": "LIVExLIVE",
+      "group": "Music",
+      "website": "https://www.liveone.com/",
+      "stream": {
+        "channel": "LIVExLIVE.us",
+        "feed": "SD",
+        "title": "LiveXLive",
+        "url": "https://livestream.liveone.com/lc1/p1.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "MadeInHollywood.us",
+      "name": "Made In Hollywood",
+      "group": "English Movies",
+      "website": "https://www.moviefone.com/made-in-hollywood/",
+      "stream": {
+        "channel": "MadeInHollywood.us",
+        "feed": "SD",
+        "title": "Made in Hollywood",
+        "url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "MagnificentMoviesNetwork.us",
+      "name": "Magnificent Movies Network",
+      "group": "English Movies",
+      "website": null,
+      "stream": {
+        "channel": "MagnificentMoviesNetwork.us",
+        "feed": "SD",
+        "title": "Magnificent Movies Network",
+        "url": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "MahaMovie.in",
+      "name": "Maha Movie",
+      "group": "Movies",
+      "website": "http://www.mahamovie.in/",
+      "stream": {
+        "channel": "MahaMovie.in",
+        "feed": "SD",
+        "title": "Maha Movie",
+        "url": "https://fta.ektv.in/live/48/48_0.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "MahaMovie.in",
+      "name": "Maha Movie",
+      "group": "Movies",
+      "website": "http://www.mahamovie.in/",
+      "stream": {
+        "channel": "MahaMovie.in",
+        "feed": "SD",
+        "title": "Maha Movie",
+        "url": "https://cdn.pishow.tv/ott/live/10007/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "group": "Movies",
+      "website": "http://www.manoranjantv.com/ManoranjanGrand.aspx",
+      "stream": {
+        "channel": "ManoranjanGrand.in",
+        "feed": "SD",
+        "title": "Manoranjan Grand",
+        "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "group": "Movies",
+      "website": "http://www.manoranjantv.com/ManoranjanGrand.aspx",
+      "stream": {
+        "channel": "ManoranjanGrand.in",
+        "feed": "SD",
+        "title": "Manoranjan Grand",
+        "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "group": "Movies",
+      "website": "http://www.manoranjantv.com/ManoranjanGrand.aspx",
+      "stream": {
+        "channel": "ManoranjanGrand.in",
+        "feed": "SD",
+        "title": "Manoranjan Grand",
+        "url": "https://fta.ektv.in/live/19/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "group": "Movies",
+      "website": "http://www.manoranjantv.com/ManoranjanGrand.aspx",
+      "stream": {
+        "channel": "ManoranjanGrand.in",
+        "feed": "SD",
+        "title": "Manoranjan Grand",
+        "url": "https://cdn.pishow.tv/ott/live/1011/master.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "MHOneMovies.in",
+      "name": "MH One Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "MHOneMovies.in",
+        "feed": "SD",
+        "title": "MH One Movies",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "MHOneMovies.in",
+      "name": "MH One Movies",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "MHOneMovies.in",
+        "feed": "SD",
+        "title": "MH One Movies",
+        "url": "https://fta.ektv.in/live/639/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "NHBollyGold.in",
+      "name": "NH BollyGold",
+      "group": "Movies",
+      "website": "https://www.nhstudioz.tv/",
+      "stream": {
+        "channel": "NHBollyGold.in",
+        "feed": "HD",
+        "title": "NH BollyGold",
+        "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "NollyAfrica.uk",
+      "name": "Nolly Africa",
+      "group": "English Movies",
+      "website": "https://www.africanmoviechannel.tv/products-and-services",
+      "stream": {
+        "channel": "NollyAfrica.uk",
+        "feed": "SD",
+        "title": "Nolly Africa HD",
+        "url": "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "NollyAfrica.uk",
+      "name": "Nolly Africa",
+      "group": "English Movies",
+      "website": "https://www.africanmoviechannel.tv/products-and-services",
+      "stream": {
+        "channel": "NollyAfrica.uk",
+        "feed": "SD",
+        "title": "Nolly Africa HD",
+        "url": "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "NollyAfrica.uk",
+      "name": "Nolly Africa",
+      "group": "English Movies",
+      "website": "https://www.africanmoviechannel.tv/products-and-services",
+      "stream": {
+        "channel": "NollyAfrica.uk",
+        "feed": "SD",
+        "title": "Nolly Africa",
+        "url": "https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8",
+        "quality": null,
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "NollyAfrica.uk",
+      "name": "Nolly Africa",
+      "group": "English Movies",
+      "website": "https://www.africanmoviechannel.tv/products-and-services",
+      "stream": {
+        "channel": "NollyAfrica.uk",
+        "feed": "SD",
+        "title": "Nolly Africa HD",
+        "url": "https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "Now90s00s.uk",
+      "name": "Now 90s00s",
+      "group": "Music",
+      "website": "https://www.nowmusic.com/",
+      "stream": {
+        "channel": "Now90s00s.uk",
+        "feed": "Poland",
+        "title": "NOW 90s00s",
+        "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Now90s00s.uk",
+      "name": "Now 90s00s",
+      "group": "Music",
+      "website": "https://www.nowmusic.com/",
+      "stream": {
+        "channel": "Now90s00s.uk",
+        "feed": "Poland",
+        "title": "Now 90s00s",
+        "url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsunggb/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "Now90s00s.uk",
+      "name": "Now 90s00s",
+      "group": "Music",
+      "website": "https://www.nowmusic.com/",
+      "stream": {
+        "channel": "Now90s00s.uk",
+        "feed": "Poland",
+        "title": "Now 90s & 00s",
+        "url": "https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "PocketFilms.in",
+      "name": "Pocket Films",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "PocketFilms.in",
+        "feed": "SD",
+        "title": "Pocket Films",
+        "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "QelloConcertsbyStingray.ca",
+      "name": "Qello Concerts by Stingray",
+      "group": "Music",
+      "website": "https://qello.com/en/",
+      "stream": {
+        "channel": "QelloConcertsbyStingray.ca",
+        "feed": "Poland",
+        "title": "Qello Concerts by Stingray",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "QelloConcertsbyStingray.ca",
+      "name": "Qello Concerts by Stingray",
+      "group": "Music",
+      "website": "https://qello.com/en/",
+      "stream": {
+        "channel": "QelloConcertsbyStingray.ca",
+        "feed": "SD",
+        "title": "Qello Concerts by Stingray",
+        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ShemarooJosh.in",
+      "name": "Shemaroo Josh",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ShemarooJosh.in",
+        "feed": "SD",
+        "title": "Shemaroo Josh",
+        "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "ShemarooJosh.in",
+      "name": "Shemaroo Josh",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ShemarooJosh.in",
+        "feed": "SD",
+        "title": "Shemaroo Josh",
+        "url": "https://cdn.pishow.tv/ott/live/337/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ShemarooJosh.in",
+      "name": "Shemaroo Josh",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ShemarooJosh.in",
+        "feed": "SD",
+        "title": "Shemaroo Josh",
+        "url": "https://fta.ektv.in/live/21/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ShubhCinemaTV.in",
+      "name": "Shubh Cinema TV",
+      "group": "Movies",
+      "website": "https://app.sanskargroup.in/",
+      "stream": {
+        "channel": "ShubhCinemaTV.in",
+        "feed": "SD",
+        "title": "Shubh Cinema TV",
+        "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "ShubhCinemaTV.in",
+      "name": "Shubh Cinema TV",
+      "group": "Movies",
+      "website": "https://app.sanskargroup.in/",
+      "stream": {
+        "channel": "ShubhCinemaTV.in",
+        "feed": "SD",
+        "title": "Shubh Cinema TV",
+        "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "ShubhCinemaTV.in",
+      "name": "Shubh Cinema TV",
+      "group": "Movies",
+      "website": "https://app.sanskargroup.in/",
+      "stream": {
+        "channel": "ShubhCinemaTV.in",
+        "feed": "SD",
+        "title": "Shubh Cinema TV",
+        "url": "https://fta.ektv.in/live/49/49_0.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayClassicRock.ca",
+      "name": "Stingray Classic Rock",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayClassicRock.ca",
+        "feed": "SD",
+        "title": "Stingray Classic Rock",
+        "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayEverything80s.ca",
+      "name": "Stingray Everything '80s",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/BS/channels/128/everything-80s",
+      "stream": {
+        "channel": "StingrayEverything80s.ca",
+        "feed": "SD",
+        "title": "Stingray Remember the 80s",
+        "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayFlashback70s.ca",
+      "name": "Stingray Flashback 70's",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayFlashback70s.ca",
+        "feed": "SD",
+        "title": "Stingray Flashback 70s",
+        "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayHitList.ca",
+      "name": "Stingray Hit List",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/CA/channels/007/hit-list",
+      "stream": {
+        "channel": "StingrayHitList.ca",
+        "feed": "Poland",
+        "title": "Stingray Hitlist",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayHitList.ca",
+      "name": "Stingray Hit List",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/CA/channels/007/hit-list",
+      "stream": {
+        "channel": "StingrayHitList.ca",
+        "feed": "SD",
+        "title": "Stingray Hit List",
+        "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayHotCountry.ca",
+      "name": "Stingray Hot Country",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/008/hot-country",
+      "stream": {
+        "channel": "StingrayHotCountry.ca",
+        "feed": "SD",
+        "title": "Stingray Hot Country",
+        "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayJukeboxOldies.ca",
+      "name": "Stingray Jukebox Oldies",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayJukeboxOldies.ca",
+        "feed": "SD",
+        "title": "Stingray Jukebox Oldies",
+        "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayNothinBut90s.ca",
+      "name": "Stingray Nothin' But 90s",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/042/nothin-but-90s",
+      "stream": {
+        "channel": "StingrayNothinBut90s.ca",
+        "feed": "SD",
+        "title": "Stingray Nothin' But 90s",
+        "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayPopAdult.ca",
+      "name": "Stingray Pop Adult",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/CA/channels/004/pop-adult",
+      "stream": {
+        "channel": "StingrayPopAdult.ca",
+        "feed": "SD",
+        "title": "Stingray Pop Adult",
+        "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingrayRockAlternative.ca",
+      "name": "Stingray Rock Alternative",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "StingrayRockAlternative.ca",
+        "feed": "SD",
+        "title": "Stingray Rock Alternative",
+        "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "StingraySoulStorm.ca",
+      "name": "Stingray Soul Storm",
+      "group": "Music",
+      "website": "https://music.stingray.com/en/channels/134/soul-storm",
+      "stream": {
+        "channel": "StingraySoulStorm.ca",
+        "feed": "SD",
+        "title": "Stingray Soul Storm",
+        "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "TheCountryNetwork.us",
+      "name": "The Country Network",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "TheCountryNetwork.us",
+        "feed": "SD",
+        "title": "The Country Network",
+        "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "TheCountryNetwork.us",
+      "name": "The Country Network",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "TheCountryNetwork.us",
+        "feed": "SD",
+        "title": "The Country Network",
+        "url": "https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "TheFilmDetective.us",
+      "name": "The Film Detective",
+      "group": "English Movies",
+      "website": null,
+      "stream": {
+        "channel": "TheFilmDetective.us",
+        "feed": "SD",
+        "title": "The Film Detective",
+        "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "TraceUK.uk",
+      "name": "Trace UK",
+      "group": "Music",
+      "website": "https://trace.plus/app",
+      "stream": {
+        "channel": "TraceUK.uk",
+        "feed": "HD",
+        "title": "Trace UK",
+        "url": "https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "TraceUK.uk",
+      "name": "Trace UK",
+      "group": "Music",
+      "website": "https://trace.plus/app",
+      "stream": {
+        "channel": "TraceUK.uk",
+        "feed": "HD",
+        "title": "Trace UK",
+        "url": "https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "binary/octet-stream",
+      "encrypted": false
+    },
+    {
+      "id": "TVSFilmNoirNetwork.us",
+      "name": "TVS Film Noir Network",
+      "group": "English Movies",
+      "website": null,
+      "stream": {
+        "channel": "TVSFilmNoirNetwork.us",
+        "feed": "SD",
+        "title": "TVS Film Noir Network",
+        "url": "https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)>"
+    },
+    {
+      "id": "UniversalComedy.us",
+      "name": "Universal Comedy",
+      "group": "English Movies",
+      "website": "https://www.universalplus.com/",
+      "stream": {
+        "channel": "UniversalComedy.us",
+        "feed": "SD",
+        "title": "Universal Comedy",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "V2BEATTV.uk",
+      "name": "V2BEAT TV",
+      "group": "Music",
+      "website": "https://www.vibee.tv/",
+      "stream": {
+        "channel": "V2BEATTV.uk",
+        "feed": "SD",
+        "title": "V2BEAT",
+        "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+        "quality": "720p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/m2ts",
+      "encrypted": false
+    },
+    {
+      "id": "Vevo2K.us",
+      "name": "Vevo 2K",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-2k",
+      "stream": {
+        "channel": "Vevo2K.us",
+        "feed": "SD",
+        "title": "Vevo 2K",
+        "url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo2K.us",
+      "name": "Vevo 2K",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-2k",
+      "stream": {
+        "channel": "Vevo2K.us",
+        "feed": "SD",
+        "title": "Vevo 2K",
+        "url": "https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo2K.us",
+      "name": "Vevo 2K",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-2k",
+      "stream": {
+        "channel": "Vevo2K.us",
+        "feed": "SD",
+        "title": "Vevo 2K",
+        "url": "https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "Vevo70s.us",
+      "name": "Vevo '70s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-70s",
+      "stream": {
+        "channel": "Vevo70s.us",
+        "feed": "SD",
+        "title": "Vevo 70s",
+        "url": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo70s.us",
+      "name": "Vevo '70s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-70s",
+      "stream": {
+        "channel": "Vevo70s.us",
+        "feed": "SD",
+        "title": "Vevo 70s",
+        "url": "https://amg00056-vevotv-vevo70saunz-samsungnz-lmeak.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo70s.us",
+      "name": "Vevo '70s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-70s",
+      "stream": {
+        "channel": "Vevo70s.us",
+        "feed": "SD",
+        "title": "Vevo '70s",
+        "url": "https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "Vevo80s.us",
+      "name": "Vevo '80s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-80s",
+      "stream": {
+        "channel": "Vevo80s.us",
+        "feed": "SD",
+        "title": "Vevo 80s",
+        "url": "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo80s.us",
+      "name": "Vevo '80s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-80s",
+      "stream": {
+        "channel": "Vevo80s.us",
+        "feed": "SD",
+        "title": "Vevo 80s",
+        "url": "https://amg00056-vevotv-vevo80saunz-samsungnz-96vhe.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo80s.us",
+      "name": "Vevo '80s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-80s",
+      "stream": {
+        "channel": "Vevo80s.us",
+        "feed": "SD",
+        "title": "Vevo '80s",
+        "url": "https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "Vevo90s.us",
+      "name": "Vevo '90s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-90s",
+      "stream": {
+        "channel": "Vevo90s.us",
+        "feed": "SD",
+        "title": "Vevo 90s",
+        "url": "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo90s.us",
+      "name": "Vevo '90s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-90s",
+      "stream": {
+        "channel": "Vevo90s.us",
+        "feed": "SD",
+        "title": "Vevo 90s",
+        "url": "https://amg00056-vevotv-vevo90saunz-samsungnz-mpus0.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "Vevo90s.us",
+      "name": "Vevo '90s",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-90s",
+      "stream": {
+        "channel": "Vevo90s.us",
+        "feed": "SD",
+        "title": "Vevo '90s",
+        "url": "https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "VevoCountry.us",
+      "name": "Vevo Country",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-country",
+      "stream": {
+        "channel": "VevoCountry.us",
+        "feed": "SD",
+        "title": "Vevo Country",
+        "url": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoCountry.us",
+      "name": "Vevo Country",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-country",
+      "stream": {
+        "channel": "VevoCountry.us",
+        "feed": "SD",
+        "title": "Vevo Country",
+        "url": "https://amg00056-vevotv-vevocountryau-samsungnz-kcm6r.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoCountry.us",
+      "name": "Vevo Country",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-country",
+      "stream": {
+        "channel": "VevoCountry.us",
+        "feed": "SD",
+        "title": "Vevo Country",
+        "url": "https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8",
+        "quality": "1080p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "VevoPop.us",
+      "name": "Vevo Pop",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-pop",
+      "stream": {
+        "channel": "VevoPop.us",
+        "feed": "SD",
+        "title": "Vevo Pop",
+        "url": "https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "VevoRB.us",
+      "name": "Vevo R&B",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-randb",
+      "stream": {
+        "channel": "VevoRB.us",
+        "feed": "SD",
+        "title": "Vevo R&B",
+        "url": "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "VevoRetroRock.us",
+      "name": "Vevo Retro Rock",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-retro-rock",
+      "stream": {
+        "channel": "VevoRetroRock.us",
+        "feed": "SD",
+        "title": "Vevo Retro Rock",
+        "url": "https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoRetroRock.us",
+      "name": "Vevo Retro Rock",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-retro-rock",
+      "stream": {
+        "channel": "VevoRetroRock.us",
+        "feed": "SD",
+        "title": "Vevo Retro Rock",
+        "url": "https://amg00056-vevotv-vevoretrorockau-samsungnz-nog2o.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "id": "VevoRetroRock.us",
+      "name": "Vevo Retro Rock",
+      "group": "Music",
+      "website": "https://pluto.tv/en/live-tv/vevo-retro-rock",
+      "stream": {
+        "channel": "VevoRetroRock.us",
+        "feed": "SD",
+        "title": "Vevo Retro Rock",
+        "url": "https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "VideoMixTV.us",
+      "name": "Video Mix TV",
+      "group": "Music",
+      "website": "https://videomixtv.com/",
+      "stream": {
+        "channel": "VideoMixTV.us",
+        "feed": "SD",
+        "title": "Video Mix TV",
+        "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+        "quality": null,
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "WuTangCollection.us",
+      "name": "Wu Tang Collection",
+      "group": "English Movies",
+      "website": "https://watch.plex.tv/live-tv/channel/wu-tang-collection",
+      "stream": {
+        "channel": "WuTangCollection.us",
+        "feed": "SD",
+        "title": "Wu Tang Collection",
+        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "XITE90sThrowback.us",
+      "name": "XITE 90's Throwback",
+      "group": "Music",
+      "website": "https://xite.com/",
+      "stream": {
+        "channel": "XITE90sThrowback.us",
+        "feed": "SD",
+        "title": "XITE 90's Throwback",
+        "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "ZeeSouthFlix.in",
+      "name": "Zee South Flix",
+      "group": "Movies",
+      "website": null,
+      "stream": {
+        "channel": "ZeeSouthFlix.in",
+        "feed": "HD",
+        "title": "Zee South Flix",
+        "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    }
+  ]
+}

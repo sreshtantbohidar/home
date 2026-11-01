@@ -6,6 +6,20 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 - Guide: https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 - Sources: Odia, Doordarshan, News, Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
 
+## November 1, 2026: more music and movie channels
+
+Added **37 new channel identities and stream URLs**: **22** in Music, **7** in English Movies and **8 Hindi movie channels** in Movies. The combined playlist now contains **232 unique stream URLs**. Existing channel URLs and categories are preserved; Goldmines Movies was skipped because its stream already exists as Gold Mines Movie.
+
+Music additions include California Music Channel, CMC-USA Country Music Channel, Clubbing TV, LIVExLIVE, Now 90s00s, Qello Concerts, The Country Network, Trace UK, V2BEAT TV, Vevo Pop, Video Mix TV, XITE 90's Throwback, and ten Stingray song channels spanning classic rock, pop, country, oldies and the 1970s–1990s. The Stingray song channels show artwork rather than continuous music videos. English is the selected feed language; individual songs and occasional programs may use other languages.
+
+English Movies adds Cinevault 80s, GREAT! movies, GREAT! romance, KidsFlix, Nolly Africa, Wu Tang Collection and Grjngo Western Movies (UK English feed). These include Hollywood classics, romance, family films, English-language African cinema and dubbed martial-arts/Western films; some channels also schedule series or seasonal programming. Movies adds All Time Movies, Goldmines 2, Goldmines Action, Maha Movie, Manoranjan Grand, MH One Movies, Shemaroo Josh and Zee South Flix.
+
+Research covered the current [IPTV-org public channel/feed/stream indexes](https://github.com/iptv-org/api), [Vevo](https://www.hq.vevo.com/press/vevo-partners-with-sling-launches-music-video-channels-on-sling-freestream), [Stingray](https://support.stingray.com/hc/en-us/articles/47976651564955-TV-Channels-Free-Streaming-FAST), and [Grjngo](https://www.grjngo.com/). **108 candidate URLs** received bounded HLS/media-segment checks; the additional Grjngo English feed was probed separately. Each selected URL yielded video and audio in ffprobe. Some Amagi feeds use ad-tracking redirects without a video filename extension; the probe was configured to accept these HTTP segments. Stable master URLs are stored, not generated session renditions. Failing, encrypted, and proxy-only candidates were excluded.
+
+These are point-in-time checks from one network, not sustained playback, availability in every region, or redistribution-rights certification. No login, DRM or geographic restriction was bypassed. Publicly indexed links do not by themselves establish permission for commercial redistribution. **34 additions have validated local WebP logos**; Goldmines 2, MH One Movies and Trace UK remain text-only because an exact downloadable logo could not be verified. Channel IDs are retained without claiming schedules exist in the India XMLTV guide. Full selected-feed metadata, codec results, logo provenance and candidate failures are in [the research report](reports/channel-expansion-2026-11-01.json).
+
+Refresh the existing combined-playlist URL in Next Gen to load the additions; no APK update is needed.
+
 ## October 24, 2026: English Movies
 
 Added **English Movies**, containing **18 channel identities across 19 stream entries** (Action Hollywood Movies includes a second regional feed). The combined playlist now contains **195 unique stream URLs**. Sixteen URLs are new; three existing English streams were moved from Movies so global deduplication cannot hide them in the old category.

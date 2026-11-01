@@ -997,6 +997,225 @@
       "tvg-name": "Whiplash Cinema",
       "tvg-language": "English",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WhiplashCinema.us.webp"
+    },
+    "All Time Movies": {
+      "tvg-id": "AllTimeMovies.in@SD",
+      "tvg-name": "All Time Movies",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AllTimeMovies.in.webp"
+    },
+    "California Music Channel": {
+      "tvg-id": "CaliforniaMusicChannel.us@SD",
+      "tvg-name": "California Music Channel",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CaliforniaMusicChannel.us.webp"
+    },
+    "Cinevault 80s": {
+      "tvg-id": "Cinevault80s.us@SD",
+      "tvg-name": "Cinevault 80s",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Cinevault80s.us.webp"
+    },
+    "Clubbing TV": {
+      "tvg-id": "ClubbingTV.us@UK",
+      "tvg-name": "Clubbing TV",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ClubbingTV.us.webp"
+    },
+    "CMC-USA Country Music Channel": {
+      "tvg-id": "CMCUSACountryMusicChannel.us@SD",
+      "tvg-name": "CMC-USA Country Music Channel",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/CMCUSACountryMusicChannel.us.webp"
+    },
+    "Goldmines 2": {
+      "tvg-id": "Goldmines2.in@SD",
+      "tvg-name": "Goldmines 2",
+      "tvg-language": "Hindi"
+    },
+    "Goldmines Action": {
+      "tvg-id": "GoldminesAction.in@SD",
+      "tvg-name": "Goldmines Action",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoldminesAction.in.webp"
+    },
+    "GREAT! movies": {
+      "tvg-id": "GREATmovies.uk@UK",
+      "tvg-name": "GREAT! movies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GREATmovies.uk.webp"
+    },
+    "GREAT! romance": {
+      "tvg-id": "GREATromance.uk@UK",
+      "tvg-name": "GREAT! romance",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GREATromance.uk.webp"
+    },
+    "KidsFlix": {
+      "tvg-id": "KidsFlix.us@SD",
+      "tvg-name": "KidsFlix",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KidsFlix.us.webp"
+    },
+    "LIVExLIVE": {
+      "tvg-id": "LIVExLIVE.us@SD",
+      "tvg-name": "LIVExLIVE",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LIVExLIVE.us.webp"
+    },
+    "Maha Movie": {
+      "tvg-id": "MahaMovie.in@SD",
+      "tvg-name": "Maha Movie",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MahaMovie.in.webp"
+    },
+    "Manoranjan Grand": {
+      "tvg-id": "ManoranjanGrand.in@SD",
+      "tvg-name": "Manoranjan Grand",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanGrand.in.webp"
+    },
+    "MH One Movies": {
+      "tvg-id": "MHOneMovies.in@SD",
+      "tvg-name": "MH One Movies",
+      "tvg-language": "Hindi"
+    },
+    "Nolly Africa": {
+      "tvg-id": "NollyAfrica.uk@SD",
+      "tvg-name": "Nolly Africa",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NollyAfrica.uk.webp"
+    },
+    "Now 90s00s": {
+      "tvg-id": "Now90s00s.uk@Poland",
+      "tvg-name": "Now 90s00s",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Now90s00s.uk.webp"
+    },
+    "Qello Concerts by Stingray": {
+      "tvg-id": "QelloConcertsbyStingray.ca@SD",
+      "tvg-name": "Qello Concerts by Stingray",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/QelloConcertsbyStingray.ca.webp"
+    },
+    "Shemaroo Josh": {
+      "tvg-id": "ShemarooJosh.in@SD",
+      "tvg-name": "Shemaroo Josh",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ShemarooJosh.in.webp"
+    },
+    "Stingray Classic Rock": {
+      "tvg-id": "StingrayClassicRock.ca@SD",
+      "tvg-name": "Stingray Classic Rock",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayClassicRock.ca.webp"
+    },
+    "Stingray Everything '80s": {
+      "tvg-id": "StingrayEverything80s.ca@SD",
+      "tvg-name": "Stingray Everything '80s",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayEverything80s.ca.webp"
+    },
+    "Stingray Flashback 70's": {
+      "tvg-id": "StingrayFlashback70s.ca@SD",
+      "tvg-name": "Stingray Flashback 70's",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayFlashback70s.ca.webp"
+    },
+    "Stingray Hit List": {
+      "tvg-id": "StingrayHitList.ca@SD",
+      "tvg-name": "Stingray Hit List",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHitList.ca.webp"
+    },
+    "Stingray Hot Country": {
+      "tvg-id": "StingrayHotCountry.ca@SD",
+      "tvg-name": "Stingray Hot Country",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayHotCountry.ca.webp"
+    },
+    "Stingray Jukebox Oldies": {
+      "tvg-id": "StingrayJukeboxOldies.ca@SD",
+      "tvg-name": "Stingray Jukebox Oldies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayJukeboxOldies.ca.webp"
+    },
+    "Stingray Nothin' But 90s": {
+      "tvg-id": "StingrayNothinBut90s.ca@SD",
+      "tvg-name": "Stingray Nothin' But 90s",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayNothinBut90s.ca.webp"
+    },
+    "Stingray Pop Adult": {
+      "tvg-id": "StingrayPopAdult.ca@SD",
+      "tvg-name": "Stingray Pop Adult",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayPopAdult.ca.webp"
+    },
+    "Stingray Rock Alternative": {
+      "tvg-id": "StingrayRockAlternative.ca@SD",
+      "tvg-name": "Stingray Rock Alternative",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingrayRockAlternative.ca.webp"
+    },
+    "Stingray Soul Storm": {
+      "tvg-id": "StingraySoulStorm.ca@SD",
+      "tvg-name": "Stingray Soul Storm",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StingraySoulStorm.ca.webp"
+    },
+    "The Country Network": {
+      "tvg-id": "TheCountryNetwork.us@SD",
+      "tvg-name": "The Country Network",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheCountryNetwork.us.webp"
+    },
+    "Trace UK": {
+      "tvg-id": "TraceUK.uk@HD",
+      "tvg-name": "Trace UK",
+      "tvg-language": "English"
+    },
+    "V2BEAT TV": {
+      "tvg-id": "V2BEATTV.uk@SD",
+      "tvg-name": "V2BEAT TV",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/V2BEATTV.uk.webp"
+    },
+    "Vevo Pop": {
+      "tvg-id": "VevoPop.us@SD",
+      "tvg-name": "Vevo Pop",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VevoPop.us.webp"
+    },
+    "Video Mix TV": {
+      "tvg-id": "VideoMixTV.us@SD",
+      "tvg-name": "Video Mix TV",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/VideoMixTV.us.webp"
+    },
+    "Wu Tang Collection": {
+      "tvg-id": "WuTangCollection.us@SD",
+      "tvg-name": "Wu Tang Collection",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WuTangCollection.us.webp"
+    },
+    "XITE 90's Throwback": {
+      "tvg-id": "XITE90sThrowback.us@SD",
+      "tvg-name": "XITE 90's Throwback",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/XITE90sThrowback.us.webp"
+    },
+    "Zee South Flix": {
+      "tvg-id": "ZeeSouthFlix.in@HD",
+      "tvg-name": "Zee South Flix",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ZeeSouthFlix.in.webp"
+    },
+    "Grjngo Western Movies": {
+      "tvg-id": "GrjngoWesternMovies.de@SD",
+      "tvg-name": "Grjngo Western Movies",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GrjngoWesternMovies.de.webp"
     }
   }
 }
