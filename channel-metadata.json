@@ -1288,6 +1288,240 @@
       "tvg-name": "iFilm English",
       "tvg-language": "English",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/iFilmEnglish.ir.webp"
+    },
+    "Alright! TV": {
+      "tvg-id": "AlrightTV.in@SD",
+      "tvg-name": "Alright! TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AlrightTV.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Anmol TV": {
+      "tvg-id": "AnmolTV.in@SD",
+      "tvg-name": "Anmol TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AnmolTV.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "E 24": {
+      "tvg-id": "E24.in@SD",
+      "tvg-name": "E 24",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/E24.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Gangaur TV": {
+      "tvg-id": "GangaurTV.in@SD",
+      "tvg-name": "Gangaur TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GangaurTV.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Mango": {
+      "tvg-id": "Mango.in@SD",
+      "tvg-name": "Mango",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Mango.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Manoranjan TV": {
+      "tvg-id": "ManoranjanTV.in@SD",
+      "tvg-name": "Manoranjan TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ManoranjanTV.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "MH One Dil Se": {
+      "tvg-id": "MHOneDilSe.in@SD",
+      "tvg-name": "MH One Dil Se",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MHOneDilSe.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Q TV": {
+      "tvg-id": "QTV.in@SD",
+      "tvg-name": "Q TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/QTV.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Star Bharat (UK)": {
+      "tvg-id": "StarBharat.uk@SD",
+      "tvg-name": "Star Bharat (UK)",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/StarBharat.uk.webp",
+      "tvg-language": "Hindi"
+    },
+    "Zingabad": {
+      "tvg-id": "Zingabad.in@SD",
+      "tvg-name": "Zingabad",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Zingabad.in.webp",
+      "tvg-language": "Hindi"
+    },
+    "Electric Now": {
+      "tvg-id": "ElectricNow.us@SD",
+      "tvg-name": "Electric Now",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ElectricNow.us.webp",
+      "tvg-language": "English"
+    },
+    "Buzzr": {
+      "tvg-id": "Buzzr.us@SD",
+      "tvg-name": "Buzzr",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Buzzr.us.webp",
+      "tvg-language": "English"
+    },
+    "Entertainment Tonight": {
+      "tvg-id": "EntertainmentTonight.us@SD",
+      "tvg-name": "Entertainment Tonight",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EntertainmentTonight.us.webp",
+      "tvg-language": "English"
+    },
+    "HollyWire": {
+      "tvg-id": "HollyWire.us@SD",
+      "tvg-name": "HollyWire",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HollyWire.us.webp",
+      "tvg-language": "English"
+    },
+    "Circle": {
+      "tvg-id": "Circle.us@SD",
+      "tvg-name": "Circle",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Circle.us.webp",
+      "tvg-language": "English"
+    },
+    "ION Plus": {
+      "tvg-id": "IONPlus.us@East",
+      "tvg-name": "ION Plus",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IONPlus.us.webp",
+      "tvg-language": "English"
+    },
+    "Bounce XL": {
+      "tvg-id": "BounceXL.us@SD",
+      "tvg-name": "Bounce XL",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BounceXL.us.webp",
+      "tvg-language": "English"
+    },
+    "Absolute Reality by WE TV": {
+      "tvg-id": "AbsoluteRealitybyWETV.us@SD",
+      "tvg-name": "Absolute Reality by WE TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AbsoluteRealitybyWETV.us.webp",
+      "tvg-language": "English"
+    },
+    "Classic Arts Showcase": {
+      "tvg-id": "ClassicArtsShowcase.us@SD",
+      "tvg-name": "Classic Arts Showcase",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ClassicArtsShowcase.us.webp",
+      "tvg-language": "English"
+    },
+    "Nosey": {
+      "tvg-id": "Nosey.us@US",
+      "tvg-name": "Nosey",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Nosey.us.webp",
+      "tvg-language": "English"
+    },
+    "Kartoon Channel!": {
+      "tvg-id": "KartoonChannel.us@SD",
+      "tvg-name": "Kartoon Channel!",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/KartoonChannel.us.webp",
+      "tvg-language": "English"
+    },
+    "Mr Bean Animated": {
+      "tvg-id": "MrBeanAnimated.uk@English",
+      "tvg-name": "Mr Bean Animated",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MrBeanAnimated.uk.webp",
+      "tvg-language": "English"
+    },
+    "Smurf TV": {
+      "tvg-id": "SmurfTV.us@SD",
+      "tvg-name": "Smurf TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SmurfTV.us.webp",
+      "tvg-language": "English"
+    },
+    "Lego Channel": {
+      "tvg-id": "LegoChannel.us@SD",
+      "tvg-name": "Lego Channel",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/LegoChannel.us.webp",
+      "tvg-language": "English"
+    },
+    "Moonbug Kids": {
+      "tvg-id": "MoonbugKids.uk@SD",
+      "tvg-name": "Moonbug Kids",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/MoonbugKids.uk.webp",
+      "tvg-language": "English"
+    },
+    "Ryan and Friends": {
+      "tvg-id": "RyanandFriends.us@SD",
+      "tvg-name": "Ryan and Friends",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/RyanandFriends.us.webp",
+      "tvg-language": "English"
+    },
+    "Baby Shark TV": {
+      "tvg-id": "BabySharkTV.us@SD",
+      "tvg-name": "Baby Shark TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BabySharkTV.us.webp",
+      "tvg-language": "English"
+    },
+    "Super Simple Songs": {
+      "tvg-id": "SuperSimpleSongs.us@SD",
+      "tvg-name": "Super Simple Songs",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SuperSimpleSongs.us.webp",
+      "tvg-language": "English"
+    },
+    "Sonic TV": {
+      "tvg-id": "SonicTV.us@SD",
+      "tvg-name": "Sonic TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonicTV.us.webp",
+      "tvg-language": "English"
+    },
+    "TG Junior": {
+      "tvg-id": "TGJunior.us@SD",
+      "tvg-name": "TG Junior",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TGJunior.us.webp",
+      "tvg-language": "English"
+    },
+    "FashionBox": {
+      "tvg-id": "FashionBox.nl@SD",
+      "tvg-name": "FashionBox",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionBox.nl.webp",
+      "tvg-language": "English"
+    },
+    "Fashion Finds": {
+      "tvg-id": "FashionFinds.us@SD",
+      "tvg-name": "Fashion Finds",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionFinds.us.webp",
+      "tvg-language": "English"
+    },
+    "Fashion&LifeStyle": {
+      "tvg-id": "FashionLifeStyle.ru@SD",
+      "tvg-name": "Fashion&LifeStyle",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionLifeStyle.ru.webp",
+      "tvg-language": "English"
+    },
+    "FashionTV (Russia)": {
+      "tvg-id": "FashionTV.ru@SD",
+      "tvg-name": "FashionTV (Russia)",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTV.ru.webp",
+      "tvg-language": "fra"
+    },
+    "Superyacht TV": {
+      "tvg-id": "SuperyachtTV.mc@SD",
+      "tvg-name": "Superyacht TV",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SuperyachtTV.mc.webp",
+      "tvg-language": "English"
+    },
+    "The Design Network": {
+      "tvg-id": "TheDesignNetwork.us@SD",
+      "tvg-name": "The Design Network",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheDesignNetwork.us.webp",
+      "tvg-language": "English"
+    },
+    "The Jamie Oliver Channel": {
+      "tvg-id": "TheJamieOliverChannel.us@SD",
+      "tvg-name": "The Jamie Oliver Channel",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheJamieOliverChannel.us.webp",
+      "tvg-language": "English"
+    },
+    "NDTV Good Times": {
+      "tvg-id": "NDTVGoodTimes.in@SD",
+      "tvg-name": "NDTV Good Times",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVGoodTimes.in.webp",
+      "tvg-language": "English;Hindi;tam"
+    },
+    "World Fashion Channel International": {
+      "tvg-id": "WorldFashionChannelInternational.ru@HD",
+      "tvg-name": "World Fashion Channel International",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WorldFashionChannelInternational.ru.webp",
+      "tvg-language": "English"
     }
   }
 }

@@ -6,6 +6,16 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 - [Combined programme guide](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz)
 - Sources: Odia, Doordarshan, News, Hindi Music, English Music, Hindi Entertainment, English Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
 
+## November 1, 2026: entertainment, fashion and cartoons
+
+Added **39 playback-verified channels**: 10 English Entertainment, 10 Hindi Entertainment, 9 Lifestyle and 10 Kids. The playlist now has **280 unique streams**, all with local icons.
+
+Fashion additions include **FashionBox**, **Fashion&LifeStyle**, **FashionTV (Russia)** and **World Fashion Channel International**; the latter uses the broadcaster’s own live-page URL. Lifestyle also gains Fashion Finds (shopping), Superyacht TV, The Design Network, The Jamie Oliver Channel and NDTV Good Times. New cartoon choices include Mr Bean Animated, Smurf TV, Kartoon Channel!, LEGO Channel and Moonbug Kids.
+
+Every addition passed both video/audio probing and a five-second decode with non-silent audio. Comet and Garfield and Friends failed the decode timeout and were not added. Twelve matching programme-guide mappings were added; missing schedules have no invented programme entries. Original music groups and the 11 Stingray channels at the bottom of English Music are unchanged. Public links can change or be restricted; testing does not establish redistribution rights.
+
+[Full checks and channel list](reports/entertainment-lifestyle-kids-2026-11-01.json).
+
 ## November 1, 2026: more requested movie networks
 
 Added **HBO Family Asia (English)**, **HBO Signature Asia (English)**, **AMC (US, English)** and **iFilm English** under English Movies. Each passed audio/video probing and an eight-second decode sample. AMC currently uses an SD MPEG2 feed; no HD quality is promised despite the upstream feed identifier. iFilm English carries English-dubbed Iranian films/series. Matching Singapore HBO Family/Signature and US AMC guides are included; no verified current iFilm guide was found.

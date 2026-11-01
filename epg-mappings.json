@@ -725,6 +725,66 @@
       "name": "AMC (US, English)",
       "source": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
       "source_channel": "AMC.HD.us2"
+    },
+    "E24.in@SD": {
+      "name": "E 24",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+      "source_channel": "E.24.in"
+    },
+    "ElectricNow.us@SD": {
+      "name": "Electric Now",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Electric.Now.plex"
+    },
+    "Buzzr.us@SD": {
+      "name": "Buzzr",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.BUZZR.plex"
+    },
+    "IONPlus.us@East": {
+      "name": "ION Plus",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.ION.Plus.plex"
+    },
+    "BounceXL.us@SD": {
+      "name": "Bounce XL",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Bounce.XL.plex"
+    },
+    "Nosey.us@US": {
+      "name": "Nosey",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Nosey.plex"
+    },
+    "KartoonChannel.us@SD": {
+      "name": "Kartoon Channel!",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "source_channel": "Kartoon.Channel.us2"
+    },
+    "RyanandFriends.us@SD": {
+      "name": "Ryan and Friends",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Ryan.and.Friends.plex"
+    },
+    "BabySharkTV.us@SD": {
+      "name": "Baby Shark TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.BABY.SHARK.TV.plex"
+    },
+    "SonicTV.us@SD": {
+      "name": "Sonic TV",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.Sonic.TV.plex"
+    },
+    "TGJunior.us@SD": {
+      "name": "TG Junior",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.TG.Junior.plex"
+    },
+    "TheDesignNetwork.us@SD": {
+      "name": "The Design Network",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
+      "source_channel": "plex.tv.The.Design.Network.plex"
     }
   }
 }

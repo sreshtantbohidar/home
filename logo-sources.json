@@ -1619,5 +1619,317 @@
     "names": [
       "iFilm English"
     ]
+  },
+  "AlrightTV.in": {
+    "file": "logos/AlrightTV.in.webp",
+    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Alright! TV"
+    ]
+  },
+  "AnmolTV.in": {
+    "file": "logos/AnmolTV.in.webp",
+    "source": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Anmol TV"
+    ]
+  },
+  "E24.in": {
+    "file": "logos/E24.in.webp",
+    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "E 24"
+    ]
+  },
+  "GangaurTV.in": {
+    "file": "logos/GangaurTV.in.webp",
+    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Gangaur TV"
+    ]
+  },
+  "Mango.in": {
+    "file": "logos/Mango.in.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Mango"
+    ]
+  },
+  "ManoranjanTV.in": {
+    "file": "logos/ManoranjanTV.in.webp",
+    "source": "https://dtil.tmsimg.com/assets/s143304_ld_h15_aa.png?lock=720x540",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Manoranjan TV"
+    ]
+  },
+  "MHOneDilSe.in": {
+    "file": "logos/MHOneDilSe.in.webp",
+    "source": "https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "MH One Dil Se"
+    ]
+  },
+  "QTV.in": {
+    "file": "logos/QTV.in.webp",
+    "source": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Q TV"
+    ]
+  },
+  "StarBharat.uk": {
+    "file": "logos/StarBharat.uk.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Star Bharat (UK)"
+    ]
+  },
+  "Zingabad.in": {
+    "file": "logos/Zingabad.in.webp",
+    "source": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Zingabad"
+    ]
+  },
+  "ElectricNow.us": {
+    "file": "logos/ElectricNow.us.webp",
+    "source": "https://provider-static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Electric Now"
+    ]
+  },
+  "Buzzr.us": {
+    "file": "logos/Buzzr.us.webp",
+    "source": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122019/buzzr-01.png?XpxREagj3UuXaSkmg8dIrgARuDpSggra&itok=lEDMDvuS",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Buzzr"
+    ]
+  },
+  "EntertainmentTonight.us": {
+    "file": "logos/EntertainmentTonight.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Entertainment Tonight"
+    ]
+  },
+  "HollyWire.us": {
+    "file": "logos/HollyWire.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "HollyWire"
+    ]
+  },
+  "Circle.us": {
+    "file": "logos/Circle.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Circle"
+    ]
+  },
+  "IONPlus.us": {
+    "file": "logos/IONPlus.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "ION Plus"
+    ]
+  },
+  "BounceXL.us": {
+    "file": "logos/BounceXL.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Bounce XL"
+    ]
+  },
+  "AbsoluteRealitybyWETV.us": {
+    "file": "logos/AbsoluteRealitybyWETV.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Absolute Reality by WE TV"
+    ]
+  },
+  "ClassicArtsShowcase.us": {
+    "file": "logos/ClassicArtsShowcase.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Classic Arts Showcase"
+    ]
+  },
+  "Nosey.us": {
+    "file": "logos/Nosey.us.webp",
+    "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsv_KrZtWIiODx5w-aXTru0YMO446I8ukXc5P0rPKrQg&s",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Nosey"
+    ]
+  },
+  "KartoonChannel.us": {
+    "file": "logos/KartoonChannel.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Kartoon Channel!"
+    ]
+  },
+  "MrBeanAnimated.uk": {
+    "file": "logos/MrBeanAnimated.uk.webp",
+    "source": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "Mr Bean Animated"
+    ]
+  },
+  "SmurfTV.us": {
+    "file": "logos/SmurfTV.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Smurf TV"
+    ]
+  },
+  "LegoChannel.us": {
+    "file": "logos/LegoChannel.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Lego Channel"
+    ]
+  },
+  "MoonbugKids.uk": {
+    "file": "logos/MoonbugKids.uk.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Moonbug Kids"
+    ]
+  },
+  "RyanandFriends.us": {
+    "file": "logos/RyanandFriends.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Ryan and Friends"
+    ]
+  },
+  "BabySharkTV.us": {
+    "file": "logos/BabySharkTV.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Baby Shark TV"
+    ]
+  },
+  "SuperSimpleSongs.us": {
+    "file": "logos/SuperSimpleSongs.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Super Simple Songs"
+    ]
+  },
+  "SonicTV.us": {
+    "file": "logos/SonicTV.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Sonic TV"
+    ]
+  },
+  "TGJunior.us": {
+    "file": "logos/TGJunior.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "TG Junior"
+    ]
+  },
+  "FashionBox.nl": {
+    "file": "logos/FashionBox.nl.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "FashionBox"
+    ]
+  },
+  "FashionFinds.us": {
+    "file": "logos/FashionFinds.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Fashion Finds"
+    ]
+  },
+  "FashionLifeStyle.ru": {
+    "file": "logos/FashionLifeStyle.ru.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Fashion&LifeStyle"
+    ]
+  },
+  "FashionTV.ru": {
+    "file": "logos/FashionTV.ru.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "FashionTV (Russia)"
+    ]
+  },
+  "SuperyachtTV.mc": {
+    "file": "logos/SuperyachtTV.mc.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "Superyacht TV"
+    ]
+  },
+  "TheDesignNetwork.us": {
+    "file": "logos/TheDesignNetwork.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "The Design Network"
+    ]
+  },
+  "TheJamieOliverChannel.us": {
+    "file": "logos/TheJamieOliverChannel.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "The Jamie Oliver Channel"
+    ]
+  },
+  "NDTVGoodTimes.in": {
+    "file": "logos/NDTVGoodTimes.in.webp",
+    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",
+    "kind": "broadcaster_logo",
+    "names": [
+      "NDTV Good Times"
+    ]
+  },
+  "WorldFashionChannelInternational.ru": {
+    "file": "logos/WorldFashionChannelInternational.ru.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "World Fashion Channel International"
+    ]
   }
 }

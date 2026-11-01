@@ -17,3 +17,30 @@ https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-id="GoTraveler.us@SD" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GoTraveler.us.webp" tvg-name="GoTraveler",GoTraveler
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionBox.nl@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionBox.nl.webp" tvg-name="FashionBox",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionFinds.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionFinds.us.webp" tvg-name="Fashion Finds",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionLifeStyle.ru@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionLifeStyle.ru.webp" tvg-name="Fashion&LifeStyle",Fashion&LifeStyle
+http://stream.mcquack.net/119/index.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="FashionTV.ru@SD" tvg-language="fra" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/FashionTV.ru.webp" tvg-name="FashionTV (Russia)",FashionTV (Russia)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="SuperyachtTV.mc@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SuperyachtTV.mc.webp" tvg-name="Superyacht TV",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TheDesignNetwork.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheDesignNetwork.us.webp" tvg-name="The Design Network",The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="TheJamieOliverChannel.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/TheJamieOliverChannel.us.webp" tvg-name="The Jamie Oliver Channel",The Jamie Oliver Channel
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="NDTVGoodTimes.in@SD" tvg-language="English;Hindi;tam" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/NDTVGoodTimes.in.webp" tvg-name="NDTV Good Times",NDTV Good Times
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+
+#EXTINF:-1 group-title="Lifestyle" tvg-id="WorldFashionChannelInternational.ru@HD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/WorldFashionChannelInternational.ru.webp" tvg-name="World Fashion Channel International",World Fashion Channel International
+https://cdn.wfc.tv/cdn/stream-eng.m3u8

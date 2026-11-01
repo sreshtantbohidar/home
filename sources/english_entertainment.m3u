@@ -2,3 +2,33 @@
 
 #EXTINF:-1 group-title="English Entertainment" tvg-id="AXNAsia.sg@Indonesia" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AXNAsia.sg.webp" tvg-name="AXN Asia (English)",AXN Asia (English)
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="ElectricNow.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ElectricNow.us.webp" tvg-name="Electric Now",Electric Now
+https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="Buzzr.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Buzzr.us.webp" tvg-name="Buzzr",Buzzr
+https://buzzrota-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="EntertainmentTonight.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EntertainmentTonight.us.webp" tvg-name="Entertainment Tonight",Entertainment Tonight
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="HollyWire.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HollyWire.us.webp" tvg-name="HollyWire",HollyWire
+https://di1slo8304ver.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="Circle.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Circle.us.webp" tvg-name="Circle",Circle
+https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="IONPlus.us@East" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/IONPlus.us.webp" tvg-name="ION Plus",ION Plus
+https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="BounceXL.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/BounceXL.us.webp" tvg-name="Bounce XL",Bounce XL
+https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="AbsoluteRealitybyWETV.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AbsoluteRealitybyWETV.us.webp" tvg-name="Absolute Reality by WE TV",Absolute Reality by WE TV
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="ClassicArtsShowcase.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/ClassicArtsShowcase.us.webp" tvg-name="Classic Arts Showcase",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 group-title="English Entertainment" tvg-id="Nosey.us@US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Nosey.us.webp" tvg-name="Nosey",Nosey
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
