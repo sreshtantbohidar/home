@@ -404,6 +404,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_cha
 https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="English Movies" tvg-id="HBOAsia.sg@HD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOAsia.sg.webp" tvg-name="HBO Asia (English)",HBO Asia (English)
 http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="HBOFamilyAsia.sg@HD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOFamilyAsia.sg.webp" tvg-name="HBO Family Asia (English)",HBO Family Asia (English)
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="HBOSignatureAsia.sg@HD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOSignatureAsia.sg.webp" tvg-name="HBO Signature Asia (English)",HBO Signature Asia (English)
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="AMC.us@EastHD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AMC.us.webp" tvg-name="AMC (US, English)",AMC (US, English)
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="English Movies" tvg-id="iFilmEnglish.ir@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/iFilmEnglish.ir.webp" tvg-name="iFilm English",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="SONY.YAY!.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonyYay.in.webp" tvg-name="Sony Yay!",Sony Yay! (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20YAY.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Animax.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Animax.in.webp" tvg-name="Animax",ANIMAX

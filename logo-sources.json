@@ -1587,5 +1587,37 @@
     "names": [
       "HBO Asia (English)"
     ]
+  },
+  "HBOFamilyAsia.sg": {
+    "file": "logos/HBOFamilyAsia.sg.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "HBO Family Asia (English)"
+    ]
+  },
+  "HBOSignatureAsia.sg": {
+    "file": "logos/HBOSignatureAsia.sg.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "HBO Signature Asia (English)"
+    ]
+  },
+  "AMC.us": {
+    "file": "logos/AMC.us.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "AMC (US, English)"
+    ]
+  },
+  "iFilmEnglish.ir": {
+    "file": "logos/iFilmEnglish.ir.webp",
+    "source": null,
+    "kind": "generated_text_badge",
+    "names": [
+      "iFilm English"
+    ]
   }
 }

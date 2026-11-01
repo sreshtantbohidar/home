@@ -1264,6 +1264,30 @@
       "tvg-name": "HBO Asia (English)",
       "tvg-language": "English",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOAsia.sg.webp"
+    },
+    "HBO Family Asia (English)": {
+      "tvg-id": "HBOFamilyAsia.sg@HD",
+      "tvg-name": "HBO Family Asia (English)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOFamilyAsia.sg.webp"
+    },
+    "HBO Signature Asia (English)": {
+      "tvg-id": "HBOSignatureAsia.sg@HD",
+      "tvg-name": "HBO Signature Asia (English)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/HBOSignatureAsia.sg.webp"
+    },
+    "AMC (US, English)": {
+      "tvg-id": "AMC.us@EastHD",
+      "tvg-name": "AMC (US, English)",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/AMC.us.webp"
+    },
+    "iFilm English": {
+      "tvg-id": "iFilmEnglish.ir@SD",
+      "tvg-name": "iFilm English",
+      "tvg-language": "English",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/iFilmEnglish.ir.webp"
     }
   }
 }

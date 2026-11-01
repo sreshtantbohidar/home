@@ -6,6 +6,12 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 - [Combined programme guide](https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/guide.xml.gz)
 - Sources: Odia, Doordarshan, News, Hindi Music, English Music, Hindi Entertainment, English Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
 
+## November 1, 2026: more requested movie networks
+
+Added **HBO Family Asia (English)**, **HBO Signature Asia (English)**, **AMC (US, English)** and **iFilm English** under English Movies. Each passed audio/video probing and an eight-second decode sample. AMC currently uses an SD MPEG2 feed; no HD quality is promised despite the upstream feed identifier. iFilm English carries English-dubbed Iranian films/series. Matching Singapore HBO Family/Signature and US AMC guides are included; no verified current iFilm guide was found.
+
+Sony Pix, Movies Now, TCM, MBC Max and ShortsTV candidates failed. No unambiguous Real Channel feed was verified. The located FX 1 service is Persian-language and was not added to English Movies. [Full requested-channel results](reports/expanded-movie-research-2026-11-01.json). The playlist now contains **241 unique streams**, all with local icons.
+
 ## November 1, 2026: AXN / HBO / Star Movies / MGM research
 
 Added **AXN Asia (English)** under a new English Entertainment group and **HBO Asia (English)** under English Movies. These are explicitly regional Asian feeds, not Indian channel feeds. Their audio tracks are tagged English and both passed audio/video probing plus eight-second decode samples. Matching Indonesian AXN and Singapore HBO guide mappings are included. Third-party public operator links can change and are not an official broadcaster promise of free distribution or stable access.

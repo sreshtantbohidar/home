@@ -1,0 +1,608 @@
+{
+  "checked_date": "2026-11-01",
+  "added": [
+    {
+      "name": "HBO Family Asia",
+      "url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOFamilyAsia.sg",
+      "feed": "HD",
+      "languages": [
+        "eng"
+      ],
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 1,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        }
+      ],
+      "decoded_seconds": 8
+    },
+    {
+      "name": "HBO Signature Asia",
+      "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOSignatureAsia.sg",
+      "feed": "HD",
+      "languages": [
+        "eng"
+      ],
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 1,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        }
+      ],
+      "decoded_seconds": 8
+    },
+    {
+      "name": "AMC",
+      "url": "http://23.239.31.26:8989/amc/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "mpeg2video",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AMC.us",
+      "feed": "EastHD",
+      "languages": [
+        "eng"
+      ],
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "mpeg2video",
+          "codec_type": "video",
+          "tags": {},
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "mp2",
+          "codec_type": "audio",
+          "tags": {
+            "language": "eng"
+          }
+        }
+      ],
+      "decoded_seconds": 8
+    },
+    {
+      "name": "iFilm English",
+      "url": "https://live.presstv.co.uk/hls/ifilmen.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 480,
+          "height": 270
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "iFilmEnglish.ir",
+      "feed": "SD",
+      "languages": [
+        "eng"
+      ],
+      "language_probe": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "tags": {}
+        },
+        {
+          "index": 2,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 3,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "tags": {}
+        },
+        {
+          "index": 4,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "tags": {}
+        },
+        {
+          "index": 5,
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "tags": {}
+        }
+      ],
+      "decoded_seconds": 8
+    }
+  ],
+  "already_present": [
+    "HBO Asia (English)",
+    "AXN Asia (English)"
+  ],
+  "not_added": {
+    "Star Movies / Fox Movies": "No verified current English feed; checked Star Movies candidates failed; older Fox listings are not treated as an interchangeable current stream.",
+    "Sony Pix": "Three publicly listed Indian candidates failed.",
+    "Movies Now": "Four publicly listed candidates failed.",
+    "TCM": "Both official-looking US East/West candidate URLs were unavailable from this network. TCM 10 Brazil is a different channel and was not substituted.",
+    "MBC Max": "No current indexed master; second-repository candidate failed.",
+    "Real Channel": "No unambiguous current broadcaster identity and playable English movie feed verified.",
+    "FX 1 HD": "The found FX1.ir feed is listed as Persian-language, excluded from English Movies.",
+    "ShortsTV": "Publisher distinguishes premium ShortsTV from free Shorts FAST. Only an Italian FAST candidate was found and it failed; no verified English feed."
+  },
+  "notes": [
+    "All additions passed audio/video probes and eight-second local decode samples. HBO Family and Signature audio tags are English. AMC US audio is tagged English; source video is MPEG2 SD despite the upstream index feed label EastHD, so no HD quality is promised.",
+    "iFilm English is the official English-language Iranian film/series service; audio tags were absent and language follows the broadcaster service identity.",
+    "Regional schedules mapped for HBO Family/Signature (Singapore) and AMC (US). No current verified guide found for iFilm English.",
+    "Third-party operator endpoints can change; successful decoding does not establish continuous availability or redistribution rights. No account/DRM restrictions bypassed."
+  ],
+  "sources": [
+    "https://www.hbo.com/about",
+    "https://www.amc.com/",
+    "https://en.ifilmtv.ir/Iran/Content/43891/",
+    "https://shorts.tv/en/tv",
+    "https://github.com/iptv-org/api",
+    "https://github.com/Free-TV/IPTV"
+  ],
+  "candidate_checks": [
+    {
+      "name": "AMC",
+      "url": "http://23.239.31.26:8989/amc/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "mpeg2video",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "side_data_list": [
+            {}
+          ]
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AMC.us",
+      "feed": "EastHD",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "AMC",
+      "url": "http://41.205.93.154/AMC/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>",
+      "channel_id": "AMC.us",
+      "feed": "EastHD",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "AMC Europe",
+      "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "hevc",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AMCEurope.uk",
+      "feed": "CzechRepublic",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "AMC Europe",
+      "url": "http://88.212.7.14/live/amc_hun/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "AMCEurope.uk",
+      "feed": "Hungary",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "FX 1",
+      "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "FX1.ir",
+      "feed": "SD",
+      "languages": [
+        "fas"
+      ]
+    },
+    {
+      "name": "HBO Family Asia",
+      "url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOFamilyAsia.sg",
+      "feed": "HD",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "HBO Signature Asia",
+      "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1440,
+          "height": 1080
+        },
+        {
+          "codec_name": "mp2",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "HBOSignatureAsia.sg",
+      "feed": "HD",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "iFilm English",
+      "url": "https://live.presstv.co.uk/hls/ifilmen.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "http_status": 200,
+      "manifest_ok": true,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 480,
+          "height": 270
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "status": "audio_video_ok",
+      "channel_id": "iFilmEnglish.ir",
+      "feed": "SD",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "Movies Now",
+      "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden",
+      "channel_id": "MoviesNow.in",
+      "feed": "HD",
+      "languages": [
+        "eng",
+        "tam"
+      ]
+    },
+    {
+      "name": "Sony Pix",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden",
+      "channel_id": "SonyPix.in",
+      "feed": "HD",
+      "languages": [
+        "eng",
+        "hin",
+        "tam",
+        "tel"
+      ]
+    },
+    {
+      "name": "TCM",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden",
+      "channel_id": "TCM.us",
+      "feed": "East",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "TCM",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "HTTP Error 403: Forbidden",
+      "channel_id": "TCM.us",
+      "feed": "West",
+      "languages": [
+        "eng"
+      ]
+    },
+    {
+      "name": "MBC Max",
+      "url": "http://37.122.156.107:4000/play/a07i/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Shorts (Italy)",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "name": "Sony Pix",
+      "url": "http://103.55.144.46/hls/sonypixhd.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Sony Pix",
+      "url": "http://103.175.242.10:8080/sonypix/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Movies Now",
+      "url": "http://103.55.144.46/hls/movies-now.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Movies Now",
+      "url": "http://103.175.242.10:8080/moviesnow/index.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "name": "Movies Now",
+      "url": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+      "id": "",
+      "group": null,
+      "logo": "",
+      "status": "unavailable_at_check",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    }
+  ]
+}

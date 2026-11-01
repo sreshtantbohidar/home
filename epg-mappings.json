@@ -710,6 +710,21 @@
       "name": "HBO Asia (English)",
       "source": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
       "source_channel": "HBO.HD.sg"
+    },
+    "HBOFamilyAsia.sg@HD": {
+      "name": "HBO Family Asia (English)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
+      "source_channel": "HBO.Family.(HD).sg"
+    },
+    "HBOSignatureAsia.sg@HD": {
+      "name": "HBO Signature Asia (English)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
+      "source_channel": "HBO.Signature.(HD).sg"
+    },
+    "AMC.us@EastHD": {
+      "name": "AMC (US, English)",
+      "source": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz",
+      "source_channel": "AMC.HD.us2"
     }
   }
 }
