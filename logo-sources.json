@@ -1498,5 +1498,26 @@
     "names": [
       "Grjngo Western Movies"
     ]
+  },
+  "EpicMusic.in": {
+    "file": "logos/EpicMusic.in.webp",
+    "source": "https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540",
+    "names": [
+      "Epic Music"
+    ]
+  },
+  "Zoom.in": {
+    "file": "logos/Zoom.in.webp",
+    "source": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540",
+    "names": [
+      "Zoom"
+    ]
+  },
+  "Insync.in": {
+    "file": "logos/Insync.in.webp",
+    "source": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png",
+    "names": [
+      "Insync"
+    ]
   }
 }

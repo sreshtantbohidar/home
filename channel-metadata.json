@@ -1216,6 +1216,24 @@
       "tvg-name": "Grjngo Western Movies",
       "tvg-language": "English",
       "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/GrjngoWesternMovies.de.webp"
+    },
+    "Epic Music": {
+      "tvg-id": "EpicMusic.in@Digital",
+      "tvg-name": "Epic Music",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicMusic.in.webp"
+    },
+    "Zoom": {
+      "tvg-id": "Zoom.in@Nepal",
+      "tvg-name": "Zoom",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Zoom.in.webp"
+    },
+    "Insync": {
+      "tvg-id": "Insync.in@SD",
+      "tvg-name": "Insync",
+      "tvg-language": "Hindi",
+      "tvg-logo": "https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp"
     }
   }
 }

@@ -1,0 +1,562 @@
+{
+  "checked_date": "2026-11-01",
+  "sources": [
+    "https://github.com/iptv-org/api",
+    "https://www.epiccompany.com/assets/RIO_documents/RIO-17-04-26.pdf",
+    "https://www.zoomtventertainment.com/live-tv",
+    "https://insyncmusic.net/"
+  ],
+  "notes": "Epic Music is the former ShowBox. Zoom includes music and entertainment news/interviews. Insync is Indian classical, ghazal, Sufi and allied music, not a Bollywood-only song channel. Hindi feed language follows public index; not every program is exclusively Hindi. Steelbird and 7X/Andy Haryana excluded as Punjabi/Haryanvi-focused. Songdew/Boogle signed URLs and NH BollyRaga proxy-only link excluded. Deewana failed TLS and Dhamaal timed out. Existing Mastiii and 9X Jalwa not duplicated. All additions yielded audio and video in ffprobe, not a sustained playback or rights certification. Availability can change.",
+  "added": [
+    {
+      "id": "EpicMusic.in",
+      "name": "Epic Music",
+      "group": "Music",
+      "website": "https://www.showboxchannel.com/",
+      "stream": {
+        "channel": "EpicMusic.in",
+        "feed": "Digital",
+        "title": "Epic Music Digital",
+        "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "logo_source": "https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540"
+    },
+    {
+      "id": "Zoom.in",
+      "name": "Zoom",
+      "group": "Music",
+      "website": "https://www.zoomtventertainment.com/live-tv",
+      "stream": {
+        "channel": "Zoom.in",
+        "feed": "Nepal",
+        "title": "Zoom Nepal",
+        "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "application/json",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "logo_source": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "group": "Music",
+      "website": "http://www.insyncmusic.net/",
+      "stream": {
+        "channel": "Insync.in",
+        "feed": "SD",
+        "title": "Insync",
+        "url": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "logo_source": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png"
+    }
+  ],
+  "candidate_checks": [
+    {
+      "id": "DeewanaHD.in",
+      "name": "Deewana HD",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "DeewanaHD.in",
+        "feed": "SD",
+        "title": "Deewana HD",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+        "quality": "540p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)>"
+    },
+    {
+      "id": "Dhamaal.in",
+      "name": "Dhamaal",
+      "group": "Music",
+      "website": "http://www.dhamaal.tv/",
+      "stream": {
+        "channel": "Dhamaal.in",
+        "feed": "SD",
+        "title": "Dhamaal",
+        "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
+        "quality": "576p",
+        "labels": [
+          "Geo-blocked"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "failed",
+      "error": "The read operation timed out"
+    },
+    {
+      "id": "EpicMusic.in",
+      "name": "Epic Music",
+      "group": "Music",
+      "website": "https://www.showboxchannel.com/",
+      "stream": {
+        "channel": "EpicMusic.in",
+        "feed": "Digital",
+        "title": "Epic Music Digital",
+        "url": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8",
+        "quality": "1080p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "logo_source": "https://dtil.tmsimg.com/assets/GNLZZGG0032BWBW.png?lock=720x540"
+    },
+    {
+      "id": "EpicMusic.in",
+      "name": "Epic Music",
+      "group": "Music",
+      "website": "https://www.showboxchannel.com/",
+      "stream": {
+        "channel": "EpicMusic.in",
+        "feed": "SD",
+        "title": "Epic Music",
+        "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "EpicMusic.in",
+      "name": "Epic Music",
+      "group": "Music",
+      "website": "https://www.showboxchannel.com/",
+      "stream": {
+        "channel": "EpicMusic.in",
+        "feed": "SD",
+        "title": "Epic Music",
+        "url": "https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    },
+    {
+      "id": "EpicMusic.in",
+      "name": "Epic Music",
+      "group": "Music",
+      "website": "https://www.showboxchannel.com/",
+      "stream": {
+        "channel": "EpicMusic.in",
+        "feed": "SD",
+        "title": "Epic Music",
+        "url": "https://fta.ektv.in/live/469/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "group": "Music",
+      "website": "http://www.insyncmusic.net/",
+      "stream": {
+        "channel": "Insync.in",
+        "feed": "SD",
+        "title": "Insync",
+        "url": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "logo_source": "https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png"
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "group": "Music",
+      "website": "http://www.insyncmusic.net/",
+      "stream": {
+        "channel": "Insync.in",
+        "feed": "SD",
+        "title": "Insync",
+        "url": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/m2ts",
+      "encrypted": false
+    },
+    {
+      "id": "Insync.in",
+      "name": "Insync",
+      "group": "Music",
+      "website": "http://www.insyncmusic.net/",
+      "stream": {
+        "channel": "Insync.in",
+        "feed": "SD",
+        "title": "Insync",
+        "url": "https://fta.ektv.in/live/160/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "SteelbirdMusic.in",
+      "name": "Steelbird Music",
+      "group": "Music",
+      "website": null,
+      "stream": {
+        "channel": "SteelbirdMusic.in",
+        "feed": "SD",
+        "title": "Steelbird Music",
+        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+        "quality": "720p",
+        "labels": [
+          "Not 24/7"
+        ],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/mp2t",
+      "encrypted": false
+    },
+    {
+      "id": "Zoom.in",
+      "name": "Zoom",
+      "group": "Music",
+      "website": "https://www.zoomtventertainment.com/live-tv",
+      "stream": {
+        "channel": "Zoom.in",
+        "feed": "Nepal",
+        "title": "Zoom Nepal",
+        "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "application/json",
+      "encrypted": false,
+      "probe_ok": true,
+      "probe": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 854,
+          "height": 480
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        },
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        },
+        {
+          "codec_name": "scte_35",
+          "codec_type": "data"
+        }
+      ],
+      "logo_source": "https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "id": "Zoom.in",
+      "name": "Zoom",
+      "group": "Music",
+      "website": "https://www.zoomtventertainment.com/live-tv",
+      "stream": {
+        "channel": "Zoom.in",
+        "feed": "SD",
+        "title": "Zoom",
+        "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+        "quality": "720p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "application/json",
+      "encrypted": false
+    },
+    {
+      "id": "Zoom.in",
+      "name": "Zoom",
+      "group": "Music",
+      "website": "https://www.zoomtventertainment.com/live-tv",
+      "stream": {
+        "channel": "Zoom.in",
+        "feed": "SD",
+        "title": "Zoom",
+        "url": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "application/json",
+      "encrypted": false
+    },
+    {
+      "id": "Zoom.in",
+      "name": "Zoom",
+      "group": "Music",
+      "website": "https://www.zoomtventertainment.com/live-tv",
+      "stream": {
+        "channel": "Zoom.in",
+        "feed": "SD",
+        "title": "Zoom",
+        "url": "https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8",
+        "quality": "576p",
+        "labels": [],
+        "user_agent": null,
+        "referrer": null
+      },
+      "status": "ok",
+      "segment_bytes": 4096,
+      "segment_content_type": "video/MP2T",
+      "encrypted": false
+    }
+  ]
+}

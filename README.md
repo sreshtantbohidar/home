@@ -6,6 +6,12 @@ A categorized M3U playlist for Next Gen and other compatible IPTV players.
 - Guide: https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 - Sources: Odia, Doordarshan, News, Music, Hindi Entertainment, Movies, English Movies, Kids, Sports, Knowledge and Lifestyle under `sources/`.
 
+## November 1, 2026: Hindi music follow-up
+
+Added **Epic Music** (formerly ShowBox), **Zoom** (music plus entertainment news/interviews), and **Insync** (Indian classical, ghazal, Sufi and allied music) under Music. These are Hindi-feed additions; Insync is not a Bollywood-only channel and programs may include other languages. Existing Mastiii and 9X Jalwa were not duplicated. The combined playlist now contains **235 unique streams**.
+
+Checked 14 candidate URLs and confirmed audio and video for all three selected streams. Punjabi/Haryanvi-focused channels, signed account-dependent links, proxy-only links and candidates failing TLS/timeouts were left out. The [research report](reports/hindi-music-2026-11-01.json) records candidates, codec results and broadcaster references. Availability and permissions remain provider-dependent.
+
 ## November 1, 2026: more music and movie channels
 
 Added **37 new channel identities and stream URLs**: **22** in Music, **7** in English Movies and **8 Hindi movie channels** in Movies. The combined playlist now contains **232 unique stream URLs**. Existing channel URLs and categories are preserved; Goldmines Movies was skipped because its stream already exists as Gold Mines Movie.

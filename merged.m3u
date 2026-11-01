@@ -242,6 +242,12 @@ https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="XITE90sThrowback.us@SD" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/XITE90sThrowback.us.webp" tvg-name="XITE 90's Throwback",XITE 90's Throwback
 https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="EpicMusic.in@Digital" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicMusic.in.webp" tvg-name="Epic Music",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Zoom.in@Nepal" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Zoom.in.webp" tvg-name="Zoom",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="Insync.in@SD" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/Insync.in.webp" tvg-name="Insync",Insync
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id="Sony.SAB.HD.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/SonySAB.in.webp" tvg-name="Sony SAB",Sony SAB HD (1080p) [Geo-blocked]
 https://sl.vodep39240327.workers.dev/channel/SONY%20SAB%20HD.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id="NAZARA.in" tvg-logo="https://raw.githubusercontent.com/sreshtantbohidar/home/refs/heads/main/logos/EpicBharat.in.webp" tvg-name="Epic Bharat",Nazara (1080p)
